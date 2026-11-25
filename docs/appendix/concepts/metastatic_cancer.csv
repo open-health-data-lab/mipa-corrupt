@@ -1,0 +1,2293 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+metastatic_cancer,C0013404,proposed,grounded,keep,symptom,1,1872,1,648
+metastatic_cancer,C0027627,closure,one-hop neighbourhood,keep,disease,1,1847,1,665
+metastatic_cancer,C0032952,medication,lift,keep,medication,1,932,1,397
+metastatic_cancer,C0006826,closure,one-hop neighbourhood,keep,disease,1,726,1,265
+metastatic_cancer,C0003962,proposed,grounded,keep,symptom,1,469,1,159
+metastatic_cancer,C1522449,proposed,grounded,keep,procedure,1,362,1,121
+metastatic_cancer,C0025677,medication,lift,keep,medication,1,360,1,103
+metastatic_cancer,C0028081,proposed,grounded,keep,symptom,1,229,1,79
+metastatic_cancer,C1533720,medication,identity,auto,medication,1,201,1,58
+metastatic_cancer,C0019079,proposed,grounded,keep,symptom,1,140,1,60
+metastatic_cancer,C0012203,medication,lift,keep,medication,1,132,1,21
+metastatic_cancer,C0993472,medication,identity,auto,medication,1,131,1,51
+metastatic_cancer,C0032743,proposed,grounded,keep,procedure,1,109,1,40
+metastatic_cancer,C0000731,proposed,grounded,keep,finding,1,97,1,35
+metastatic_cancer,C0010583,medication,lift,keep,medication,1,83,1,26
+metastatic_cancer,C0016663,proposed,grounded,keep,disease,1,82,1,15
+metastatic_cancer,C0079083,medication,lift,keep,medication,1,82,1,25
+metastatic_cancer,C0005954,proposed,grounded,keep,procedure,1,80,1,31
+metastatic_cancer,C0008838,medication,lift,keep,medication,1,76,1,39
+metastatic_cancer,C0989247,medication,identity,auto,medication,1,69,1,30
+metastatic_cancer,C0678133,medication,identity,auto,medication,1,59,1,16
+metastatic_cancer,C0123931,medication,lift,keep,medication,1,53,1,23
+metastatic_cancer,C0205699,proposed,grounded,keep,disease,1,44,1,7
+metastatic_cancer,C0013089,medication,lift,keep,medication,1,40,1,10
+metastatic_cancer,C1510483,proposed,grounded,keep,procedure,1,40,1,19
+metastatic_cancer,C0015133,medication,lift,keep,medication,1,39,1,33
+metastatic_cancer,C0699319,medication,identity,auto,medication,1,39,1,18
+metastatic_cancer,C3657270,medication,lift,keep,medication,1,39,1,11
+metastatic_cancer,C0085752,medication,identity,auto,medication,1,38,1,9
+metastatic_cancer,C1699633,proposed,grounded,keep,procedure,1,38,1,7
+metastatic_cancer,C0037926,proposed,grounded,keep,disease,1,35,1,9
+metastatic_cancer,C3658706,medication,lift,keep,medication,1,35,1,18
+metastatic_cancer,C0019209,proposed,grounded,keep,finding,1,34,1,11
+metastatic_cancer,C0995188,medication,lift,keep,medication,1,34,1,17
+metastatic_cancer,C0006625,proposed,grounded,keep,symptom,1,34,1,11
+metastatic_cancer,C1382730,medication,identity,auto,medication,1,33,1,21
+metastatic_cancer,C0153676,proposed,grounded,keep,disease,1,31,1,12
+metastatic_cancer,C1522405,closure,one-hop neighbourhood,keep,medication,1,31,1,19
+metastatic_cancer,C0494165,proposed,grounded,keep,disease,1,30,1,11
+metastatic_cancer,C0279284,medication,identity,auto,medication,1,28,1,5
+metastatic_cancer,C0992820,medication,identity,auto,medication,1,28,1,12
+metastatic_cancer,C0038833,proposed,grounded,keep,disease,1,27,1,11
+metastatic_cancer,C0144576,medication,lift,keep,medication,1,27,1,13
+metastatic_cancer,C0989246,medication,identity,auto,medication,1,27,1,10
+metastatic_cancer,C2057774,proposed,grounded,keep,procedure,1,27,1,7
+metastatic_cancer,C0220650,proposed,grounded,keep,disease,1,25,1,8
+metastatic_cancer,C0039286,medication,lift,keep,medication,1,23,1,8
+metastatic_cancer,C1367202,medication,lift,keep,medication,1,23,1,8
+metastatic_cancer,C0278678,closure,one-hop neighbourhood,keep,disease,1,22,1,9
+metastatic_cancer,C0153690,proposed,grounded,keep,disease,1,19,1,7
+metastatic_cancer,C0042679,medication,lift,keep,medication,1,19,1,12
+metastatic_cancer,C2980094,medication,lift,keep,medication,1,18,1,5
+metastatic_cancer,C0027667,closure,one-hop neighbourhood,keep,disease,1,17,1,5
+metastatic_cancer,C0080032,proposed,grounded,keep,disease,1,16,1,2
+metastatic_cancer,C1700874,medication,lift,keep,medication,1,16,1,11
+metastatic_cancer,C3192263,medication,lift,keep,medication,1,16,0,0
+metastatic_cancer,C0699700,medication,identity,auto,medication,1,15,1,8
+metastatic_cancer,C1127565,medication,identity,auto,medication,1,15,1,9
+metastatic_cancer,C1382729,medication,identity,auto,medication,1,15,1,5
+metastatic_cancer,C4055433,medication,lift,keep,medication,1,15,1,15
+metastatic_cancer,C0220656,proposed,grounded,keep,disease,1,14,0,0
+metastatic_cancer,C0131965,medication,identity,auto,medication,1,14,1,2
+metastatic_cancer,C1516119,medication,lift,keep,medication,1,14,1,10
+metastatic_cancer,C0021044,proposed,grounded,keep,procedure,1,14,1,4
+metastatic_cancer,C3181682,medication,lift,keep,medication,1,13,1,11
+metastatic_cancer,C0749155,proposed,grounded,keep,disease,1,12,0,0
+metastatic_cancer,C0020823,medication,lift,keep,medication,1,12,1,7
+metastatic_cancer,C0278987,disorder,descendant closure,auto,disease,1,11,1,2
+metastatic_cancer,C0686377,disorder,descendant closure,auto,disease,1,11,1,3
+metastatic_cancer,C0239233,proposed,grounded,keep,symptom,1,11,1,2
+metastatic_cancer,C4721779,disorder,descendant closure,auto,disease,1,10,1,7
+metastatic_cancer,C0010927,medication,lift,keep,medication,1,10,1,1
+metastatic_cancer,C0989251,medication,identity,auto,medication,1,10,1,4
+metastatic_cancer,C1564985,medication,identity,auto,medication,1,9,1,5
+metastatic_cancer,C1883256,proposed,grounded,keep,procedure,1,9,0,0
+metastatic_cancer,C0346975,disorder,descendant closure,auto,disease,1,8,1,1
+metastatic_cancer,C2939419,proposed,grounded,keep,disease,1,8,1,4
+metastatic_cancer,C0026259,medication,lift,keep,medication,1,8,1,2
+metastatic_cancer,C0076080,medication,lift,keep,medication,1,8,1,4
+metastatic_cancer,C0935989,medication,lift,keep,medication,1,8,1,5
+metastatic_cancer,C1698963,medication,identity,auto,medication,1,8,1,1
+metastatic_cancer,C3467876,medication,lift,keep,medication,1,8,0,0
+metastatic_cancer,C0748164,proposed,grounded,keep,finding,1,7,1,3
+metastatic_cancer,C0005740,medication,lift,keep,medication,1,7,1,3
+metastatic_cancer,C0016360,medication,lift,keep,medication,1,7,0,0
+metastatic_cancer,C0025241,medication,lift,keep,medication,1,7,1,2
+metastatic_cancer,C0699967,medication,identity,auto,medication,1,7,1,2
+metastatic_cancer,C1176020,medication,lift,keep,medication,1,7,1,5
+metastatic_cancer,C0201549,proposed,grounded,keep,procedure,1,7,1,1
+metastatic_cancer,C0151825,proposed,grounded,keep,symptom,1,7,1,2
+metastatic_cancer,C4698656,proposed,grounded,keep,disease,1,6,1,3
+metastatic_cancer,C0078257,medication,lift,keep,medication,1,6,1,3
+metastatic_cancer,C1127564,medication,identity,auto,medication,1,6,1,4
+metastatic_cancer,C2697961,medication,lift,keep,medication,1,6,0,0
+metastatic_cancer,C4237933,medication,identity,auto,medication,1,6,1,3
+metastatic_cancer,C0006098,proposed,grounded,keep,procedure,1,6,1,2
+metastatic_cancer,C1384494,proposed,grounded,keep,disease,1,5,1,3
+metastatic_cancer,C0092801,medication,lift,keep,medication,1,5,0,0
+metastatic_cancer,C1132474,medication,identity,auto,medication,1,5,1,3
+metastatic_cancer,C1677790,medication,identity,auto,medication,1,5,1,2
+metastatic_cancer,C3899947,medication,lift,keep,medication,1,5,0,0
+metastatic_cancer,C0153687,proposed,grounded,keep,disease,1,4,0,0
+metastatic_cancer,C0238258,proposed,grounded,keep,disease,1,4,1,3
+metastatic_cancer,C0346976,disorder,descendant closure,auto,disease,1,4,0,0
+metastatic_cancer,C0346989,proposed,grounded,keep,disease,1,4,1,1
+metastatic_cancer,C0686619,proposed,grounded,keep,disease,1,4,1,3
+metastatic_cancer,C0025147,medication,lift,keep,medication,1,4,0,0
+metastatic_cancer,C0065864,medication,lift,keep,medication,1,4,1,2
+metastatic_cancer,C0146224,medication,lift,keep,medication,1,4,0,0
+metastatic_cancer,C0246415,medication,lift,keep,medication,1,4,1,2
+metastatic_cancer,C0935987,medication,identity,auto,medication,1,4,1,3
+metastatic_cancer,C1723829,medication,identity,auto,medication,1,4,1,3
+metastatic_cancer,C2344617,medication,identity,auto,medication,1,4,1,4
+metastatic_cancer,C4079208,medication,lift,keep,medication,1,4,0,0
+metastatic_cancer,C4551002,medication,identity,auto,medication,1,4,0,0
+metastatic_cancer,C1520143,proposed,grounded,keep,procedure,1,4,0,0
+metastatic_cancer,C1868801,proposed,grounded,keep,procedure,1,4,1,1
+metastatic_cancer,C0153678,disorder,descendant closure,auto,disease,1,3,0,0
+metastatic_cancer,C0278883,proposed,grounded,keep,disease,1,3,1,2
+metastatic_cancer,C4087471,disorder,descendant closure,auto,disease,1,3,0,0
+metastatic_cancer,C4763762,disorder,descendant closure,auto,disease,1,3,0,0
+metastatic_cancer,C0876179,medication,identity,auto,medication,1,3,1,3
+metastatic_cancer,C1382733,medication,identity,auto,medication,1,3,0,0
+metastatic_cancer,C1455147,medication,lift,keep,medication,1,3,1,2
+metastatic_cancer,C4704259,medication,identity,auto,medication,1,3,0,0
+metastatic_cancer,C0843887,proposed,grounded,keep,procedure,1,3,1,3
+metastatic_cancer,C2711393,proposed,grounded,keep,procedure,1,3,0,0
+metastatic_cancer,C3896609,proposed,grounded,keep,procedure,1,3,1,3
+metastatic_cancer,C0162679,disorder,descendant closure,auto,disease,1,2,1,2
+metastatic_cancer,C0220654,proposed,grounded,keep,disease,1,2,0,0
+metastatic_cancer,C0278586,disorder,descendant closure,auto,disease,1,2,0,0
+metastatic_cancer,C0684550,disorder,descendant closure,auto,disease,1,2,0,0
+metastatic_cancer,C0855056,disorder,descendant closure,auto,disease,1,2,1,2
+metastatic_cancer,C4721579,disorder,descendant closure,auto,disease,1,2,0,0
+metastatic_cancer,C5787535,disorder,descendant closure,auto,disease,1,2,0,0
+metastatic_cancer,C0002475,medication,lift,keep,medication,1,2,1,2
+metastatic_cancer,C0039736,medication,lift,keep,medication,1,2,0,0
+metastatic_cancer,C0045010,medication,lift,keep,medication,1,2,0,0
+metastatic_cancer,C0751600,medication,identity,auto,medication,1,2,1,2
+metastatic_cancer,C0990566,medication,identity,auto,medication,1,2,0,0
+metastatic_cancer,C1382727,medication,identity,auto,medication,1,2,0,0
+metastatic_cancer,C1724049,medication,identity,auto,medication,1,2,1,2
+metastatic_cancer,C2930145,medication,identity,auto,medication,1,2,0,0
+metastatic_cancer,C3644516,medication,identity,auto,medication,1,2,0,0
+metastatic_cancer,C4329353,medication,lift,keep,medication,1,2,0,0
+metastatic_cancer,C0474700,closure,one-hop neighbourhood,keep,procedure,1,2,1,2
+metastatic_cancer,C2082500,proposed,grounded,keep,procedure,1,2,0,0
+metastatic_cancer,C3898008,proposed,grounded,keep,procedure,1,2,1,1
+metastatic_cancer,C4282165,proposed,grounded,keep,symptom,1,2,1,1
+metastatic_cancer,C0149911,proposed,grounded,keep,disease,1,1,0,0
+metastatic_cancer,C0278512,disorder,descendant closure,auto,disease,1,1,1,1
+metastatic_cancer,C0347019,disorder,descendant closure,auto,disease,1,1,0,0
+metastatic_cancer,C0555278,disorder,descendant closure,auto,disease,1,1,0,0
+metastatic_cancer,C0861772,disorder,descendant closure,auto,disease,1,1,1,1
+metastatic_cancer,C0862448,closure,one-hop neighbourhood,keep,disease,1,1,1,1
+metastatic_cancer,C0948976,disorder,descendant closure,auto,disease,1,1,0,0
+metastatic_cancer,C1334715,proposed,grounded,keep,disease,1,1,0,0
+metastatic_cancer,C2960101,disorder,descendant closure,auto,disease,1,1,0,0
+metastatic_cancer,C3203639,proposed,grounded,keep,disease,1,1,1,1
+metastatic_cancer,C3266877,proposed,grounded,keep,disease,1,1,0,0
+metastatic_cancer,C0240043,closure,one-hop neighbourhood,keep,finding,1,1,1,1
+metastatic_cancer,C0023972,medication,lift,keep,medication,1,1,1,1
+metastatic_cancer,C0025033,medication,lift,keep,medication,1,1,0,0
+metastatic_cancer,C0039512,medication,lift,keep,medication,1,1,1,1
+metastatic_cancer,C0039871,medication,lift,keep,medication,1,1,0,0
+metastatic_cancer,C0723668,medication,identity,auto,medication,1,1,0,0
+metastatic_cancer,C1125128,medication,identity,auto,medication,1,1,1,1
+metastatic_cancer,C1173436,medication,identity,auto,medication,1,1,0,0
+metastatic_cancer,C1702439,medication,identity,auto,medication,1,1,1,1
+metastatic_cancer,C1878833,medication,identity,auto,medication,1,1,1,1
+metastatic_cancer,C3265889,medication,identity,auto,medication,1,1,1,1
+metastatic_cancer,C3834455,medication,identity,auto,medication,1,1,1,1
+metastatic_cancer,C4055109,medication,lift,keep,medication,1,1,0,0
+metastatic_cancer,C4055417,medication,lift,keep,medication,1,1,1,1
+metastatic_cancer,C4081038,medication,identity,auto,medication,1,1,0,0
+metastatic_cancer,C0456853,proposed,grounded,keep,procedure,1,1,0,0
+metastatic_cancer,C1720823,proposed,grounded,keep,procedure,1,1,1,1
+metastatic_cancer,C3850079,proposed,grounded,keep,procedure,1,1,0,0
+metastatic_cancer,C0278147,proposed,grounded,keep,symptom,1,1,0,0
+metastatic_cancer,C4053624,medication,lift,keep,anatomy,0,0,0,0
+metastatic_cancer,C5941833,medication,identity,auto,anatomy,0,0,0,0
+metastatic_cancer,C0013930,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0022790,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0024232,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0027645,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0033822,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0036528,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0153668,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153671,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153675,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153677,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153681,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0153683,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0153684,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0153685,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153686,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153688,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153689,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0153691,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0153693,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0153826,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153827,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153828,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153829,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153830,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153831,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0153833,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0220655,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0238254,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0265153,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0265157,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0278584,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0278688,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0278694,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0278851,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0279942,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0334246,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0334277,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0334612,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0340539,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0341713,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346152,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346957,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0346961,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346962,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346967,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346969,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346971,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346972,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346973,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346974,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346977,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346979,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0346980,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346981,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346982,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346983,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346986,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346988,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346990,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0346991,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346992,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346993,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346994,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346995,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346996,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346997,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0346998,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347000,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347001,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347002,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347003,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347004,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347005,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347006,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347007,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347009,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347010,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347011,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347012,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347013,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347014,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347015,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347016,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347017,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347018,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347020,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347021,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347022,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347023,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347054,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0347055,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0348382,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0348383,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0348384,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0349679,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0451885,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0494164,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0494166,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0494167,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0519050,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0555276,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0555277,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0563521,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0564713,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0577691,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0577731,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0580284,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0580291,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0580293,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0580297,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0585135,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0587226,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0588015,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684353,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684357,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684361,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684367,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684369,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684372,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684375,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684377,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684382,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684387,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684392,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684397,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684402,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684407,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684411,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684413,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684417,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684420,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684422,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684424,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684426,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684429,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684432,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684434,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684437,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684442,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684447,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684452,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684454,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684458,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684461,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684463,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684465,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684470,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684472,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684476,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684480,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684482,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684486,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684515,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0684520,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684522,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684524,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684526,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684528,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684530,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684532,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684535,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684537,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684540,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684542,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684544,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684546,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684548,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684554,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684558,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684562,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684565,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684568,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684570,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684572,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684574,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684578,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684580,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684582,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684584,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684588,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684590,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684593,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684597,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684599,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684601,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684603,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684606,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684610,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684614,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684618,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684621,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684625,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684629,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684632,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684635,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684639,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684641,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684643,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684645,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684647,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684649,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684651,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684655,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684659,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684661,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684663,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684667,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684671,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684675,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684679,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684682,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684685,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684686,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684689,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684692,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684695,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684698,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684702,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684705,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684709,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684713,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684716,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684720,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684724,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684728,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684732,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684736,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684740,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684748,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684752,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684756,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684760,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684764,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684768,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684772,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684776,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684780,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684784,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684788,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684792,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684796,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684800,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684805,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684809,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684811,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684814,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684817,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684821,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684824,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684827,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684830,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684833,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684836,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684839,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684843,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684846,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684849,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684852,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684855,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684859,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684863,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684866,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684870,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684878,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684882,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684885,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684889,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684897,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684918,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684922,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684923,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684924,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684927,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684930,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684934,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684937,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684941,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684942,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684943,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684944,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684945,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684946,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684950,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684954,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684958,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684962,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684963,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684964,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684967,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684971,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684975,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684980,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684983,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684984,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684986,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684991,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684992,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684994,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684996,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0684999,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685000,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685005,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685010,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685015,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685016,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685021,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685023,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685027,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685032,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685037,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685042,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685047,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685052,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685058,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685063,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685068,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685073,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685078,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685081,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685084,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685087,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685090,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685093,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685110,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685112,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685114,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685117,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685120,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685124,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685127,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685130,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685133,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685136,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685139,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685142,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685148,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685151,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685154,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685157,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685160,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685163,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685166,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685172,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685175,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685178,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685181,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685184,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685187,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685190,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685193,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685196,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685199,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685942,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685943,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685946,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685949,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685952,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685955,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685959,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685962,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685965,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685967,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685970,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685974,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685976,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685979,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685983,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685985,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685987,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685991,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685993,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685994,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685996,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0685998,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686003,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686008,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686010,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686012,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686013,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686015,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686017,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686019,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686021,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686023,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686024,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686026,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686028,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686030,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686031,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686034,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686037,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686040,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686043,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686047,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686051,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686054,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686055,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686057,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686059,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686061,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686063,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686065,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686067,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686068,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686070,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686072,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686074,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686076,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686078,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686080,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686082,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686085,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686089,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686091,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686095,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686099,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686101,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686102,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686104,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686106,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686108,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686109,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686111,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686112,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686114,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686115,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686117,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686118,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686122,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686125,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686128,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686131,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686134,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686137,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686139,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686143,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686147,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686149,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686153,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686157,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686159,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686179,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686183,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686187,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686191,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686195,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686199,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686203,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686207,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686210,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686215,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686218,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686222,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686226,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686232,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686238,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686241,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686245,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686249,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686253,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686256,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686260,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686262,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686265,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686269,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686273,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686280,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686283,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686286,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686293,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686297,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686301,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686305,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686309,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686313,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686317,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686321,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686326,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686329,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686333,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686337,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686342,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686383,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686386,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686389,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686392,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686395,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686396,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686399,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686402,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686406,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686407,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686408,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686411,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686418,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686422,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686426,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686430,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686434,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686437,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686441,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686445,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686449,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686453,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686457,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686460,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686463,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686466,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686471,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686477,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686483,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686488,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686490,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686492,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686499,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686506,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686507,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686511,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686515,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686518,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686520,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686523,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686524,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686525,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686526,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686530,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686531,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686605,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686608,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686612,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686614,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686617,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686621,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686623,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686625,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686627,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686629,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686631,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686633,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686635,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686637,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686639,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686641,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686643,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686645,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686647,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686649,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686651,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686653,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686655,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686657,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686659,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686661,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686665,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686667,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686669,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686671,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686673,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686675,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686679,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686681,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686683,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686685,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686687,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686689,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686691,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686693,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686695,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686697,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686699,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0686701,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0699894,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0744869,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0745653,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0748404,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0748505,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C0748861,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0852667,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0855050,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0855054,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0855070,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0856473,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C0860594,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0862457,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0862490,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0864999,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0865000,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0877294,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C0948588,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C1096653,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1096667,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C1135161,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1266190,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1274308,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1275284,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1275285,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1275333,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1277201,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1282138,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1282143,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1290223,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1297955,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1297981,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1297988,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1297990,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1297997,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1298002,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1298003,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1298201,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1299236,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1299260,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1300387,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1302756,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1302804,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304306,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304327,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304518,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304519,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304520,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304521,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304522,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304524,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304525,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304526,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304527,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1304528,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1306604,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1328402,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1334722,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1334723,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1334731,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1336753,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1377787,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1378462,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1439275,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1513184,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1513185,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1522437,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1532490,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1704231,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C1827034,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827086,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827606,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827818,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827866,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827910,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1827941,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1828274,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C1828340,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1881801,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C1947968,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2007060,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2217268,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C2242986,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2745961,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C2845958,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2845959,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2845972,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2845973,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2845974,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C2931852,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2939420,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C3160869,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3203710,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3265935,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3265936,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3265937,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3265938,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3266218,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3266221,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3282903,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3646250,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C3647143,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3661544,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3662858,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3694315,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C3862428,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3873535,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C3875478,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C4038952,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4039925,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4040134,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4040166,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4040167,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4040343,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4047407,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4076011,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4076028,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081727,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081734,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081735,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081736,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081737,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081742,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4081803,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4087244,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4288754,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4302348,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4302368,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4302536,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4302955,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4303063,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4303981,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4520282,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4520774,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4528625,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+metastatic_cancer,C4708088,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4720862,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4720939,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4721212,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4721698,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4721780,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4725861,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C4733121,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5205724,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5206655,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5239031,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5241392,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5387905,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5387906,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5394672,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5396637,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5437125,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5437126,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5437127,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5437130,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5441655,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C5442460,proposed,grounded,keep,disease,0,0,0,0
+metastatic_cancer,C5539133,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546406,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546407,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546408,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546410,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546411,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546412,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546416,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546417,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546421,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546424,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546425,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546440,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546441,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546442,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546494,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546496,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546577,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546579,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546582,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546946,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546947,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546948,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546949,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546950,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5546951,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5547057,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5547058,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5547062,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5547063,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5548033,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5686211,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5686213,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5686224,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689066,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689067,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689068,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689069,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689070,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689071,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689072,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689073,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689074,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689075,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689076,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689077,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689078,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689079,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689080,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689081,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5689082,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5700208,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5780824,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5780825,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5781038,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5781039,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5781040,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5781295,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787343,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787344,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787345,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787347,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787348,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787349,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787350,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787351,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787352,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787353,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787354,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787355,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787356,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787357,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787358,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787359,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787360,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787361,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787363,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787364,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787365,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787366,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787367,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787368,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787369,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787370,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787371,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787372,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787373,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787374,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787375,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787376,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787377,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787378,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787379,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787380,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787381,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787382,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787383,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787384,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787385,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787386,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787387,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787388,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787389,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787390,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787391,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787392,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787393,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787394,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787395,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787396,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787397,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787398,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787399,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787400,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787401,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787417,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787421,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787423,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787424,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787425,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787426,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787427,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787428,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787429,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787430,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787431,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787432,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787433,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787434,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787435,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787437,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787438,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787439,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787440,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787441,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787442,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787443,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787444,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787446,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787447,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787448,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787449,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787450,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787451,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787452,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787453,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787454,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787455,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787456,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787457,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787458,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787459,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787460,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787461,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787462,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787463,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787464,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787465,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787466,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787467,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787468,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787469,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787470,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787471,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787472,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787473,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787475,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787476,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787477,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787478,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787480,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787481,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787482,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787483,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787484,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787485,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787486,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787487,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787488,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787489,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787490,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787491,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787492,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787493,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787494,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787495,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787496,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787497,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787498,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787499,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787500,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787501,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787502,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787503,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787504,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787505,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787506,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787507,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787508,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787509,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787510,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787526,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787528,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787529,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787530,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787531,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787532,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787533,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787534,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787539,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787540,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787541,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787542,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787543,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787544,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787545,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787546,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787547,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787548,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787549,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787550,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787551,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5787552,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788020,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788103,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788126,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788127,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788128,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788129,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788132,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788133,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788134,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788135,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788136,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788137,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788138,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788139,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788140,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788190,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788195,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788196,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788226,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788256,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788257,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788258,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788259,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788284,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788285,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788286,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788287,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788344,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788396,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788397,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788403,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788405,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788407,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788479,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788481,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788483,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788484,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788485,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788486,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788574,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788575,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788576,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788621,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788623,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788625,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788627,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788628,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788629,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5788630,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789035,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789037,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789038,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789067,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789068,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789069,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789070,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789071,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789072,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789073,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789074,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789075,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789076,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789077,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789078,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789079,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789080,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789081,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789082,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789083,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789084,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789085,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789086,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789087,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5789089,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5818793,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5852643,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5852772,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5852773,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5880913,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5891162,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5891163,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5921042,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922829,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922830,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922831,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922907,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922908,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922909,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922910,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5922911,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5923921,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5923922,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5923923,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924304,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924320,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924321,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924430,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924431,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924432,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924433,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924438,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924439,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924441,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924443,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924581,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924583,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924881,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924889,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5924890,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5967912,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5967913,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5967914,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5967915,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5968442,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5968443,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5968444,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5968445,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5968446,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C5985802,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C6008463,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C6009593,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C6012541,disorder,descendant closure,auto,disease,0,0,0,0
+metastatic_cancer,C2187955,proposed,grounded,keep,finding,0,0,0,0
+metastatic_cancer,C2363736,proposed,grounded,keep,finding,0,0,0,0
+metastatic_cancer,C0005739,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0007257,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0010934,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0021734,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0021735,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0026234,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0033223,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0038432,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0039902,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0041920,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0042670,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0042671,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0042680,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0044971,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0059874,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0060692,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0068771,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0079589,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0120107,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0149473,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0205909,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0218986,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0281581,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0282248,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0305236,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0360516,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0377401,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0524959,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0526371,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0546861,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0591063,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591106,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591330,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591441,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591496,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591758,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591870,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591871,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591901,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591953,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0591997,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0592159,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0592253,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0594375,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0600266,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0678155,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0687700,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699179,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699181,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699318,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699372,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699374,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699375,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699666,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699701,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699702,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699704,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0699705,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0700191,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0700458,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0700476,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0700915,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701095,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701183,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701188,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701339,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701389,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0701390,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0702002,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0702051,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0719731,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0720089,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0720676,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0721031,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0722107,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0722741,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0722753,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0723447,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0723448,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0723782,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0724450,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0724564,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0728766,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0728769,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0728770,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0728771,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0728967,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0733847,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0740144,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0746480,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0770351,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0771055,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0771375,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0876099,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0886549,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0887682,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0904036,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0911740,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0917712,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0919270,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0919390,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0939263,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0939420,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0939510,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0939537,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0939777,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0949359,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0965390,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C0984978,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985262,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985263,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985526,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985527,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985528,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985925,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0985926,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0986110,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0987261,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0987262,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0987264,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0987572,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0988143,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0988359,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0989245,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0989248,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0989250,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0990509,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0990717,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0992257,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0993091,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0993409,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1102433,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123191,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123300,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123302,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123317,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123320,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123321,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123413,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123477,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123594,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1123842,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1124119,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1124227,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1124888,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1124987,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125145,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125146,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125316,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125317,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125451,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125452,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1125531,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126061,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126125,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126136,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126137,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126198,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126244,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126289,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126453,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126555,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1126569,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127364,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127373,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127438,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127439,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127490,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127544,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127612,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1127877,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128060,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128353,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128365,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128641,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128685,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1128686,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1129376,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1129377,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1130222,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1130628,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1131630,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1132688,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1134820,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1135114,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1135570,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1140707,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1140717,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1141421,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1145586,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1145713,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1146018,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1146144,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1154239,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1154290,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1154291,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1154293,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1160781,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1161371,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1165860,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1170535,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1170560,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1171073,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1174732,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1176431,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1176597,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1177001,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1177006,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1178523,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1178524,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1178762,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1186870,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1186871,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1244517,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1244713,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1245705,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1245718,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1245866,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1245867,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1245868,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246118,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246124,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246177,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246275,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246276,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246277,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246278,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246490,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246690,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246798,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246799,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246816,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246895,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1246896,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1247144,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1247561,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1247651,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1247653,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1247670,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248093,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248145,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248177,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248346,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248456,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248475,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248697,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1248751,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1249277,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1249430,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1250456,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1250509,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1250616,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1250859,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1250860,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251021,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251053,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251084,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251085,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251086,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251245,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251323,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251340,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251455,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251466,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251469,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1251933,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1252655,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1252964,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1252994,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1253131,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1253147,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1253635,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1253693,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1254011,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1254012,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1256257,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1256446,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1262507,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1262912,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1262926,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1262927,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1263332,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1263336,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1271102,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1306313,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1306396,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1306397,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1306398,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1311070,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1321629,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1321630,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1328801,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1331283,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1331284,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1367831,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1367832,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368262,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368264,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368265,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368416,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368417,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1368862,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370582,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370583,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370586,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370725,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370726,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370727,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370763,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1370771,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1371251,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1371252,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1371253,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1377699,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1382463,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1382728,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383148,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383428,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383481,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383482,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383532,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383535,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383578,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383580,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383581,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383584,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383589,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383654,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1383776,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1384447,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1513197,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1515205,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1522683,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1522690,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1533699,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1577153,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1577447,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1578162,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1578225,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1578226,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1589154,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1589758,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1589969,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1602591,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1615728,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1676709,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1676710,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1677799,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1700685,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1702966,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1703416,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1703856,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1707080,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1724044,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1724045,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1724047,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1831731,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1831796,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1878762,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1878832,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1879772,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1880207,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1882305,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1883309,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1883536,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1949365,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1951646,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1961039,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C1962223,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1962242,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1967843,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1968045,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C1968046,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2340719,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2342490,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2350041,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2351038,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2355805,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2355809,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2683920,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2683921,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2683926,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2698152,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2699562,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2723819,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2723820,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2723822,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2723826,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2727167,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2731279,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2731283,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2731284,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2746832,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2827667,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2926823,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930120,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930130,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930132,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930134,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930137,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930141,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930143,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930173,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930175,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930176,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930177,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930178,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930179,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930180,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2930181,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2948971,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2948975,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2978011,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2978013,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2980753,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C2986924,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2987642,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C2987648,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3152317,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3152318,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3153954,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3153958,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3154308,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3154516,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3154518,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3159395,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3192264,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3192265,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3192267,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3205707,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3205935,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206022,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206023,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206024,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206025,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206026,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206246,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206349,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206351,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3206635,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3207258,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3207545,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3209076,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3209185,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210545,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210620,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210621,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210622,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210723,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210724,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3210921,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3211311,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3211609,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3211610,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212073,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212074,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212075,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212345,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212346,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212347,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212433,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212434,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3212435,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213050,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213051,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213052,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213053,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213339,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213340,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213584,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213585,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213586,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213688,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213689,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3213690,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214074,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214075,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214166,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214167,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214168,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214257,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214338,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214339,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214871,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214872,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214889,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214893,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3214978,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215039,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215040,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215134,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215188,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215189,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215190,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215191,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215210,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215211,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215585,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215672,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215679,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215709,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215710,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215823,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215824,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215825,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3215826,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216039,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216040,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216041,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216042,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216066,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216067,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216091,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216565,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216566,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216567,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216834,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3216835,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3217381,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3217836,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218170,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218490,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218491,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218492,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218508,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218858,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218905,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218906,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3218907,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219133,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219134,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219424,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219426,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219427,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219428,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219574,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219575,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219626,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219629,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219776,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219777,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219915,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219917,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3219920,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3220018,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3220019,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3220023,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3220024,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3245353,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3254591,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3265222,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265223,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265224,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265226,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265878,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265879,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265880,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265881,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3265883,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3273321,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3465353,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3468008,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3475332,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3475334,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3486035,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496918,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496919,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496920,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496921,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496923,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3496929,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3497849,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3499528,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3499529,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3499530,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3499531,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3499533,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528739,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528740,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528741,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528742,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528744,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3528749,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3531311,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3537697,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3644437,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644438,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644439,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644440,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644442,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644500,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3644501,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644502,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644503,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644504,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644506,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644512,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3644554,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3644555,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652305,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652306,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652307,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652337,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652352,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3652353,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3666713,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3666714,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3666771,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3666906,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3668776,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3668783,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3668794,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3848667,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3848678,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3852841,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3854821,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3854823,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3855199,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3855200,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3855203,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3872108,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3872331,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3872395,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3883636,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3883665,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3892962,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893110,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893131,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893132,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893156,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893163,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893177,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3893178,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C3896936,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C3898565,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4018332,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4018771,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4018785,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4019047,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4019069,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034032,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034050,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034104,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034106,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034122,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034144,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4034148,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4047138,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4047155,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4047156,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4047167,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4048711,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4049146,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4050097,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4050104,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4050110,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4050113,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4050195,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4050541,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4053695,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4056538,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4056769,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057398,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057399,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057400,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057932,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057936,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4057943,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4058406,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4058481,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4058482,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4058487,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4058492,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059044,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059045,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059046,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059047,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059049,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4059057,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4059146,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4060331,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4060332,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4060395,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074635,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074636,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074638,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074646,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074689,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4074699,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4080545,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4080546,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4080547,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4080548,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4081039,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083626,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083627,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083738,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083739,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083740,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083741,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083770,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4083771,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4085585,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4085588,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4224874,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4225061,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4225062,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4225063,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237901,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237902,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237903,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237931,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237939,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4237943,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4238555,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4238880,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4238881,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4238882,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4238884,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4239013,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4255086,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4257309,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4271796,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4276305,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4282827,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4283238,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4284065,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4293367,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4293564,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4293600,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4293621,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4301163,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4301180,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4308025,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4317428,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4324807,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4324808,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4324809,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4324811,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473862,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473863,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473864,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473865,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473867,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473950,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473951,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473952,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4473954,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4475460,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4475461,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4475463,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4519323,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4522806,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4522807,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529612,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529613,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529614,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529615,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529617,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529623,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529627,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4529631,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4530786,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4547776,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4550997,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4550998,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4550999,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4551000,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4555371,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4682387,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4682397,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4682404,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4704254,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704255,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704256,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704257,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704265,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704269,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704270,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704271,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704272,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704274,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704612,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704613,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704614,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704615,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704617,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4704989,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4724799,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4724806,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4724807,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4724849,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4726984,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4731528,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4731529,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4731530,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4731531,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4731533,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4733494,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4746120,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765027,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C4765608,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765609,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765610,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765611,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765613,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765848,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765849,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765850,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765851,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765853,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765859,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C4765863,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5196199,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5196353,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5196385,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5196400,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5196401,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5206921,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5238124,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5243134,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243441,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243442,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243443,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243466,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243497,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5243498,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384303,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384305,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384533,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384561,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384566,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384588,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5384593,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5390912,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5391158,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5399515,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5401615,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5401616,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5432272,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5432368,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5432455,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433069,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433071,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433164,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433169,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433170,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433180,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433181,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433182,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433195,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433196,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433197,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5433198,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5438407,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+metastatic_cancer,C5446306,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5446307,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5446797,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5448035,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5448374,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5448375,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5448376,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5448377,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5448384,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454983,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454984,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454985,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454986,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454988,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5454998,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5455243,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5455329,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5455330,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5455334,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5455335,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5455336,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5575071,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+metastatic_cancer,C5577546,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5577547,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577548,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5577549,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577551,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577552,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577555,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577599,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577600,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577604,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5577605,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5679474,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5679475,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5706045,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5706046,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5706047,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5706048,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5706051,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778303,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778408,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778409,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778415,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778421,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778433,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5778434,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783301,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783302,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783303,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783309,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783310,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5783311,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5787196,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5787197,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5789220,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5789221,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5789222,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5834320,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873680,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873858,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873859,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873879,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873902,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5873903,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5874375,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5874378,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5874520,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5881395,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5881397,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5881776,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5888635,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5888636,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5888637,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5888640,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5911048,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5911217,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5917110,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5917122,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5917138,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5917285,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5917286,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5917299,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5917316,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5941816,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5941839,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5941845,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5942003,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942021,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942022,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942033,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942040,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942056,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942064,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5942065,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5943046,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5943923,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5943924,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5943927,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5943928,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5943933,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5963614,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5963667,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5964495,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5964496,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5964497,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5964498,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5964505,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5965478,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966244,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5966245,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966246,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966247,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966251,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966848,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5966849,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966850,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966851,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966856,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966942,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966943,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966944,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5966946,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5970737,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5970799,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5970800,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5970802,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5970803,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5970808,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5971524,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5978502,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5978507,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C5978508,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5978509,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5978510,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5978514,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5982842,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5982843,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5982844,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C5986085,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6003587,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6011337,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6011338,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6011339,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6012159,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6012160,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6012161,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6017486,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6049519,medication,lift,keep,medication,0,0,0,0
+metastatic_cancer,C6049520,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6049524,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6049525,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6049530,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6071590,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C6071699,medication,identity,auto,medication,0,0,0,0
+metastatic_cancer,C0021756,closure,one-hop neighbourhood,keep,other,0,0,0,0
+metastatic_cancer,C0236105,closure,one-hop neighbourhood,keep,other,0,0,0,0
+metastatic_cancer,C0720983,medication,identity,auto,other,0,0,0,0
+metastatic_cancer,C1312408,medication,identity,auto,other,0,0,0,0
+metastatic_cancer,C0201547,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0201551,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0201924,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0201933,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0202144,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0337445,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0373858,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+metastatic_cancer,C0454072,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+metastatic_cancer,C0796693,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C0850292,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C1142375,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C2363923,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C2919221,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C3641247,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C3846112,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C4049934,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C4505151,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C5557561,proposed,grounded,keep,procedure,0,0,0,0
+metastatic_cancer,C5769219,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+metastatic_cancer,C0426579,proposed,grounded,keep,symptom,0,0,0,0
+metastatic_cancer,C1391732,proposed,grounded,keep,symptom,0,0,0,0
+metastatic_cancer,C2203646,proposed,grounded,keep,symptom,0,0,0,0

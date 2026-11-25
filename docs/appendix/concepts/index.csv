@@ -1,0 +1,16 @@
+phenotype,concepts,observed_in_corpus,observed_in_sample,with_english_term
+alcohol_use_disorder,184,34,29,184
+clostridioides_difficile,196,47,41,196
+deep_vein_thrombosis,354,35,28,354
+dementia,687,79,57,687
+depression,1533,189,157,1533
+hfpef,1177,156,123,1177
+hfref,1399,208,164,1399
+hypertension,3167,302,227,3167
+metastatic_cancer,2292,179,128,2292
+obesity,860,25,20,860
+pulmonary_embolism,518,65,59,518
+rheumatoid_arthritis,3044,209,137,3044
+systemic_lupus_erythematosus,1023,112,81,1023
+type_1_diabetes,415,58,49,415
+type_2_diabetes,890,101,66,890

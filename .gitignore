@@ -1,0 +1,108 @@
+# ---------------------------------------------------------------------------
+# RESTRICTED DATA — DO NOT REMOVE
+#
+# data/ holds two kinds of licensed content that must never be committed:
+#   - MIMIC-IV note text, under the PhysioNet Credentialed Health Data Use
+#     Agreement. Ship data/notes.sql (the extraction query) instead.
+#   - The UMLS Metathesaurus, under the UMLS Metathesaurus License Agreement.
+#
+# This block is DEFAULT-DENY on purpose. An allowlist of extensions is one
+# unanticipated file type away from leaking (a .zip, a .RRF, a differently
+# cased directory), so everything under data/ is ignored and the few
+# publishable files are re-admitted by name below.
+# ---------------------------------------------------------------------------
+data/*
+!data/README.md
+!data/.gitkeep
+
+# Belt-and-braces: these must never be committed from anywhere in the tree,
+# whatever they are called or wherever they are dropped.
+*.RRF
+*.rrf
+*.zip
+*.duckdb
+**/[Uu][Mm][Ll][Ss]/
+**/[Mm][Ee][Tt][Aa]/
+
+# Derived artifacts that may embed restricted text
+**/annotations.parquet
+**/*.annotations.json
+.robustehr_cache/
+out/
+runs/
+release/text/
+
+# Secrets
+#
+# API keys are read from the environment first and from these files as a
+# fallback. They are matched by name rather than by extension because a `.txt`
+# allowlist elsewhere would otherwise re-admit them — the same default-deny
+# reasoning the data/ block uses.
+.env
+secrets/
+openrouterapi.txt
+*api*key*.txt
+*_api.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv*/
+.tox/
+.nox/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# QuickUMLS index — derived from licensed UMLS content, never committed
+**/quickumls_index/
+*.unqlite
+
+# Downloaded experiment results: derived from MIMIC-IV under the PhysioNet DUA,
+# and 200 MB+ per run. The bucket is the system of record; a local copy is a
+# working convenience, not something to version.
+results/
+
+# Experiment run directories. `run1/` held a 163 MB SQLite prediction store whose
+# `document_id` column is real MIMIC `hadm_id`s — derived restricted data under the
+# PhysioNet DUA, and it sat here untracked but unignored. `runs/` above covers the
+# corruption engine's own output; this covers the downstream harness's, which names
+# its directories by run id.
+run[0-9]*/
+
+# Prediction stores and any other embedded database. Matched by extension as well as
+# by directory because a run directory can be renamed and the SQLite file inside it is
+# still a SQLite file — the same default-deny reasoning the data/ block uses.
+*.sqlite
+*.sqlite3
+*.db
+
+# `sample_output/` is deliberately NOT ignored. Every value in it is fabricated
+# (`run_summary.json` opens by saying so) and `tests/test_mipa_metrics.py` reads
+# it as a fixture. It is the one results-shaped directory that is safe to commit,
+# which is exactly why it is named here rather than left to a general rule.
+
+# The manuscript: prose, figures, tables for the paper, the appendix workbook
+# and the measured results they quote. Kept local on purpose. This repository
+# holds the pipeline that corrupts the notes and scores the model; what the
+# paper says about the results is written, checked and versioned elsewhere, and
+# pre-publication text and numbers should not acquire a public history.
+manuscript/
+
+# Planning notes, drafts of requirements and superseded one-off scripts.
+internal/

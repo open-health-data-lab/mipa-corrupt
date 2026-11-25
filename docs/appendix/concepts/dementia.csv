@@ -1,0 +1,688 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+dementia,C0011265,proposed,grounded,keep,disease,1,338,1,134
+dementia,C0085631,proposed,grounded,keep,symptom,1,226,1,90
+dementia,C0013819,proposed,grounded,keep,procedure,1,179,1,87
+dementia,C1124669,medication,identity,auto,medication,1,173,1,71
+dementia,C0040399,proposed,grounded,keep,procedure,1,156,1,56
+dementia,C0701017,medication,identity,auto,medication,1,130,1,42
+dementia,C0989276,medication,identity,auto,medication,1,104,1,34
+dementia,C0719199,medication,identity,auto,medication,1,78,1,32
+dementia,C0008845,medication,seed,auto,medication,1,75,1,23
+dementia,C1124670,medication,identity,auto,medication,1,62,1,15
+dementia,C0033229,medication,seed,auto,medication,1,56,1,17
+dementia,C0527316,medication,closure,keep,medication,1,54,1,16
+dementia,C1456784,proposed,grounded,keep,disease,1,53,1,23
+dementia,C0002395,proposed,grounded,keep,disease,1,44,1,12
+dementia,C1127563,medication,identity,auto,medication,1,42,1,16
+dementia,C0073393,medication,seed,auto,medication,1,32,1,11
+dementia,C0233763,proposed,grounded,keep,symptom,1,32,1,14
+dementia,C0085632,proposed,grounded,keep,disease,1,30,1,12
+dementia,C0037943,proposed,grounded,keep,procedure,1,29,1,12
+dementia,C0025242,medication,closure,keep,medication,1,28,1,17
+dementia,C0992821,medication,identity,auto,medication,1,23,1,10
+dementia,C0026847,disorder,descendant closure,auto,disease,1,20,1,2
+dementia,C0338656,closure,one-hop neighbourhood,keep,disease,1,19,1,12
+dementia,C0033231,medication,seed,auto,medication,1,18,1,5
+dementia,C1128661,medication,identity,auto,medication,1,16,1,10
+dementia,C0233794,finding,declared seed,auto,disease,1,15,1,6
+dementia,C0527315,medication,identity,auto,medication,1,15,1,3
+dementia,C0989715,medication,identity,auto,medication,1,15,0,0
+dementia,C0085633,proposed,grounded,keep,symptom,1,15,1,7
+dementia,C0592071,medication,identity,auto,medication,1,14,1,8
+dementia,C1330412,medication,identity,auto,medication,1,13,1,1
+dementia,C0002622,finding,declared seed,auto,disease,1,12,1,8
+dementia,C0497327,proposed,grounded,keep,disease,1,11,1,6
+dementia,C0233407,proposed,grounded,keep,symptom,1,11,1,5
+dementia,C0009241,closure,one-hop neighbourhood,keep,disease,1,10,1,1
+dementia,C0542476,proposed,grounded,keep,symptom,1,10,1,3
+dementia,C0003635,proposed,grounded,keep,disease,1,9,1,5
+dementia,C0989713,medication,identity,auto,medication,1,9,1,1
+dementia,C1127432,medication,identity,auto,medication,1,9,1,5
+dementia,C5574165,medication,identity,auto,medication,1,9,1,5
+dementia,C0234985,proposed,grounded,keep,disease,1,8,1,6
+dementia,C0235946,closure,one-hop neighbourhood,keep,disease,1,8,1,3
+dementia,C0039245,medication,closure,keep,medication,1,8,1,2
+dementia,C0270786,disorder,descendant closure,auto,disease,1,7,1,3
+dementia,C1142436,proposed,grounded,keep,disease,1,7,1,1
+dementia,C3494652,disorder,descendant closure,auto,disease,1,7,1,2
+dementia,C0730987,medication,identity,auto,medication,1,7,0,0
+dementia,C0011263,proposed,grounded,keep,disease,1,6,1,1
+dementia,C0003113,proposed,grounded,keep,disease,1,5,1,4
+dementia,C0233800,proposed,grounded,keep,disease,1,5,1,1
+dementia,C1260405,disorder,descendant closure,auto,disease,1,5,0,0
+dementia,C0989278,medication,identity,auto,medication,1,5,1,3
+dementia,C0649350,medication,closure,keep,medication,1,4,0,0
+dementia,C0001816,proposed,grounded,keep,disease,1,3,0,0
+dementia,C0006109,closure,one-hop neighbourhood,keep,disease,1,3,1,3
+dementia,C0236642,closure,one-hop neighbourhood,keep,disease,1,3,0,0
+dementia,C0016967,medication,closure,keep,medication,1,3,0,0
+dementia,C1127479,medication,identity,auto,medication,1,3,0,0
+dementia,C0206019,closure,one-hop neighbourhood,keep,disease,1,2,1,1
+dementia,C0338451,disorder,descendant closure,auto,disease,1,2,0,0
+dementia,C0338455,disorder,descendant closure,auto,disease,1,2,0,0
+dementia,C3532942,proposed,grounded,keep,disease,1,2,0,0
+dementia,C4024957,disorder,descendant closure,auto,disease,1,2,0,0
+dementia,C0001849,disorder,descendant closure,auto,disease,1,1,1,1
+dementia,C0011269,proposed,grounded,keep,disease,1,1,0,0
+dementia,C0233651,proposed,grounded,keep,disease,1,1,1,1
+dementia,C0233823,proposed,grounded,keep,disease,1,1,1,1
+dementia,C0236651,disorder,descendant closure,auto,disease,1,1,0,0
+dementia,C0393561,proposed,grounded,keep,disease,1,1,0,0
+dementia,C0524851,closure,one-hop neighbourhood,keep,disease,1,1,0,0
+dementia,C0557932,closure,one-hop neighbourhood,keep,disease,1,1,1,1
+dementia,C0701811,proposed,grounded,keep,disease,1,1,0,0
+dementia,C0856416,disorder,descendant closure,auto,disease,1,1,0,0
+dementia,C1828079,proposed,grounded,keep,disease,1,1,0,0
+dementia,C1833297,proposed,grounded,keep,finding,1,1,1,1
+dementia,C0724555,medication,seed,auto,medication,1,1,0,0
+dementia,C0939689,medication,identity,auto,medication,1,1,1,1
+dementia,C0989716,medication,identity,auto,medication,1,1,0,0
+dementia,C0751295,closure,one-hop neighbourhood,keep,symptom,1,1,0,0
+dementia,C0001940,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0002624,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0002625,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0011268,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0011270,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0020179,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0022336,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0022958,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0025261,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0027877,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0029221,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0029227,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0038868,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0080040,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0152109,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154308,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154309,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154310,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154315,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154317,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154318,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154319,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0154327,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0154336,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0154669,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0154671,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0159047,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0162534,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0205858,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0221040,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0221394,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0233411,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0233795,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0233805,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0233818,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0234512,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0234521,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0234522,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0234523,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0234526,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0234527,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0234529,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0234984,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236640,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236641,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236644,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236645,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236646,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236647,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236648,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236649,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236650,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236652,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236653,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236656,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0236695,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236697,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236738,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0236752,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236885,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236886,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236887,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236888,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236889,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236959,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236960,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0236961,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0238265,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0240735,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0241816,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0242100,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0268671,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0270359,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0270723,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0270765,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0275849,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0275875,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0275877,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0276496,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0333667,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338445,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338446,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338449,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338450,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338452,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338453,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338454,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338456,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338457,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338458,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338459,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338460,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338462,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338463,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338464,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338627,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0338628,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338629,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338630,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338631,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0338632,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0342610,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0349078,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0349079,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0349086,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0349391,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0349464,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0349723,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0349775,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0393538,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393540,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393541,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393543,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393544,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393545,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393546,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393547,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393560,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393562,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393570,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0393574,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393575,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0393583,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0393647,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0394993,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0394994,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0422892,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0423927,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0454588,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0457618,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0494463,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0494465,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0494466,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0520473,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0520709,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0543859,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0543884,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0546415,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0553608,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0553746,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0553766,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0600359,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0677545,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0679298,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0679445,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0683405,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0699728,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0699731,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0699732,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0699734,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0700155,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0750901,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0751208,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0751292,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0751334,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0751335,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0752347,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0854278,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0854730,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0855219,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0856322,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0856336,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0857139,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0859642,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0859643,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0860503,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0860507,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0860628,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C0877811,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0917981,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C0936243,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1269750,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1299599,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1387083,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1395132,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1399562,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1457889,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1541844,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1641578,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1719956,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1720177,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1720547,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1833296,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1834569,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1834690,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1834703,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1838492,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1844934,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1845359,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1847651,proposed,grounded,keep,disease,0,0,0,0
+dementia,C1847987,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1849101,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1854058,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1858751,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1861735,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1863051,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1864112,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C1866774,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1866784,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1867772,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C1970211,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C2062760,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C2114309,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C2748208,proposed,grounded,keep,disease,0,0,0,0
+dementia,C2874324,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C2874329,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C2930956,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3241944,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3494604,proposed,grounded,keep,disease,0,0,0,0
+dementia,C3494623,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3494731,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3494871,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3531732,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3662845,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3665587,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3696920,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697020,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697128,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697280,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697587,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697680,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697718,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697863,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697898,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3697908,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698044,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698056,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C3698264,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698286,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698287,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698288,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C3698444,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698474,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3698476,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3714441,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C3714594,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3811918,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3811924,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C3825439,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C3837983,proposed,grounded,keep,disease,0,0,0,0
+dementia,C3887551,finding,declared seed,auto,disease,0,0,0,0
+dementia,C3888102,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4011788,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4021584,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4024935,proposed,grounded,keep,disease,0,0,0,0
+dementia,C4041080,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4047684,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4075689,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4075972,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4076105,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4076119,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4082769,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4087461,proposed,grounded,keep,disease,0,0,0,0
+dementia,C4273575,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4274349,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4274501,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4275027,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4275079,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4281802,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4302061,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4302101,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4302176,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4302177,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4302404,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4509964,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4511431,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4511432,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4511853,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4511866,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4518184,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518634,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518635,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518636,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518637,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518638,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4518848,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4521079,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4544271,proposed,grounded,keep,disease,0,0,0,0
+dementia,C4546094,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4546138,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4546139,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4551862,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4749434,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4749653,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4751505,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C4755307,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C4758153,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5190586,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5190835,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5191007,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5200920,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5229720,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5230200,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5230201,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5230378,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5231411,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5387886,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5394875,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5395346,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5395347,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5395625,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5546938,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5548295,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5548296,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5548301,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5548316,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5567451,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568568,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568629,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568631,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568632,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568663,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568668,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568669,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5568806,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5575119,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5676338,proposed,grounded,keep,disease,0,0,0,0
+dementia,C5687573,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5769593,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5769595,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5769599,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5779573,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5779877,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5780022,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787656,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787657,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787658,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787659,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787660,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787661,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787662,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787663,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787664,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787665,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787666,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787667,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787668,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787669,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787670,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787671,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787672,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787673,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787675,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787676,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787677,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787678,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787679,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787680,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787691,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C5787695,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787696,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787697,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787698,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787700,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787724,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787726,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787727,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787728,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787729,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787730,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787731,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787732,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787733,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787779,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787864,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787883,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787884,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787885,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5787886,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5788069,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5788085,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5848259,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5924566,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C5979991,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+dementia,C6008938,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C6008940,disorder,descendant closure,auto,disease,0,0,0,0
+dementia,C6024885,proposed,grounded,keep,disease,0,0,0,0
+dementia,C0233408,proposed,grounded,keep,finding,0,0,0,0
+dementia,C0233409,proposed,grounded,keep,finding,0,0,0,0
+dementia,C0392185,proposed,grounded,keep,finding,0,0,0,0
+dementia,C0422893,proposed,grounded,keep,finding,0,0,0,0
+dementia,C0424015,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0424016,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0455741,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0549238,disorder,descendant closure,auto,finding,0,0,0,0
+dementia,C0557933,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0561734,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0576496,proposed,grounded,keep,finding,0,0,0,0
+dementia,C0589047,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0598275,disorder,descendant closure,auto,finding,0,0,0,0
+dementia,C1291714,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C1295578,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C1387427,proposed,grounded,keep,finding,0,0,0,0
+dementia,C1562534,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C1828051,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C2243023,proposed,grounded,keep,finding,0,0,0,0
+dementia,C3554639,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C3662016,proposed,grounded,keep,finding,0,0,0,0
+dementia,C3839816,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C4543211,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C4543355,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+dementia,C0005013,medication,seed,auto,medication,0,0,0,0
+dementia,C0033230,medication,seed,auto,medication,0,0,0,0
+dementia,C0360144,medication,identity,auto,medication,0,0,0,0
+dementia,C0360146,medication,identity,auto,medication,0,0,0,0
+dementia,C0591095,medication,identity,auto,medication,0,0,0,0
+dementia,C0591259,medication,identity,auto,medication,0,0,0,0
+dementia,C0592139,medication,identity,auto,medication,0,0,0,0
+dementia,C0594440,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+dementia,C0598695,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+dementia,C0699954,medication,identity,auto,medication,0,0,0,0
+dementia,C0770888,medication,seed,auto,medication,0,0,0,0
+dementia,C0771182,medication,closure,keep,medication,0,0,0,0
+dementia,C0771848,medication,closure,keep,medication,0,0,0,0
+dementia,C0771988,medication,closure,keep,medication,0,0,0,0
+dementia,C0772415,medication,closure,keep,medication,0,0,0,0
+dementia,C0939465,medication,identity,auto,medication,0,0,0,0
+dementia,C0949312,medication,closure,keep,medication,0,0,0,0
+dementia,C0989277,medication,identity,auto,medication,0,0,0,0
+dementia,C0989279,medication,identity,auto,medication,0,0,0,0
+dementia,C0989714,medication,identity,auto,medication,0,0,0,0
+dementia,C0992888,medication,identity,auto,medication,0,0,0,0
+dementia,C1123483,medication,identity,auto,medication,0,0,0,0
+dementia,C1123485,medication,identity,auto,medication,0,0,0,0
+dementia,C1123693,medication,identity,auto,medication,0,0,0,0
+dementia,C1123694,medication,identity,auto,medication,0,0,0,0
+dementia,C1125933,medication,identity,auto,medication,0,0,0,0
+dementia,C1125981,medication,identity,auto,medication,0,0,0,0
+dementia,C1125982,medication,identity,auto,medication,0,0,0,0
+dementia,C1125983,medication,identity,auto,medication,0,0,0,0
+dementia,C1126195,medication,identity,auto,medication,0,0,0,0
+dementia,C1126196,medication,identity,auto,medication,0,0,0,0
+dementia,C1126645,medication,identity,auto,medication,0,0,0,0
+dementia,C1127004,medication,identity,auto,medication,0,0,0,0
+dementia,C1127475,medication,identity,auto,medication,0,0,0,0
+dementia,C1127476,medication,identity,auto,medication,0,0,0,0
+dementia,C1127477,medication,identity,auto,medication,0,0,0,0
+dementia,C1127478,medication,identity,auto,medication,0,0,0,0
+dementia,C1129614,medication,identity,auto,medication,0,0,0,0
+dementia,C1129812,medication,identity,auto,medication,0,0,0,0
+dementia,C1130390,medication,identity,auto,medication,0,0,0,0
+dementia,C1130855,medication,identity,auto,medication,0,0,0,0
+dementia,C1131185,medication,identity,auto,medication,0,0,0,0
+dementia,C1245044,medication,identity,auto,medication,0,0,0,0
+dementia,C1245573,medication,identity,auto,medication,0,0,0,0
+dementia,C1245999,medication,identity,auto,medication,0,0,0,0
+dementia,C1246568,medication,identity,auto,medication,0,0,0,0
+dementia,C1246817,medication,identity,auto,medication,0,0,0,0
+dementia,C1247673,medication,identity,auto,medication,0,0,0,0
+dementia,C1247674,medication,identity,auto,medication,0,0,0,0
+dementia,C1247675,medication,identity,auto,medication,0,0,0,0
+dementia,C1247676,medication,identity,auto,medication,0,0,0,0
+dementia,C1247677,medication,identity,auto,medication,0,0,0,0
+dementia,C1247678,medication,identity,auto,medication,0,0,0,0
+dementia,C1247860,medication,identity,auto,medication,0,0,0,0
+dementia,C1247861,medication,identity,auto,medication,0,0,0,0
+dementia,C1247867,medication,identity,auto,medication,0,0,0,0
+dementia,C1248087,medication,identity,auto,medication,0,0,0,0
+dementia,C1248707,medication,identity,auto,medication,0,0,0,0
+dementia,C1248715,medication,identity,auto,medication,0,0,0,0
+dementia,C1249418,medication,identity,auto,medication,0,0,0,0
+dementia,C1249998,medication,identity,auto,medication,0,0,0,0
+dementia,C1249999,medication,identity,auto,medication,0,0,0,0
+dementia,C1260666,medication,identity,auto,medication,0,0,0,0
+dementia,C1260667,medication,identity,auto,medication,0,0,0,0
+dementia,C1306439,medication,identity,auto,medication,0,0,0,0
+dementia,C1319760,medication,identity,auto,medication,0,0,0,0
+dementia,C1321642,medication,identity,auto,medication,0,0,0,0
+dementia,C1364683,medication,identity,auto,medication,0,0,0,0
+dementia,C1367196,medication,identity,auto,medication,0,0,0,0
+dementia,C1367197,medication,identity,auto,medication,0,0,0,0
+dementia,C1367198,medication,identity,auto,medication,0,0,0,0
+dementia,C1367199,medication,identity,auto,medication,0,0,0,0
+dementia,C1367200,medication,identity,auto,medication,0,0,0,0
+dementia,C1367266,medication,identity,auto,medication,0,0,0,0
+dementia,C1369310,medication,identity,auto,medication,0,0,0,0
+dementia,C1377700,medication,identity,auto,medication,0,0,0,0
+dementia,C1377701,medication,identity,auto,medication,0,0,0,0
+dementia,C1576931,medication,identity,auto,medication,0,0,0,0
+dementia,C1576933,medication,identity,auto,medication,0,0,0,0
+dementia,C1577033,medication,identity,auto,medication,0,0,0,0
+dementia,C1602003,medication,identity,auto,medication,0,0,0,0
+dementia,C1613541,medication,identity,auto,medication,0,0,0,0
+dementia,C1617718,medication,identity,auto,medication,0,0,0,0
+dementia,C1703587,medication,identity,auto,medication,0,0,0,0
+dementia,C1724459,medication,identity,auto,medication,0,0,0,0
+dementia,C1961904,medication,identity,auto,medication,0,0,0,0
+dementia,C1961907,medication,identity,auto,medication,0,0,0,0
+dementia,C1965414,medication,identity,auto,medication,0,0,0,0
+dementia,C2719642,medication,identity,auto,medication,0,0,0,0
+dementia,C2719648,medication,identity,auto,medication,0,0,0,0
+dementia,C2719652,medication,identity,auto,medication,0,0,0,0
+dementia,C2719726,medication,identity,auto,medication,0,0,0,0
+dementia,C2918881,medication,identity,auto,medication,0,0,0,0
+dementia,C2918885,medication,identity,auto,medication,0,0,0,0
+dementia,C2918893,medication,identity,auto,medication,0,0,0,0
+dementia,C2918894,medication,identity,auto,medication,0,0,0,0
+dementia,C2918902,medication,identity,auto,medication,0,0,0,0
+dementia,C2918908,medication,identity,auto,medication,0,0,0,0
+dementia,C2918914,medication,identity,auto,medication,0,0,0,0
+dementia,C2918972,medication,identity,auto,medication,0,0,0,0
+dementia,C2918976,medication,identity,auto,medication,0,0,0,0
+dementia,C2918978,medication,identity,auto,medication,0,0,0,0
+dementia,C2920054,medication,identity,auto,medication,0,0,0,0
+dementia,C2920056,medication,identity,auto,medication,0,0,0,0
+dementia,C2920058,medication,identity,auto,medication,0,0,0,0
+dementia,C2920593,medication,identity,auto,medication,0,0,0,0
+dementia,C2920594,medication,identity,auto,medication,0,0,0,0
+dementia,C3205835,medication,identity,auto,medication,0,0,0,0
+dementia,C3205836,medication,identity,auto,medication,0,0,0,0
+dementia,C3205837,medication,identity,auto,medication,0,0,0,0
+dementia,C3206636,medication,identity,auto,medication,0,0,0,0
+dementia,C3206637,medication,identity,auto,medication,0,0,0,0
+dementia,C3206638,medication,identity,auto,medication,0,0,0,0
+dementia,C3212387,medication,identity,auto,medication,0,0,0,0
+dementia,C3212388,medication,identity,auto,medication,0,0,0,0
+dementia,C3212389,medication,identity,auto,medication,0,0,0,0
+dementia,C3212390,medication,identity,auto,medication,0,0,0,0
+dementia,C3213553,medication,identity,auto,medication,0,0,0,0
+dementia,C3213554,medication,identity,auto,medication,0,0,0,0
+dementia,C3214169,medication,identity,auto,medication,0,0,0,0
+dementia,C3214170,medication,identity,auto,medication,0,0,0,0
+dementia,C3214171,medication,identity,auto,medication,0,0,0,0
+dementia,C3214172,medication,identity,auto,medication,0,0,0,0
+dementia,C3214998,medication,identity,auto,medication,0,0,0,0
+dementia,C3214999,medication,identity,auto,medication,0,0,0,0
+dementia,C3215000,medication,identity,auto,medication,0,0,0,0
+dementia,C3216072,medication,identity,auto,medication,0,0,0,0
+dementia,C3216609,medication,identity,auto,medication,0,0,0,0
+dementia,C3216610,medication,identity,auto,medication,0,0,0,0
+dementia,C3217665,medication,identity,auto,medication,0,0,0,0
+dementia,C3217666,medication,identity,auto,medication,0,0,0,0
+dementia,C3217667,medication,identity,auto,medication,0,0,0,0
+dementia,C3217949,medication,identity,auto,medication,0,0,0,0
+dementia,C3217950,medication,identity,auto,medication,0,0,0,0
+dementia,C3217951,medication,identity,auto,medication,0,0,0,0
+dementia,C3219730,medication,identity,auto,medication,0,0,0,0
+dementia,C3219731,medication,identity,auto,medication,0,0,0,0
+dementia,C3219732,medication,identity,auto,medication,0,0,0,0
+dementia,C3465529,medication,identity,auto,medication,0,0,0,0
+dementia,C3465750,medication,identity,auto,medication,0,0,0,0
+dementia,C3465906,medication,identity,auto,medication,0,0,0,0
+dementia,C3465954,medication,identity,auto,medication,0,0,0,0
+dementia,C3466022,medication,identity,auto,medication,0,0,0,0
+dementia,C3497079,medication,identity,auto,medication,0,0,0,0
+dementia,C3872349,medication,identity,auto,medication,0,0,0,0
+dementia,C3872378,medication,identity,auto,medication,0,0,0,0
+dementia,C3872379,medication,identity,auto,medication,0,0,0,0
+dementia,C3883365,medication,identity,auto,medication,0,0,0,0
+dementia,C4043101,medication,closure,keep,medication,0,0,0,0
+dementia,C4084405,medication,identity,auto,medication,0,0,0,0
+dementia,C4084406,medication,identity,auto,medication,0,0,0,0
+dementia,C4084409,medication,identity,auto,medication,0,0,0,0
+dementia,C4084411,medication,identity,auto,medication,0,0,0,0
+dementia,C4084413,medication,identity,auto,medication,0,0,0,0
+dementia,C4255059,medication,identity,auto,medication,0,0,0,0
+dementia,C4276346,medication,identity,auto,medication,0,0,0,0
+dementia,C4723229,medication,identity,auto,medication,0,0,0,0
+dementia,C4723230,medication,identity,auto,medication,0,0,0,0
+dementia,C4723232,medication,identity,auto,medication,0,0,0,0
+dementia,C5242453,medication,seed,auto,medication,0,0,0,0
+dementia,C5455414,medication,closure,keep,medication,0,0,0,0
+dementia,C5455416,medication,identity,auto,medication,0,0,0,0
+dementia,C5455417,medication,identity,auto,medication,0,0,0,0
+dementia,C5455418,medication,identity,auto,medication,0,0,0,0
+dementia,C5455420,medication,identity,auto,medication,0,0,0,0
+dementia,C5578180,medication,identity,auto,medication,0,0,0,0
+dementia,C5578181,medication,identity,auto,medication,0,0,0,0
+dementia,C5578182,medication,identity,auto,medication,0,0,0,0
+dementia,C5578183,medication,identity,auto,medication,0,0,0,0
+dementia,C5578186,medication,identity,auto,medication,0,0,0,0
+dementia,C5578193,medication,identity,auto,medication,0,0,0,0
+dementia,C5707953,medication,seed,auto,medication,0,0,0,0
+dementia,C5770902,medication,seed,auto,medication,0,0,0,0
+dementia,C5770903,medication,identity,auto,medication,0,0,0,0
+dementia,C5770904,medication,identity,auto,medication,0,0,0,0
+dementia,C5770905,medication,identity,auto,medication,0,0,0,0
+dementia,C5770908,medication,identity,auto,medication,0,0,0,0
+dementia,C5789240,medication,identity,auto,medication,0,0,0,0
+dementia,C5814166,medication,identity,auto,medication,0,0,0,0
+dementia,C5814169,medication,identity,auto,medication,0,0,0,0
+dementia,C5816486,medication,identity,auto,medication,0,0,0,0
+dementia,C5941052,medication,seed,auto,medication,0,0,0,0
+dementia,C5941834,medication,identity,auto,medication,0,0,0,0
+dementia,C5942010,medication,identity,auto,medication,0,0,0,0
+dementia,C5942011,medication,identity,auto,medication,0,0,0,0
+dementia,C5942012,medication,identity,auto,medication,0,0,0,0
+dementia,C5942034,medication,identity,auto,medication,0,0,0,0
+dementia,C5942057,medication,identity,auto,medication,0,0,0,0
+dementia,C5942058,medication,identity,auto,medication,0,0,0,0
+dementia,C5966462,medication,identity,auto,medication,0,0,0,0
+dementia,C5966464,medication,identity,auto,medication,0,0,0,0
+dementia,C5966488,medication,identity,auto,medication,0,0,0,0
+dementia,C6049397,medication,identity,auto,medication,0,0,0,0
+dementia,C6049398,medication,identity,auto,medication,0,0,0,0
+dementia,C2919056,disorder,descendant closure,auto,other,0,0,0,0
+dementia,C0027902,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0202230,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0202252,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0427408,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0451306,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0582381,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C1161154,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C1579934,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+dementia,C3641247,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C4555213,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C5820468,proposed,grounded,keep,procedure,0,0,0,0
+dementia,C0234502,proposed,grounded,keep,symptom,0,0,0,0

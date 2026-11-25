@@ -1,0 +1,861 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+obesity,C0723443,medication,identity,auto,medication,1,1826,1,626
+obesity,C0028754,proposed,grounded,keep,disease,1,607,1,221
+obesity,C0520679,proposed,grounded,keep,disease,1,314,1,114
+obesity,C0025611,medication,seed,auto,medication,1,150,1,65
+obesity,C0028756,proposed,grounded,keep,disease,1,110,1,52
+obesity,C0231807,proposed,grounded,keep,symptom,1,104,1,36
+obesity,C0024031,proposed,grounded,keep,symptom,1,55,1,17
+obesity,C3241937,proposed,grounded,keep,disease,1,49,1,19
+obesity,C0231749,proposed,grounded,keep,symptom,1,46,1,20
+obesity,C0017125,closure,one-hop neighbourhood,keep,procedure,1,37,1,19
+obesity,C0043094,proposed,grounded,keep,finding,1,22,1,7
+obesity,C0033845,proposed,grounded,keep,disease,1,14,1,8
+obesity,C1588638,medication,identity,auto,medication,1,14,1,10
+obesity,C1456587,closure,one-hop neighbourhood,keep,procedure,1,14,1,10
+obesity,C0031880,proposed,grounded,keep,disease,1,7,1,3
+obesity,C0021807,proposed,grounded,keep,disease,1,6,0,0
+obesity,C0400966,proposed,grounded,keep,disease,1,6,0,0
+obesity,C5575066,disorder,descendant closure,auto,disease,1,5,1,2
+obesity,C1960816,proposed,grounded,keep,procedure,1,5,1,2
+obesity,C0020505,proposed,grounded,keep,finding,1,3,1,1
+obesity,C1510486,proposed,grounded,keep,procedure,1,3,1,1
+obesity,C0543421,proposed,grounded,keep,lab_result,1,2,1,1
+obesity,C0723575,medication,identity,auto,medication,1,2,0,0
+obesity,C1839736,disorder,descendant closure,auto,disease,1,1,0,0
+obesity,C0221270,closure,one-hop neighbourhood,keep,finding,1,1,0,0
+obesity,C0000889,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0014718,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0016724,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0021655,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+obesity,C0032897,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0042025,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0149974,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0154269,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+obesity,C0221005,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0265223,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0267538,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0267989,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0267990,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0267992,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0267993,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0268425,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0271523,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0271792,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0271885,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0342426,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+obesity,C0342940,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0342941,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0342942,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0342943,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0348480,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0348956,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0451819,proposed,grounded,keep,disease,0,0,0,0
+obesity,C0545039,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0596693,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0752166,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1257763,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+obesity,C1260894,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1275078,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1281440,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1386474,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1532480,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1532609,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1532611,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1532612,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1556381,proposed,grounded,keep,disease,0,0,0,0
+obesity,C1719565,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1834759,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1844836,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1846170,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1846278,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1847522,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1857802,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C1857854,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C2362324,proposed,grounded,keep,disease,0,0,0,0
+obesity,C2931130,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C2937223,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C2937224,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3151303,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3264562,proposed,grounded,keep,disease,0,0,0,0
+obesity,C3472676,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3494506,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3554224,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3809877,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3824872,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C3840088,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4085597,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4273958,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4284592,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4302408,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4302878,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4302879,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4303476,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4317171,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4544640,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4551510,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4693860,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4706414,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4749455,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4751121,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4755253,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C4759305,proposed,grounded,keep,disease,0,0,0,0
+obesity,C5190985,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5190989,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5191050,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5191640,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5438727,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5543403,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5569015,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5680040,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5680229,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5680938,proposed,grounded,keep,disease,0,0,0,0
+obesity,C5681122,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5681294,proposed,grounded,keep,disease,0,0,0,0
+obesity,C5816753,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C5924786,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C6008360,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C6008389,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C6008394,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C6008397,disorder,descendant closure,auto,disease,0,0,0,0
+obesity,C0000765,proposed,grounded,keep,finding,0,0,0,0
+obesity,C0154270,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C0231254,proposed,grounded,keep,finding,0,0,0,0
+obesity,C0239194,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C0241304,proposed,grounded,keep,finding,0,0,0,0
+obesity,C0241373,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C0311277,proposed,grounded,keep,finding,0,0,0,0
+obesity,C0424620,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+obesity,C0424629,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C0424671,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C0424672,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+obesity,C0578026,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+obesity,C1281429,proposed,grounded,keep,finding,0,0,0,0
+obesity,C1319441,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C2233850,proposed,grounded,keep,finding,0,0,0,0
+obesity,C2234466,proposed,grounded,keep,finding,0,0,0,0
+obesity,C3853263,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C3853264,disorder,descendant closure,auto,finding,0,0,0,0
+obesity,C4014364,proposed,grounded,keep,finding,0,0,0,0
+obesity,C4551560,proposed,grounded,keep,finding,0,0,0,0
+obesity,C4703554,proposed,grounded,keep,finding,0,0,0,0
+obesity,C5395284,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+obesity,C0001520,medication,identity,auto,medication,0,0,0,0
+obesity,C0003620,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C0005096,medication,seed,auto,medication,0,0,0,0
+obesity,C0011782,medication,seed,auto,medication,0,0,0,0
+obesity,C0011786,medication,seed,auto,medication,0,0,0,0
+obesity,C0012139,medication,identity,auto,medication,0,0,0,0
+obesity,C0012201,medication,seed,auto,medication,0,0,0,0
+obesity,C0013326,medication,identity,auto,medication,0,0,0,0
+obesity,C0015827,medication,seed,auto,medication,0,0,0,0
+obesity,C0022016,medication,identity,auto,medication,0,0,0,0
+obesity,C0024977,medication,seed,auto,medication,0,0,0,0
+obesity,C0031411,medication,seed,auto,medication,0,0,0,0
+obesity,C0031447,medication,seed,auto,medication,0,0,0,0
+obesity,C0031495,medication,seed,auto,medication,0,0,0,0
+obesity,C0070549,medication,seed,auto,medication,0,0,0,0
+obesity,C0074493,medication,seed,auto,medication,0,0,0,0
+obesity,C0076275,medication,seed,auto,medication,0,0,0,0
+obesity,C0142278,medication,seed,auto,medication,0,0,0,0
+obesity,C0148932,medication,seed,auto,medication,0,0,0,0
+obesity,C0282133,medication,seed,auto,medication,0,0,0,0
+obesity,C0282179,medication,seed,auto,medication,0,0,0,0
+obesity,C0282304,medication,seed,auto,medication,0,0,0,0
+obesity,C0355335,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C0546851,medication,seed,auto,medication,0,0,0,0
+obesity,C0591041,medication,identity,auto,medication,0,0,0,0
+obesity,C0597686,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C0600560,medication,seed,auto,medication,0,0,0,0
+obesity,C0635898,medication,identity,auto,medication,0,0,0,0
+obesity,C0678510,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C0699042,medication,identity,auto,medication,0,0,0,0
+obesity,C0699048,medication,identity,auto,medication,0,0,0,0
+obesity,C0700556,medication,seed,auto,medication,0,0,0,0
+obesity,C0700679,medication,identity,auto,medication,0,0,0,0
+obesity,C0718266,medication,identity,auto,medication,0,0,0,0
+obesity,C0718393,medication,identity,auto,medication,0,0,0,0
+obesity,C0718616,medication,identity,auto,medication,0,0,0,0
+obesity,C0718992,medication,identity,auto,medication,0,0,0,0
+obesity,C0719251,medication,identity,auto,medication,0,0,0,0
+obesity,C0719403,medication,identity,auto,medication,0,0,0,0
+obesity,C0719668,medication,identity,auto,medication,0,0,0,0
+obesity,C0719727,medication,identity,auto,medication,0,0,0,0
+obesity,C0719916,medication,identity,auto,medication,0,0,0,0
+obesity,C0720158,medication,identity,auto,medication,0,0,0,0
+obesity,C0720192,medication,identity,auto,medication,0,0,0,0
+obesity,C0720200,medication,identity,auto,medication,0,0,0,0
+obesity,C0720204,medication,identity,auto,medication,0,0,0,0
+obesity,C0720371,medication,identity,auto,medication,0,0,0,0
+obesity,C0720880,medication,identity,auto,medication,0,0,0,0
+obesity,C0720912,medication,identity,auto,medication,0,0,0,0
+obesity,C0720915,medication,identity,auto,medication,0,0,0,0
+obesity,C0720987,medication,identity,auto,medication,0,0,0,0
+obesity,C0721202,medication,identity,auto,medication,0,0,0,0
+obesity,C0721380,medication,identity,auto,medication,0,0,0,0
+obesity,C0721381,medication,identity,auto,medication,0,0,0,0
+obesity,C0721682,medication,identity,auto,medication,0,0,0,0
+obesity,C0721826,medication,identity,auto,medication,0,0,0,0
+obesity,C0721827,medication,identity,auto,medication,0,0,0,0
+obesity,C0721898,medication,identity,auto,medication,0,0,0,0
+obesity,C0722210,medication,identity,auto,medication,0,0,0,0
+obesity,C0722211,medication,identity,auto,medication,0,0,0,0
+obesity,C0722212,medication,identity,auto,medication,0,0,0,0
+obesity,C0722214,medication,identity,auto,medication,0,0,0,0
+obesity,C0722215,medication,identity,auto,medication,0,0,0,0
+obesity,C0722307,medication,identity,auto,medication,0,0,0,0
+obesity,C0722485,medication,identity,auto,medication,0,0,0,0
+obesity,C0722588,medication,identity,auto,medication,0,0,0,0
+obesity,C0722589,medication,identity,auto,medication,0,0,0,0
+obesity,C0722600,medication,identity,auto,medication,0,0,0,0
+obesity,C0722603,medication,identity,auto,medication,0,0,0,0
+obesity,C0722653,medication,identity,auto,medication,0,0,0,0
+obesity,C0722666,medication,identity,auto,medication,0,0,0,0
+obesity,C0722680,medication,identity,auto,medication,0,0,0,0
+obesity,C0722681,medication,identity,auto,medication,0,0,0,0
+obesity,C0722748,medication,identity,auto,medication,0,0,0,0
+obesity,C0722856,medication,identity,auto,medication,0,0,0,0
+obesity,C0722941,medication,identity,auto,medication,0,0,0,0
+obesity,C0723059,medication,identity,auto,medication,0,0,0,0
+obesity,C0723133,medication,identity,auto,medication,0,0,0,0
+obesity,C0723174,medication,identity,auto,medication,0,0,0,0
+obesity,C0723442,medication,identity,auto,medication,0,0,0,0
+obesity,C0723444,medication,identity,auto,medication,0,0,0,0
+obesity,C0723573,medication,identity,auto,medication,0,0,0,0
+obesity,C0723606,medication,identity,auto,medication,0,0,0,0
+obesity,C0723644,medication,identity,auto,medication,0,0,0,0
+obesity,C0723647,medication,identity,auto,medication,0,0,0,0
+obesity,C0723833,medication,identity,auto,medication,0,0,0,0
+obesity,C0723858,medication,identity,auto,medication,0,0,0,0
+obesity,C0724237,medication,identity,auto,medication,0,0,0,0
+obesity,C0724392,medication,identity,auto,medication,0,0,0,0
+obesity,C0724397,medication,identity,auto,medication,0,0,0,0
+obesity,C0724398,medication,identity,auto,medication,0,0,0,0
+obesity,C0724457,medication,identity,auto,medication,0,0,0,0
+obesity,C0724659,medication,seed,auto,medication,0,0,0,0
+obesity,C0724661,medication,seed,auto,medication,0,0,0,0
+obesity,C0724692,medication,seed,auto,medication,0,0,0,0
+obesity,C0728749,medication,identity,auto,medication,0,0,0,0
+obesity,C0728754,medication,identity,auto,medication,0,0,0,0
+obesity,C0728779,medication,identity,auto,medication,0,0,0,0
+obesity,C0728809,medication,identity,auto,medication,0,0,0,0
+obesity,C0732649,medication,identity,auto,medication,0,0,0,0
+obesity,C0733636,medication,identity,auto,medication,0,0,0,0
+obesity,C0733638,medication,identity,auto,medication,0,0,0,0
+obesity,C0733725,medication,identity,auto,medication,0,0,0,0
+obesity,C0876145,medication,identity,auto,medication,0,0,0,0
+obesity,C0960052,medication,seed,auto,medication,0,0,0,0
+obesity,C0987556,medication,identity,auto,medication,0,0,0,0
+obesity,C0988762,medication,identity,auto,medication,0,0,0,0
+obesity,C0992565,medication,identity,auto,medication,0,0,0,0
+obesity,C1123076,medication,identity,auto,medication,0,0,0,0
+obesity,C1123251,medication,identity,auto,medication,0,0,0,0
+obesity,C1123277,medication,identity,auto,medication,0,0,0,0
+obesity,C1123585,medication,identity,auto,medication,0,0,0,0
+obesity,C1123632,medication,identity,auto,medication,0,0,0,0
+obesity,C1123633,medication,identity,auto,medication,0,0,0,0
+obesity,C1124131,medication,identity,auto,medication,0,0,0,0
+obesity,C1124480,medication,identity,auto,medication,0,0,0,0
+obesity,C1125020,medication,identity,auto,medication,0,0,0,0
+obesity,C1125636,medication,identity,auto,medication,0,0,0,0
+obesity,C1126041,medication,identity,auto,medication,0,0,0,0
+obesity,C1126173,medication,identity,auto,medication,0,0,0,0
+obesity,C1126260,medication,identity,auto,medication,0,0,0,0
+obesity,C1127707,medication,identity,auto,medication,0,0,0,0
+obesity,C1128018,medication,identity,auto,medication,0,0,0,0
+obesity,C1128516,medication,identity,auto,medication,0,0,0,0
+obesity,C1129101,medication,identity,auto,medication,0,0,0,0
+obesity,C1129108,medication,identity,auto,medication,0,0,0,0
+obesity,C1130617,medication,identity,auto,medication,0,0,0,0
+obesity,C1132380,medication,identity,auto,medication,0,0,0,0
+obesity,C1132410,medication,identity,auto,medication,0,0,0,0
+obesity,C1132416,medication,identity,auto,medication,0,0,0,0
+obesity,C1133054,medication,identity,auto,medication,0,0,0,0
+obesity,C1133075,medication,identity,auto,medication,0,0,0,0
+obesity,C1133167,medication,identity,auto,medication,0,0,0,0
+obesity,C1133687,medication,identity,auto,medication,0,0,0,0
+obesity,C1134105,medication,identity,auto,medication,0,0,0,0
+obesity,C1134228,medication,identity,auto,medication,0,0,0,0
+obesity,C1160765,medication,identity,auto,medication,0,0,0,0
+obesity,C1245070,medication,identity,auto,medication,0,0,0,0
+obesity,C1245170,medication,identity,auto,medication,0,0,0,0
+obesity,C1245172,medication,identity,auto,medication,0,0,0,0
+obesity,C1245464,medication,identity,auto,medication,0,0,0,0
+obesity,C1245465,medication,identity,auto,medication,0,0,0,0
+obesity,C1245466,medication,identity,auto,medication,0,0,0,0
+obesity,C1245469,medication,identity,auto,medication,0,0,0,0
+obesity,C1245471,medication,identity,auto,medication,0,0,0,0
+obesity,C1245472,medication,identity,auto,medication,0,0,0,0
+obesity,C1245586,medication,identity,auto,medication,0,0,0,0
+obesity,C1245587,medication,identity,auto,medication,0,0,0,0
+obesity,C1245786,medication,identity,auto,medication,0,0,0,0
+obesity,C1245864,medication,identity,auto,medication,0,0,0,0
+obesity,C1245865,medication,identity,auto,medication,0,0,0,0
+obesity,C1246194,medication,identity,auto,medication,0,0,0,0
+obesity,C1246195,medication,identity,auto,medication,0,0,0,0
+obesity,C1246196,medication,identity,auto,medication,0,0,0,0
+obesity,C1246197,medication,identity,auto,medication,0,0,0,0
+obesity,C1246777,medication,identity,auto,medication,0,0,0,0
+obesity,C1246778,medication,identity,auto,medication,0,0,0,0
+obesity,C1246869,medication,identity,auto,medication,0,0,0,0
+obesity,C1246870,medication,identity,auto,medication,0,0,0,0
+obesity,C1247213,medication,identity,auto,medication,0,0,0,0
+obesity,C1247369,medication,identity,auto,medication,0,0,0,0
+obesity,C1247370,medication,identity,auto,medication,0,0,0,0
+obesity,C1247371,medication,identity,auto,medication,0,0,0,0
+obesity,C1247372,medication,identity,auto,medication,0,0,0,0
+obesity,C1247379,medication,identity,auto,medication,0,0,0,0
+obesity,C1247414,medication,identity,auto,medication,0,0,0,0
+obesity,C1247415,medication,identity,auto,medication,0,0,0,0
+obesity,C1247416,medication,identity,auto,medication,0,0,0,0
+obesity,C1247464,medication,identity,auto,medication,0,0,0,0
+obesity,C1247465,medication,identity,auto,medication,0,0,0,0
+obesity,C1247466,medication,identity,auto,medication,0,0,0,0
+obesity,C1247467,medication,identity,auto,medication,0,0,0,0
+obesity,C1247468,medication,identity,auto,medication,0,0,0,0
+obesity,C1247469,medication,identity,auto,medication,0,0,0,0
+obesity,C1247470,medication,identity,auto,medication,0,0,0,0
+obesity,C1247471,medication,identity,auto,medication,0,0,0,0
+obesity,C1247472,medication,identity,auto,medication,0,0,0,0
+obesity,C1247473,medication,identity,auto,medication,0,0,0,0
+obesity,C1247475,medication,identity,auto,medication,0,0,0,0
+obesity,C1247476,medication,identity,auto,medication,0,0,0,0
+obesity,C1247477,medication,identity,auto,medication,0,0,0,0
+obesity,C1247478,medication,identity,auto,medication,0,0,0,0
+obesity,C1247481,medication,identity,auto,medication,0,0,0,0
+obesity,C1247484,medication,identity,auto,medication,0,0,0,0
+obesity,C1247485,medication,identity,auto,medication,0,0,0,0
+obesity,C1247487,medication,identity,auto,medication,0,0,0,0
+obesity,C1247488,medication,identity,auto,medication,0,0,0,0
+obesity,C1247940,medication,identity,auto,medication,0,0,0,0
+obesity,C1248488,medication,identity,auto,medication,0,0,0,0
+obesity,C1248589,medication,identity,auto,medication,0,0,0,0
+obesity,C1248655,medication,identity,auto,medication,0,0,0,0
+obesity,C1248755,medication,identity,auto,medication,0,0,0,0
+obesity,C1248774,medication,identity,auto,medication,0,0,0,0
+obesity,C1248778,medication,identity,auto,medication,0,0,0,0
+obesity,C1248782,medication,identity,auto,medication,0,0,0,0
+obesity,C1248785,medication,identity,auto,medication,0,0,0,0
+obesity,C1248791,medication,identity,auto,medication,0,0,0,0
+obesity,C1248795,medication,identity,auto,medication,0,0,0,0
+obesity,C1248797,medication,identity,auto,medication,0,0,0,0
+obesity,C1248802,medication,identity,auto,medication,0,0,0,0
+obesity,C1248803,medication,identity,auto,medication,0,0,0,0
+obesity,C1248806,medication,identity,auto,medication,0,0,0,0
+obesity,C1248808,medication,identity,auto,medication,0,0,0,0
+obesity,C1248809,medication,identity,auto,medication,0,0,0,0
+obesity,C1248813,medication,identity,auto,medication,0,0,0,0
+obesity,C1248821,medication,identity,auto,medication,0,0,0,0
+obesity,C1248822,medication,identity,auto,medication,0,0,0,0
+obesity,C1248823,medication,identity,auto,medication,0,0,0,0
+obesity,C1248824,medication,identity,auto,medication,0,0,0,0
+obesity,C1248826,medication,identity,auto,medication,0,0,0,0
+obesity,C1248828,medication,identity,auto,medication,0,0,0,0
+obesity,C1248831,medication,identity,auto,medication,0,0,0,0
+obesity,C1248853,medication,identity,auto,medication,0,0,0,0
+obesity,C1248854,medication,identity,auto,medication,0,0,0,0
+obesity,C1248861,medication,identity,auto,medication,0,0,0,0
+obesity,C1248868,medication,identity,auto,medication,0,0,0,0
+obesity,C1248878,medication,identity,auto,medication,0,0,0,0
+obesity,C1248879,medication,identity,auto,medication,0,0,0,0
+obesity,C1248884,medication,identity,auto,medication,0,0,0,0
+obesity,C1248900,medication,identity,auto,medication,0,0,0,0
+obesity,C1248901,medication,identity,auto,medication,0,0,0,0
+obesity,C1248904,medication,identity,auto,medication,0,0,0,0
+obesity,C1248914,medication,identity,auto,medication,0,0,0,0
+obesity,C1248921,medication,identity,auto,medication,0,0,0,0
+obesity,C1248922,medication,identity,auto,medication,0,0,0,0
+obesity,C1248958,medication,identity,auto,medication,0,0,0,0
+obesity,C1249035,medication,identity,auto,medication,0,0,0,0
+obesity,C1249108,medication,identity,auto,medication,0,0,0,0
+obesity,C1249516,medication,identity,auto,medication,0,0,0,0
+obesity,C1249519,medication,identity,auto,medication,0,0,0,0
+obesity,C1249522,medication,identity,auto,medication,0,0,0,0
+obesity,C1249575,medication,identity,auto,medication,0,0,0,0
+obesity,C1249712,medication,identity,auto,medication,0,0,0,0
+obesity,C1249825,medication,identity,auto,medication,0,0,0,0
+obesity,C1250162,medication,identity,auto,medication,0,0,0,0
+obesity,C1250166,medication,identity,auto,medication,0,0,0,0
+obesity,C1250167,medication,identity,auto,medication,0,0,0,0
+obesity,C1250181,medication,identity,auto,medication,0,0,0,0
+obesity,C1250183,medication,identity,auto,medication,0,0,0,0
+obesity,C1250242,medication,identity,auto,medication,0,0,0,0
+obesity,C1250243,medication,identity,auto,medication,0,0,0,0
+obesity,C1250259,medication,identity,auto,medication,0,0,0,0
+obesity,C1250305,medication,identity,auto,medication,0,0,0,0
+obesity,C1250316,medication,identity,auto,medication,0,0,0,0
+obesity,C1250548,medication,identity,auto,medication,0,0,0,0
+obesity,C1251013,medication,identity,auto,medication,0,0,0,0
+obesity,C1251280,medication,identity,auto,medication,0,0,0,0
+obesity,C1251682,medication,identity,auto,medication,0,0,0,0
+obesity,C1251790,medication,identity,auto,medication,0,0,0,0
+obesity,C1252330,medication,identity,auto,medication,0,0,0,0
+obesity,C1252331,medication,identity,auto,medication,0,0,0,0
+obesity,C1252362,medication,identity,auto,medication,0,0,0,0
+obesity,C1252440,medication,identity,auto,medication,0,0,0,0
+obesity,C1252441,medication,identity,auto,medication,0,0,0,0
+obesity,C1252637,medication,identity,auto,medication,0,0,0,0
+obesity,C1252639,medication,identity,auto,medication,0,0,0,0
+obesity,C1252648,medication,identity,auto,medication,0,0,0,0
+obesity,C1252710,medication,identity,auto,medication,0,0,0,0
+obesity,C1252920,medication,identity,auto,medication,0,0,0,0
+obesity,C1252932,medication,identity,auto,medication,0,0,0,0
+obesity,C1252941,medication,identity,auto,medication,0,0,0,0
+obesity,C1253061,medication,identity,auto,medication,0,0,0,0
+obesity,C1253192,medication,identity,auto,medication,0,0,0,0
+obesity,C1253530,medication,identity,auto,medication,0,0,0,0
+obesity,C1253674,medication,identity,auto,medication,0,0,0,0
+obesity,C1253896,medication,identity,auto,medication,0,0,0,0
+obesity,C1268854,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C1270966,medication,identity,auto,medication,0,0,0,0
+obesity,C1363979,medication,identity,auto,medication,0,0,0,0
+obesity,C1364138,medication,identity,auto,medication,0,0,0,0
+obesity,C1366317,medication,identity,auto,medication,0,0,0,0
+obesity,C1366318,medication,identity,auto,medication,0,0,0,0
+obesity,C1366320,medication,identity,auto,medication,0,0,0,0
+obesity,C1367378,medication,identity,auto,medication,0,0,0,0
+obesity,C1368408,medication,identity,auto,medication,0,0,0,0
+obesity,C1368410,medication,identity,auto,medication,0,0,0,0
+obesity,C1368411,medication,identity,auto,medication,0,0,0,0
+obesity,C1368412,medication,identity,auto,medication,0,0,0,0
+obesity,C1368413,medication,identity,auto,medication,0,0,0,0
+obesity,C1368415,medication,identity,auto,medication,0,0,0,0
+obesity,C1369133,medication,identity,auto,medication,0,0,0,0
+obesity,C1370340,medication,identity,auto,medication,0,0,0,0
+obesity,C1371239,medication,identity,auto,medication,0,0,0,0
+obesity,C1382134,medication,identity,auto,medication,0,0,0,0
+obesity,C1382135,medication,identity,auto,medication,0,0,0,0
+obesity,C1382228,medication,identity,auto,medication,0,0,0,0
+obesity,C1383849,medication,identity,auto,medication,0,0,0,0
+obesity,C1448380,medication,identity,auto,medication,0,0,0,0
+obesity,C1448391,medication,identity,auto,medication,0,0,0,0
+obesity,C1562104,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+obesity,C1577007,medication,identity,auto,medication,0,0,0,0
+obesity,C1577035,medication,identity,auto,medication,0,0,0,0
+obesity,C1577036,medication,identity,auto,medication,0,0,0,0
+obesity,C1577040,medication,identity,auto,medication,0,0,0,0
+obesity,C1577044,medication,identity,auto,medication,0,0,0,0
+obesity,C1577049,medication,identity,auto,medication,0,0,0,0
+obesity,C1577053,medication,identity,auto,medication,0,0,0,0
+obesity,C1577080,medication,identity,auto,medication,0,0,0,0
+obesity,C1577103,medication,identity,auto,medication,0,0,0,0
+obesity,C1577136,medication,identity,auto,medication,0,0,0,0
+obesity,C1577236,medication,identity,auto,medication,0,0,0,0
+obesity,C1577267,medication,identity,auto,medication,0,0,0,0
+obesity,C1577284,medication,identity,auto,medication,0,0,0,0
+obesity,C1577371,medication,identity,auto,medication,0,0,0,0
+obesity,C1577372,medication,identity,auto,medication,0,0,0,0
+obesity,C1577382,medication,identity,auto,medication,0,0,0,0
+obesity,C1587962,medication,identity,auto,medication,0,0,0,0
+obesity,C1588635,medication,identity,auto,medication,0,0,0,0
+obesity,C1588641,medication,identity,auto,medication,0,0,0,0
+obesity,C1588644,medication,identity,auto,medication,0,0,0,0
+obesity,C1588991,medication,identity,auto,medication,0,0,0,0
+obesity,C1589191,medication,identity,auto,medication,0,0,0,0
+obesity,C1589198,medication,identity,auto,medication,0,0,0,0
+obesity,C1591292,medication,identity,auto,medication,0,0,0,0
+obesity,C1591400,medication,identity,auto,medication,0,0,0,0
+obesity,C1591413,medication,identity,auto,medication,0,0,0,0
+obesity,C1591445,medication,identity,auto,medication,0,0,0,0
+obesity,C1602131,medication,identity,auto,medication,0,0,0,0
+obesity,C1602147,medication,identity,auto,medication,0,0,0,0
+obesity,C1602161,medication,identity,auto,medication,0,0,0,0
+obesity,C1602170,medication,identity,auto,medication,0,0,0,0
+obesity,C1602896,medication,identity,auto,medication,0,0,0,0
+obesity,C1602899,medication,identity,auto,medication,0,0,0,0
+obesity,C1602902,medication,identity,auto,medication,0,0,0,0
+obesity,C1602905,medication,identity,auto,medication,0,0,0,0
+obesity,C1602910,medication,identity,auto,medication,0,0,0,0
+obesity,C1618536,medication,identity,auto,medication,0,0,0,0
+obesity,C1703212,medication,identity,auto,medication,0,0,0,0
+obesity,C1738061,medication,identity,auto,medication,0,0,0,0
+obesity,C1871879,medication,identity,auto,medication,0,0,0,0
+obesity,C1876054,medication,identity,auto,medication,0,0,0,0
+obesity,C1948547,medication,identity,auto,medication,0,0,0,0
+obesity,C1967573,medication,identity,auto,medication,0,0,0,0
+obesity,C2241260,medication,identity,auto,medication,0,0,0,0
+obesity,C2350948,medication,seed,auto,medication,0,0,0,0
+obesity,C2356293,medication,identity,auto,medication,0,0,0,0
+obesity,C2366057,medication,identity,auto,medication,0,0,0,0
+obesity,C2366059,medication,identity,auto,medication,0,0,0,0
+obesity,C2369551,medication,identity,auto,medication,0,0,0,0
+obesity,C2369735,medication,identity,auto,medication,0,0,0,0
+obesity,C2369818,medication,identity,auto,medication,0,0,0,0
+obesity,C2369822,medication,identity,auto,medication,0,0,0,0
+obesity,C2684040,medication,identity,auto,medication,0,0,0,0
+obesity,C2697942,medication,seed,auto,medication,0,0,0,0
+obesity,C2719382,medication,identity,auto,medication,0,0,0,0
+obesity,C2719764,medication,identity,auto,medication,0,0,0,0
+obesity,C2723225,medication,identity,auto,medication,0,0,0,0
+obesity,C2740960,medication,identity,auto,medication,0,0,0,0
+obesity,C2746887,medication,identity,auto,medication,0,0,0,0
+obesity,C2746889,medication,identity,auto,medication,0,0,0,0
+obesity,C2911832,medication,identity,auto,medication,0,0,0,0
+obesity,C2911835,medication,identity,auto,medication,0,0,0,0
+obesity,C2911837,medication,identity,auto,medication,0,0,0,0
+obesity,C2911841,medication,identity,auto,medication,0,0,0,0
+obesity,C2912037,medication,identity,auto,medication,0,0,0,0
+obesity,C2912045,medication,identity,auto,medication,0,0,0,0
+obesity,C2912350,medication,identity,auto,medication,0,0,0,0
+obesity,C2912354,medication,identity,auto,medication,0,0,0,0
+obesity,C2912356,medication,identity,auto,medication,0,0,0,0
+obesity,C2918114,medication,identity,auto,medication,0,0,0,0
+obesity,C2918117,medication,identity,auto,medication,0,0,0,0
+obesity,C2918503,medication,identity,auto,medication,0,0,0,0
+obesity,C2918514,medication,identity,auto,medication,0,0,0,0
+obesity,C2918548,medication,identity,auto,medication,0,0,0,0
+obesity,C2918866,medication,identity,auto,medication,0,0,0,0
+obesity,C2918872,medication,identity,auto,medication,0,0,0,0
+obesity,C2940595,medication,identity,auto,medication,0,0,0,0
+obesity,C2940614,medication,identity,auto,medication,0,0,0,0
+obesity,C2940712,medication,identity,auto,medication,0,0,0,0
+obesity,C2961378,medication,identity,auto,medication,0,0,0,0
+obesity,C2961380,medication,identity,auto,medication,0,0,0,0
+obesity,C2961382,medication,identity,auto,medication,0,0,0,0
+obesity,C3160363,medication,identity,auto,medication,0,0,0,0
+obesity,C3160365,medication,identity,auto,medication,0,0,0,0
+obesity,C3190599,medication,identity,auto,medication,0,0,0,0
+obesity,C3191091,medication,identity,auto,medication,0,0,0,0
+obesity,C3191092,medication,identity,auto,medication,0,0,0,0
+obesity,C3191095,medication,identity,auto,medication,0,0,0,0
+obesity,C3205654,medication,identity,auto,medication,0,0,0,0
+obesity,C3205704,medication,identity,auto,medication,0,0,0,0
+obesity,C3205705,medication,identity,auto,medication,0,0,0,0
+obesity,C3205725,medication,identity,auto,medication,0,0,0,0
+obesity,C3205726,medication,identity,auto,medication,0,0,0,0
+obesity,C3206428,medication,identity,auto,medication,0,0,0,0
+obesity,C3206429,medication,identity,auto,medication,0,0,0,0
+obesity,C3206430,medication,identity,auto,medication,0,0,0,0
+obesity,C3206431,medication,identity,auto,medication,0,0,0,0
+obesity,C3206746,medication,identity,auto,medication,0,0,0,0
+obesity,C3206747,medication,identity,auto,medication,0,0,0,0
+obesity,C3206837,medication,identity,auto,medication,0,0,0,0
+obesity,C3206838,medication,identity,auto,medication,0,0,0,0
+obesity,C3206869,medication,identity,auto,medication,0,0,0,0
+obesity,C3206871,medication,identity,auto,medication,0,0,0,0
+obesity,C3206872,medication,identity,auto,medication,0,0,0,0
+obesity,C3207167,medication,identity,auto,medication,0,0,0,0
+obesity,C3207168,medication,identity,auto,medication,0,0,0,0
+obesity,C3207268,medication,identity,auto,medication,0,0,0,0
+obesity,C3207269,medication,identity,auto,medication,0,0,0,0
+obesity,C3207485,medication,identity,auto,medication,0,0,0,0
+obesity,C3207486,medication,identity,auto,medication,0,0,0,0
+obesity,C3207706,medication,identity,auto,medication,0,0,0,0
+obesity,C3207707,medication,identity,auto,medication,0,0,0,0
+obesity,C3208019,medication,identity,auto,medication,0,0,0,0
+obesity,C3208020,medication,identity,auto,medication,0,0,0,0
+obesity,C3208026,medication,identity,auto,medication,0,0,0,0
+obesity,C3208027,medication,identity,auto,medication,0,0,0,0
+obesity,C3208204,medication,identity,auto,medication,0,0,0,0
+obesity,C3208205,medication,identity,auto,medication,0,0,0,0
+obesity,C3208239,medication,identity,auto,medication,0,0,0,0
+obesity,C3208240,medication,identity,auto,medication,0,0,0,0
+obesity,C3208351,medication,identity,auto,medication,0,0,0,0
+obesity,C3208352,medication,identity,auto,medication,0,0,0,0
+obesity,C3208357,medication,identity,auto,medication,0,0,0,0
+obesity,C3208358,medication,identity,auto,medication,0,0,0,0
+obesity,C3208635,medication,identity,auto,medication,0,0,0,0
+obesity,C3208636,medication,identity,auto,medication,0,0,0,0
+obesity,C3208641,medication,identity,auto,medication,0,0,0,0
+obesity,C3208642,medication,identity,auto,medication,0,0,0,0
+obesity,C3208643,medication,identity,auto,medication,0,0,0,0
+obesity,C3208733,medication,identity,auto,medication,0,0,0,0
+obesity,C3208734,medication,identity,auto,medication,0,0,0,0
+obesity,C3208752,medication,identity,auto,medication,0,0,0,0
+obesity,C3208753,medication,identity,auto,medication,0,0,0,0
+obesity,C3208763,medication,identity,auto,medication,0,0,0,0
+obesity,C3208764,medication,identity,auto,medication,0,0,0,0
+obesity,C3208867,medication,identity,auto,medication,0,0,0,0
+obesity,C3208868,medication,identity,auto,medication,0,0,0,0
+obesity,C3208952,medication,identity,auto,medication,0,0,0,0
+obesity,C3208953,medication,identity,auto,medication,0,0,0,0
+obesity,C3208957,medication,identity,auto,medication,0,0,0,0
+obesity,C3208958,medication,identity,auto,medication,0,0,0,0
+obesity,C3208959,medication,identity,auto,medication,0,0,0,0
+obesity,C3208960,medication,identity,auto,medication,0,0,0,0
+obesity,C3209010,medication,identity,auto,medication,0,0,0,0
+obesity,C3209011,medication,identity,auto,medication,0,0,0,0
+obesity,C3209047,medication,identity,auto,medication,0,0,0,0
+obesity,C3209048,medication,identity,auto,medication,0,0,0,0
+obesity,C3209049,medication,identity,auto,medication,0,0,0,0
+obesity,C3209050,medication,identity,auto,medication,0,0,0,0
+obesity,C3209129,medication,identity,auto,medication,0,0,0,0
+obesity,C3209130,medication,identity,auto,medication,0,0,0,0
+obesity,C3209246,medication,identity,auto,medication,0,0,0,0
+obesity,C3209247,medication,identity,auto,medication,0,0,0,0
+obesity,C3209259,medication,identity,auto,medication,0,0,0,0
+obesity,C3209260,medication,identity,auto,medication,0,0,0,0
+obesity,C3209261,medication,identity,auto,medication,0,0,0,0
+obesity,C3209262,medication,identity,auto,medication,0,0,0,0
+obesity,C3209263,medication,identity,auto,medication,0,0,0,0
+obesity,C3209264,medication,identity,auto,medication,0,0,0,0
+obesity,C3209265,medication,identity,auto,medication,0,0,0,0
+obesity,C3209266,medication,identity,auto,medication,0,0,0,0
+obesity,C3209267,medication,identity,auto,medication,0,0,0,0
+obesity,C3209269,medication,identity,auto,medication,0,0,0,0
+obesity,C3209270,medication,identity,auto,medication,0,0,0,0
+obesity,C3209303,medication,identity,auto,medication,0,0,0,0
+obesity,C3209325,medication,identity,auto,medication,0,0,0,0
+obesity,C3209326,medication,identity,auto,medication,0,0,0,0
+obesity,C3209327,medication,identity,auto,medication,0,0,0,0
+obesity,C3209328,medication,identity,auto,medication,0,0,0,0
+obesity,C3209329,medication,identity,auto,medication,0,0,0,0
+obesity,C3209372,medication,identity,auto,medication,0,0,0,0
+obesity,C3209373,medication,identity,auto,medication,0,0,0,0
+obesity,C3209585,medication,identity,auto,medication,0,0,0,0
+obesity,C3209586,medication,identity,auto,medication,0,0,0,0
+obesity,C3209587,medication,identity,auto,medication,0,0,0,0
+obesity,C3209588,medication,identity,auto,medication,0,0,0,0
+obesity,C3209589,medication,identity,auto,medication,0,0,0,0
+obesity,C3209590,medication,identity,auto,medication,0,0,0,0
+obesity,C3209591,medication,identity,auto,medication,0,0,0,0
+obesity,C3209592,medication,identity,auto,medication,0,0,0,0
+obesity,C3209593,medication,identity,auto,medication,0,0,0,0
+obesity,C3209594,medication,identity,auto,medication,0,0,0,0
+obesity,C3209596,medication,identity,auto,medication,0,0,0,0
+obesity,C3209597,medication,identity,auto,medication,0,0,0,0
+obesity,C3209598,medication,identity,auto,medication,0,0,0,0
+obesity,C3209606,medication,identity,auto,medication,0,0,0,0
+obesity,C3209661,medication,identity,auto,medication,0,0,0,0
+obesity,C3209662,medication,identity,auto,medication,0,0,0,0
+obesity,C3209695,medication,identity,auto,medication,0,0,0,0
+obesity,C3209696,medication,identity,auto,medication,0,0,0,0
+obesity,C3209697,medication,identity,auto,medication,0,0,0,0
+obesity,C3209698,medication,identity,auto,medication,0,0,0,0
+obesity,C3209708,medication,identity,auto,medication,0,0,0,0
+obesity,C3209709,medication,identity,auto,medication,0,0,0,0
+obesity,C3209710,medication,identity,auto,medication,0,0,0,0
+obesity,C3209711,medication,identity,auto,medication,0,0,0,0
+obesity,C3209712,medication,identity,auto,medication,0,0,0,0
+obesity,C3209713,medication,identity,auto,medication,0,0,0,0
+obesity,C3209842,medication,identity,auto,medication,0,0,0,0
+obesity,C3209843,medication,identity,auto,medication,0,0,0,0
+obesity,C3209851,medication,identity,auto,medication,0,0,0,0
+obesity,C3209896,medication,identity,auto,medication,0,0,0,0
+obesity,C3209897,medication,identity,auto,medication,0,0,0,0
+obesity,C3209902,medication,identity,auto,medication,0,0,0,0
+obesity,C3209903,medication,identity,auto,medication,0,0,0,0
+obesity,C3210004,medication,identity,auto,medication,0,0,0,0
+obesity,C3210005,medication,identity,auto,medication,0,0,0,0
+obesity,C3210029,medication,identity,auto,medication,0,0,0,0
+obesity,C3210030,medication,identity,auto,medication,0,0,0,0
+obesity,C3210035,medication,identity,auto,medication,0,0,0,0
+obesity,C3210036,medication,identity,auto,medication,0,0,0,0
+obesity,C3210156,medication,identity,auto,medication,0,0,0,0
+obesity,C3210165,medication,identity,auto,medication,0,0,0,0
+obesity,C3210166,medication,identity,auto,medication,0,0,0,0
+obesity,C3210167,medication,identity,auto,medication,0,0,0,0
+obesity,C3210181,medication,identity,auto,medication,0,0,0,0
+obesity,C3210182,medication,identity,auto,medication,0,0,0,0
+obesity,C3210350,medication,identity,auto,medication,0,0,0,0
+obesity,C3210351,medication,identity,auto,medication,0,0,0,0
+obesity,C3210363,medication,identity,auto,medication,0,0,0,0
+obesity,C3210364,medication,identity,auto,medication,0,0,0,0
+obesity,C3210365,medication,identity,auto,medication,0,0,0,0
+obesity,C3210416,medication,identity,auto,medication,0,0,0,0
+obesity,C3210417,medication,identity,auto,medication,0,0,0,0
+obesity,C3210434,medication,identity,auto,medication,0,0,0,0
+obesity,C3210435,medication,identity,auto,medication,0,0,0,0
+obesity,C3210478,medication,identity,auto,medication,0,0,0,0
+obesity,C3210479,medication,identity,auto,medication,0,0,0,0
+obesity,C3210480,medication,identity,auto,medication,0,0,0,0
+obesity,C3210486,medication,identity,auto,medication,0,0,0,0
+obesity,C3210487,medication,identity,auto,medication,0,0,0,0
+obesity,C3210488,medication,identity,auto,medication,0,0,0,0
+obesity,C3211433,medication,identity,auto,medication,0,0,0,0
+obesity,C3211434,medication,identity,auto,medication,0,0,0,0
+obesity,C3211435,medication,identity,auto,medication,0,0,0,0
+obesity,C3211436,medication,identity,auto,medication,0,0,0,0
+obesity,C3211437,medication,identity,auto,medication,0,0,0,0
+obesity,C3211438,medication,identity,auto,medication,0,0,0,0
+obesity,C3211450,medication,identity,auto,medication,0,0,0,0
+obesity,C3211451,medication,identity,auto,medication,0,0,0,0
+obesity,C3211988,medication,identity,auto,medication,0,0,0,0
+obesity,C3212001,medication,identity,auto,medication,0,0,0,0
+obesity,C3212002,medication,identity,auto,medication,0,0,0,0
+obesity,C3212571,medication,identity,auto,medication,0,0,0,0
+obesity,C3212572,medication,identity,auto,medication,0,0,0,0
+obesity,C3212573,medication,identity,auto,medication,0,0,0,0
+obesity,C3212574,medication,identity,auto,medication,0,0,0,0
+obesity,C3212948,medication,identity,auto,medication,0,0,0,0
+obesity,C3212949,medication,identity,auto,medication,0,0,0,0
+obesity,C3212950,medication,identity,auto,medication,0,0,0,0
+obesity,C3212951,medication,identity,auto,medication,0,0,0,0
+obesity,C3212954,medication,identity,auto,medication,0,0,0,0
+obesity,C3212955,medication,identity,auto,medication,0,0,0,0
+obesity,C3213032,medication,identity,auto,medication,0,0,0,0
+obesity,C3213033,medication,identity,auto,medication,0,0,0,0
+obesity,C3213034,medication,identity,auto,medication,0,0,0,0
+obesity,C3213035,medication,identity,auto,medication,0,0,0,0
+obesity,C3213274,medication,identity,auto,medication,0,0,0,0
+obesity,C3213275,medication,identity,auto,medication,0,0,0,0
+obesity,C3213276,medication,identity,auto,medication,0,0,0,0
+obesity,C3213277,medication,identity,auto,medication,0,0,0,0
+obesity,C3213278,medication,identity,auto,medication,0,0,0,0
+obesity,C3213429,medication,identity,auto,medication,0,0,0,0
+obesity,C3213430,medication,identity,auto,medication,0,0,0,0
+obesity,C3213480,medication,identity,auto,medication,0,0,0,0
+obesity,C3213481,medication,identity,auto,medication,0,0,0,0
+obesity,C3213495,medication,identity,auto,medication,0,0,0,0
+obesity,C3213496,medication,identity,auto,medication,0,0,0,0
+obesity,C3213497,medication,identity,auto,medication,0,0,0,0
+obesity,C3213508,medication,identity,auto,medication,0,0,0,0
+obesity,C3213509,medication,identity,auto,medication,0,0,0,0
+obesity,C3213510,medication,identity,auto,medication,0,0,0,0
+obesity,C3213511,medication,identity,auto,medication,0,0,0,0
+obesity,C3213512,medication,identity,auto,medication,0,0,0,0
+obesity,C3213793,medication,identity,auto,medication,0,0,0,0
+obesity,C3213794,medication,identity,auto,medication,0,0,0,0
+obesity,C3213968,medication,identity,auto,medication,0,0,0,0
+obesity,C3213969,medication,identity,auto,medication,0,0,0,0
+obesity,C3214416,medication,identity,auto,medication,0,0,0,0
+obesity,C3214417,medication,identity,auto,medication,0,0,0,0
+obesity,C3214420,medication,identity,auto,medication,0,0,0,0
+obesity,C3214421,medication,identity,auto,medication,0,0,0,0
+obesity,C3215961,medication,identity,auto,medication,0,0,0,0
+obesity,C3215962,medication,identity,auto,medication,0,0,0,0
+obesity,C3215963,medication,identity,auto,medication,0,0,0,0
+obesity,C3215964,medication,identity,auto,medication,0,0,0,0
+obesity,C3216306,medication,identity,auto,medication,0,0,0,0
+obesity,C3216307,medication,identity,auto,medication,0,0,0,0
+obesity,C3217112,medication,identity,auto,medication,0,0,0,0
+obesity,C3217113,medication,identity,auto,medication,0,0,0,0
+obesity,C3217118,medication,identity,auto,medication,0,0,0,0
+obesity,C3217119,medication,identity,auto,medication,0,0,0,0
+obesity,C3218067,medication,identity,auto,medication,0,0,0,0
+obesity,C3218068,medication,identity,auto,medication,0,0,0,0
+obesity,C3218108,medication,identity,auto,medication,0,0,0,0
+obesity,C3218109,medication,identity,auto,medication,0,0,0,0
+obesity,C3218573,medication,identity,auto,medication,0,0,0,0
+obesity,C3218574,medication,identity,auto,medication,0,0,0,0
+obesity,C3247756,medication,identity,auto,medication,0,0,0,0
+obesity,C3255084,medication,identity,auto,medication,0,0,0,0
+obesity,C3264698,medication,identity,auto,medication,0,0,0,0
+obesity,C3465402,medication,identity,auto,medication,0,0,0,0
+obesity,C3465666,medication,identity,auto,medication,0,0,0,0
+obesity,C3466144,medication,identity,auto,medication,0,0,0,0
+obesity,C3466206,medication,identity,auto,medication,0,0,0,0
+obesity,C3466213,medication,identity,auto,medication,0,0,0,0
+obesity,C3466238,medication,identity,auto,medication,0,0,0,0
+obesity,C3474282,medication,identity,auto,medication,0,0,0,0
+obesity,C3474283,medication,identity,auto,medication,0,0,0,0
+obesity,C3474284,medication,identity,auto,medication,0,0,0,0
+obesity,C3474285,medication,identity,auto,medication,0,0,0,0
+obesity,C3475157,medication,identity,auto,medication,0,0,0,0
+obesity,C3475159,medication,identity,auto,medication,0,0,0,0
+obesity,C3475160,medication,identity,auto,medication,0,0,0,0
+obesity,C3475161,medication,identity,auto,medication,0,0,0,0
+obesity,C3475172,medication,identity,auto,medication,0,0,0,0
+obesity,C3475183,medication,identity,auto,medication,0,0,0,0
+obesity,C3475194,medication,identity,auto,medication,0,0,0,0
+obesity,C3485407,medication,identity,auto,medication,0,0,0,0
+obesity,C3497630,medication,identity,auto,medication,0,0,0,0
+obesity,C3505051,medication,identity,auto,medication,0,0,0,0
+obesity,C3505122,medication,identity,auto,medication,0,0,0,0
+obesity,C3536474,medication,identity,auto,medication,0,0,0,0
+obesity,C3536476,medication,identity,auto,medication,0,0,0,0
+obesity,C3644060,medication,identity,auto,medication,0,0,0,0
+obesity,C3644061,medication,identity,auto,medication,0,0,0,0
+obesity,C3644068,medication,identity,auto,medication,0,0,0,0
+obesity,C3651905,medication,identity,auto,medication,0,0,0,0
+obesity,C3820248,medication,identity,auto,medication,0,0,0,0
+obesity,C3872025,medication,seed,auto,medication,0,0,0,0
+obesity,C3885068,medication,declared,auto,medication,0,0,0,0
+obesity,C4276022,medication,seed,auto,medication,0,0,0,0
+obesity,C4283094,medication,identity,auto,medication,0,0,0,0
+obesity,C4283095,medication,identity,auto,medication,0,0,0,0
+obesity,C4283639,medication,identity,auto,medication,0,0,0,0
+obesity,C4535011,medication,identity,auto,medication,0,0,0,0
+obesity,C4535012,medication,identity,auto,medication,0,0,0,0
+obesity,C4535013,medication,identity,auto,medication,0,0,0,0
+obesity,C4535015,medication,identity,auto,medication,0,0,0,0
+obesity,C5139934,medication,declared,auto,medication,0,0,0,0
+obesity,C5140711,medication,identity,auto,medication,0,0,0,0
+obesity,C5187494,medication,identity,auto,medication,0,0,0,0
+obesity,C5187499,medication,identity,auto,medication,0,0,0,0
+obesity,C5187501,medication,identity,auto,medication,0,0,0,0
+obesity,C5187884,medication,identity,auto,medication,0,0,0,0
+obesity,C5187897,medication,identity,auto,medication,0,0,0,0
+obesity,C5207658,medication,identity,auto,medication,0,0,0,0
+obesity,C5207869,medication,identity,auto,medication,0,0,0,0
+obesity,C5207870,medication,identity,auto,medication,0,0,0,0
+obesity,C5207871,medication,identity,auto,medication,0,0,0,0
+obesity,C5207872,medication,identity,auto,medication,0,0,0,0
+obesity,C5207875,medication,identity,auto,medication,0,0,0,0
+obesity,C5207877,medication,identity,auto,medication,0,0,0,0
+obesity,C5207894,medication,identity,auto,medication,0,0,0,0
+obesity,C5207912,medication,identity,auto,medication,0,0,0,0
+obesity,C5207913,medication,identity,auto,medication,0,0,0,0
+obesity,C5210156,medication,identity,auto,medication,0,0,0,0
+obesity,C5210283,medication,identity,auto,medication,0,0,0,0
+obesity,C5210289,medication,identity,auto,medication,0,0,0,0
+obesity,C5210290,medication,identity,auto,medication,0,0,0,0
+obesity,C5210294,medication,identity,auto,medication,0,0,0,0
+obesity,C5210295,medication,identity,auto,medication,0,0,0,0
+obesity,C5210296,medication,identity,auto,medication,0,0,0,0
+obesity,C5222358,medication,identity,auto,medication,0,0,0,0
+obesity,C5234586,medication,identity,auto,medication,0,0,0,0
+obesity,C5239669,medication,identity,auto,medication,0,0,0,0
+obesity,C5242266,medication,identity,auto,medication,0,0,0,0
+obesity,C5243372,medication,identity,auto,medication,0,0,0,0
+obesity,C5243374,medication,identity,auto,medication,0,0,0,0
+obesity,C5243383,medication,identity,auto,medication,0,0,0,0
+obesity,C5243394,medication,identity,auto,medication,0,0,0,0
+obesity,C5384489,medication,identity,auto,medication,0,0,0,0
+obesity,C5384490,medication,identity,auto,medication,0,0,0,0
+obesity,C5384502,medication,identity,auto,medication,0,0,0,0
+obesity,C5391133,medication,identity,auto,medication,0,0,0,0
+obesity,C5391165,medication,identity,auto,medication,0,0,0,0
+obesity,C5391188,medication,identity,auto,medication,0,0,0,0
+obesity,C5399541,medication,identity,auto,medication,0,0,0,0
+obesity,C5455079,medication,identity,auto,medication,0,0,0,0
+obesity,C5455080,medication,identity,auto,medication,0,0,0,0
+obesity,C5455082,medication,identity,auto,medication,0,0,0,0
+obesity,C5455089,medication,identity,auto,medication,0,0,0,0
+obesity,C5455095,medication,identity,auto,medication,0,0,0,0
+obesity,C5455101,medication,identity,auto,medication,0,0,0,0
+obesity,C5455107,medication,identity,auto,medication,0,0,0,0
+obesity,C5579003,medication,identity,auto,medication,0,0,0,0
+obesity,C5672421,medication,identity,auto,medication,0,0,0,0
+obesity,C5672422,medication,identity,auto,medication,0,0,0,0
+obesity,C5672423,medication,identity,auto,medication,0,0,0,0
+obesity,C5672428,medication,identity,auto,medication,0,0,0,0
+obesity,C5672433,medication,identity,auto,medication,0,0,0,0
+obesity,C5672438,medication,identity,auto,medication,0,0,0,0
+obesity,C5672443,medication,identity,auto,medication,0,0,0,0
+obesity,C5672448,medication,identity,auto,medication,0,0,0,0
+obesity,C5672453,medication,identity,auto,medication,0,0,0,0
+obesity,C5705973,medication,identity,auto,medication,0,0,0,0
+obesity,C5783910,medication,seed,auto,medication,0,0,0,0
+obesity,C5834129,medication,identity,auto,medication,0,0,0,0
+obesity,C5873676,medication,identity,auto,medication,0,0,0,0
+obesity,C5982617,medication,identity,auto,medication,0,0,0,0
+obesity,C5982620,medication,identity,auto,medication,0,0,0,0
+obesity,C5982623,medication,identity,auto,medication,0,0,0,0
+obesity,C6003575,medication,identity,auto,medication,0,0,0,0
+obesity,C6054546,medication,identity,auto,medication,0,0,0,0
+obesity,C6065298,medication,identity,auto,medication,0,0,0,0
+obesity,C6065857,medication,identity,auto,medication,0,0,0,0
+obesity,C6065858,medication,identity,auto,medication,0,0,0,0
+obesity,C6065863,medication,identity,auto,medication,0,0,0,0
+obesity,C6065867,medication,identity,auto,medication,0,0,0,0
+obesity,C6065873,medication,identity,auto,medication,0,0,0,0
+obesity,C6065877,medication,identity,auto,medication,0,0,0,0
+obesity,C6071706,medication,identity,auto,medication,0,0,0,0
+obesity,C0282233,medication,seed,auto,other,0,0,0,0
+obesity,C1285590,closure,one-hop neighbourhood,keep,other,0,0,0,0
+obesity,C1563743,disorder,descendant closure,auto,other,0,0,0,0
+obesity,C0006779,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+obesity,C0006781,proposed,grounded,keep,procedure,0,0,0,0
+obesity,C0017193,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+obesity,C0192439,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+obesity,C1704746,proposed,grounded,keep,procedure,0,0,0,0
+obesity,C3160799,proposed,grounded,keep,procedure,0,0,0,0
+obesity,C4324312,proposed,grounded,keep,procedure,0,0,0,0
+obesity,C5849487,proposed,grounded,keep,procedure,0,0,0,0
+obesity,C0948775,disorder,descendant closure,auto,symptom,0,0,0,0
+obesity,C1394036,proposed,grounded,keep,symptom,0,0,0,0
+obesity,C2107732,proposed,grounded,keep,symptom,0,0,0,0
+obesity,C2219850,proposed,grounded,keep,symptom,0,0,0,0
+obesity,C2936179,proposed,grounded,keep,symptom,0,0,0,0
+obesity,C4551761,proposed,grounded,keep,symptom,0,0,0,0

@@ -1,0 +1,60 @@
+{
+  "MOCK": "Synthetic data. Every number is fabricated. Do not cite.",
+  "generated_by": "scripts/make_sample_output.py",
+  "models": [
+    "google/gemma-3-12b-it",
+    "google/gemma-3-27b-it",
+    "google/gemma-3-4b-it"
+  ],
+  "conditions": [
+    "alphanumeral_variations/high",
+    "alphanumeral_variations/low",
+    "alphanumeral_variations/medium",
+    "baseline",
+    "bullet_to_prose/high",
+    "bullet_to_prose/low",
+    "bullet_to_prose/medium",
+    "homoglyph_substitutions/high",
+    "homoglyph_substitutions/low",
+    "homoglyph_substitutions/medium",
+    "loss_of_text_structure/high",
+    "loss_of_text_structure/low",
+    "loss_of_text_structure/medium",
+    "section_duplication/high",
+    "section_duplication/low",
+    "section_duplication/medium",
+    "section_header_deletion/high",
+    "section_header_deletion/low",
+    "section_header_deletion/medium",
+    "section_header_renaming/high",
+    "section_header_renaming/low",
+    "section_header_renaming/medium",
+    "spacing_loss/high",
+    "spacing_loss/low",
+    "spacing_loss/medium",
+    "typographical_errors/high",
+    "typographical_errors/low",
+    "typographical_errors/medium"
+  ],
+  "notes": 500,
+  "predictions": 672000,
+  "cost_usd": 277.7142,
+  "parse_status": {
+    "no_json": 2517,
+    "ok": 669483
+  },
+  "protocol_departures": [
+    {
+      "departure": "clean_text_not_applied",
+      "mipa_source": "llm_module.py:231-236",
+      "reason": "MIPA collapses all whitespace before prompting, which makes loss_of_text_structure byte-identical to baseline \u2014 that arm would report exactly zero degradation by construction."
+    },
+    {
+      "departure": "system_prompt_sent",
+      "mipa_source": "llm_module.py:537-556 (sync) vs 1553-1566 (async)",
+      "reason": "MIPA's sync path sends the system prompt and its async path drops it. The asymmetry is a bug, so the documented protocol is reproduced.",
+      "override": "SEND_SYSTEM_PROMPT"
+    }
+  ],
+  "sample": "sample.csv"
+}

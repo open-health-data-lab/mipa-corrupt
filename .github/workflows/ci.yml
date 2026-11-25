@@ -1,0 +1,31 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# RobustEHR is installed from its public release tag, exactly as pyproject.toml
+# pins it. Nothing here checks out or builds a sibling repository, which is the
+# property this job exists to keep: the study must run against the corruption
+# engine as a reader would install it.
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv venv --python 3.12
+      - run: uv pip install -e ".[dev]"
+      - name: The corruption engine is the released one
+        run: .venv/bin/python -c "import robustehr, sys; print(robustehr.__version__, robustehr.__file__); sys.exit('site-packages' not in robustehr.__file__)"
+      - name: Lint
+        run: .venv/bin/ruff check src tests experiments analysis release
+      - name: Type check
+        run: .venv/bin/mypy
+      - name: Test
+        run: .venv/bin/pytest

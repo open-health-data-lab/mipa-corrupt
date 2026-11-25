@@ -1,0 +1,519 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+pulmonary_embolism,C0013404,proposed,grounded,keep,symptom,1,1872,1,648
+pulmonary_embolism,C0008031,proposed,grounded,keep,symptom,1,1587,1,546
+pulmonary_embolism,C0043144,proposed,grounded,keep,symptom,1,1467,1,518
+pulmonary_embolism,C0010200,proposed,grounded,keep,symptom,1,1257,1,441
+pulmonary_embolism,C0034642,proposed,grounded,keep,finding,1,1006,1,366
+pulmonary_embolism,C0043031,medication,seed,auto,medication,1,861,1,324
+pulmonary_embolism,C0699129,medication,identity,auto,medication,1,839,1,343
+pulmonary_embolism,C0019134,medication,seed,auto,medication,1,501,1,198
+pulmonary_embolism,C0425687,proposed,grounded,keep,finding,1,474,1,178
+pulmonary_embolism,C0010520,proposed,grounded,keep,symptom,1,471,1,173
+pulmonary_embolism,C0039231,proposed,grounded,keep,finding,1,455,1,176
+pulmonary_embolism,C0020649,proposed,grounded,keep,finding,1,440,1,144
+pulmonary_embolism,C0728963,medication,identity,auto,medication,1,372,1,159
+pulmonary_embolism,C0430462,proposed,grounded,keep,procedure,1,343,1,131
+pulmonary_embolism,C0039070,proposed,grounded,keep,symptom,1,333,1,132
+pulmonary_embolism,C0242184,proposed,grounded,keep,disease,1,256,1,80
+pulmonary_embolism,C0013922,closure,one-hop neighbourhood,keep,disease,1,231,1,87
+pulmonary_embolism,C0206460,medication,seed,auto,medication,1,211,1,74
+pulmonary_embolism,C0019079,proposed,grounded,keep,symptom,1,140,1,60
+pulmonary_embolism,C1831808,medication,seed,auto,medication,1,108,1,31
+pulmonary_embolism,C0042373,disorder,descendant closure,auto,disease,1,104,1,37
+pulmonary_embolism,C0238844,proposed,grounded,keep,finding,1,97,1,40
+pulmonary_embolism,C0042487,closure,one-hop neighbourhood,keep,disease,1,88,1,31
+pulmonary_embolism,C0206054,proposed,grounded,keep,procedure,1,85,1,32
+pulmonary_embolism,C0746961,proposed,grounded,keep,finding,1,81,1,41
+pulmonary_embolism,C0030605,proposed,grounded,keep,procedure,1,79,1,29
+pulmonary_embolism,C0340533,disorder,descendant closure,auto,disease,1,71,1,27
+pulmonary_embolism,C0231835,proposed,grounded,keep,finding,1,65,1,21
+pulmonary_embolism,C0700590,proposed,grounded,keep,finding,1,65,1,22
+pulmonary_embolism,C0008033,proposed,grounded,keep,symptom,1,51,1,12
+pulmonary_embolism,C0700200,proposed,grounded,keep,symptom,1,45,1,15
+pulmonary_embolism,C3530472,medication,identity,auto,medication,1,41,1,14
+pulmonary_embolism,C3159309,medication,identity,auto,medication,1,39,1,13
+pulmonary_embolism,C3248003,medication,identity,auto,medication,1,37,1,19
+pulmonary_embolism,C0150411,proposed,grounded,keep,procedure,1,37,1,18
+pulmonary_embolism,C1739768,medication,seed,auto,medication,1,35,1,24
+pulmonary_embolism,C3530466,medication,identity,auto,medication,1,35,1,8
+pulmonary_embolism,C0238883,proposed,grounded,keep,symptom,1,32,1,11
+pulmonary_embolism,C3842377,proposed,grounded,keep,procedure,1,28,1,10
+pulmonary_embolism,C1098510,medication,seed,auto,medication,1,23,1,7
+pulmonary_embolism,C0032143,medication,seed,auto,medication,1,22,1,2
+pulmonary_embolism,C3530461,medication,identity,auto,medication,1,22,1,6
+pulmonary_embolism,C0040038,closure,one-hop neighbourhood,keep,disease,1,21,1,6
+pulmonary_embolism,C0770546,medication,seed,auto,medication,1,14,1,6
+pulmonary_embolism,C0015357,proposed,grounded,keep,procedure,1,10,1,4
+pulmonary_embolism,C0019139,closure,one-hop neighbourhood,keep,medication,1,7,1,2
+pulmonary_embolism,C2940579,medication,identity,auto,medication,1,6,1,1
+pulmonary_embolism,C3247999,medication,identity,auto,medication,1,6,1,2
+pulmonary_embolism,C0011795,medication,seed,auto,medication,1,5,1,4
+pulmonary_embolism,C0034074,closure,one-hop neighbourhood,keep,disease,1,4,1,2
+pulmonary_embolism,C0038418,medication,seed,auto,medication,1,4,1,4
+pulmonary_embolism,C3162455,medication,identity,auto,medication,1,4,1,2
+pulmonary_embolism,C5141127,proposed,grounded,keep,disease,1,3,1,2
+pulmonary_embolism,C2940576,medication,identity,auto,medication,1,3,0,0
+pulmonary_embolism,C1735914,proposed,grounded,keep,disease,1,2,1,1
+pulmonary_embolism,C0032230,proposed,grounded,keep,finding,1,2,0,0
+pulmonary_embolism,C0238882,proposed,grounded,keep,finding,1,2,1,1
+pulmonary_embolism,C0202910,closure,one-hop neighbourhood,keep,procedure,1,2,1,2
+pulmonary_embolism,C0034065,proposed,grounded,keep,disease,1,1,0,0
+pulmonary_embolism,C0748128,proposed,grounded,keep,disease,1,1,0,0
+pulmonary_embolism,C4061338,proposed,grounded,keep,finding,1,1,0,0
+pulmonary_embolism,C0031406,closure,one-hop neighbourhood,keep,medication,1,1,1,1
+pulmonary_embolism,C0206461,medication,seed,auto,medication,1,1,0,0
+pulmonary_embolism,C3216124,medication,identity,auto,medication,1,1,1,1
+pulmonary_embolism,C4552495,proposed,grounded,keep,symptom,1,1,1,1
+pulmonary_embolism,C0013927,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0013928,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0013930,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0034066,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0151946,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0155671,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C0156447,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0156590,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0157540,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157552,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0157564,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157565,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157566,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157567,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157568,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0157569,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0242707,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C0264929,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0269587,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0274424,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0340536,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0340537,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0340539,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0349752,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0404919,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0520546,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0524702,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C0597323,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C0856722,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C0856751,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0948268,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C1868926,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C1955781,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C2363973,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C2882221,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C2909454,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C2909458,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C2921500,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C3161091,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C3662154,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C3662162,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C3662166,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C3662169,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C3662199,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C4076489,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C4285705,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C4510129,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C4545345,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C4545347,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5396106,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5396107,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5396108,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5396109,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C5396111,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5396113,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C5688296,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+pulmonary_embolism,C5780601,proposed,grounded,keep,disease,0,0,0,0
+pulmonary_embolism,C5880545,disorder,descendant closure,auto,disease,0,0,0,0
+pulmonary_embolism,C0241671,proposed,grounded,keep,finding,0,0,0,0
+pulmonary_embolism,C0520861,proposed,grounded,keep,finding,0,0,0,0
+pulmonary_embolism,C1963140,proposed,grounded,keep,finding,0,0,0,0
+pulmonary_embolism,C2958630,proposed,grounded,keep,finding,0,0,0,0
+pulmonary_embolism,C5706175,proposed,grounded,keep,finding,0,0,0,0
+pulmonary_embolism,C0005640,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0011793,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0011796,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0020697,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0024416,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0030350,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0031444,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0033409,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0037513,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0042071,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0051919,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0054452,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0078956,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0086140,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0163842,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0206232,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0215717,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0216278,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0254215,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0254216,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0259507,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0282378,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0282471,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0297267,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0297268,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0297269,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0353453,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0354599,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0361211,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0376218,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0378366,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0591649,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0592532,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0592534,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0592770,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0605028,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0678124,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0699212,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0699213,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0700461,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0701941,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0701942,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0718951,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0720657,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0720844,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0721753,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0722488,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0722490,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0722499,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0722500,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0722501,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0723613,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0723617,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0724579,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0771209,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0771246,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0916062,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0917726,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0939493,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0982192,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C0983724,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0985512,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0985513,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0988671,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0992237,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1099664,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C1099665,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1123402,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1124259,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1124294,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1124698,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125014,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125015,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125017,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125600,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125601,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125602,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125603,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1125604,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1126298,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1128487,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1128710,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1129338,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1131855,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1132654,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1144794,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1145478,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1145825,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1154031,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1154224,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1160723,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1160724,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1160725,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1168542,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1186934,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1244610,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245649,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245720,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245721,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245788,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245852,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1245969,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1246056,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1247289,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1247290,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1247291,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248032,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248033,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248397,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248398,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248624,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248646,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1248725,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1249110,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1249787,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1249938,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1250045,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1250058,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1251029,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1251309,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1251333,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1251365,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1251786,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1252701,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1253032,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1253121,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1259412,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1261592,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1261713,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1262916,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1263313,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1263314,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1263315,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1270874,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1330361,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1363922,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1365493,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C1366663,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1366664,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1366956,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1366957,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1366964,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1366965,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1367127,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1367128,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1368328,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1368473,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1368546,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1378634,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1378635,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1378679,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382248,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382250,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382327,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382329,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382775,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382820,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1382968,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1383073,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1383390,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1383401,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1383549,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1383810,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1384393,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1384448,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1445698,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C1571583,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C1577781,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1578207,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1578208,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1589724,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1591152,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1601605,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1601620,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1703127,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1712209,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1743202,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1879004,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1879006,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962136,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962210,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962308,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962342,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962354,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962356,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C1962357,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2242134,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2315194,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2341412,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2342787,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2343849,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C2355886,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684109,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684111,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684436,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684450,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684667,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684668,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684669,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684671,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684672,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684673,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684696,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684697,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684698,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684699,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684704,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684705,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684706,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684707,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2684708,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2700648,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2702469,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2702471,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709897,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709901,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709904,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709907,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709909,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709912,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709915,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709919,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709922,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709925,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2709928,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710767,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710768,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710769,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710770,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710771,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710778,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710780,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710782,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710935,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2710936,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2719941,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2741026,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912060,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912062,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912063,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912066,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912073,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2912082,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2918714,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2940577,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2940650,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C2975435,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C3162456,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3205688,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3205689,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206352,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206353,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206480,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206481,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206667,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3206668,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3207931,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3207932,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3208170,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3208231,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3208486,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3208487,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209015,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209016,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209017,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209019,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209020,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209021,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209022,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209023,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209024,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209025,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209026,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209028,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209289,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3209290,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3210057,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3210468,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3210469,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3210835,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211079,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211080,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211084,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211849,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211986,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3211987,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212135,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212136,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212171,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212385,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212386,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212659,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212987,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212988,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212989,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3212990,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3213389,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3213390,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3213406,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3213407,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3214359,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3214380,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3215116,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3215117,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3215573,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216084,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216085,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216086,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216087,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216122,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216123,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216430,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3216986,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3218402,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3218403,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3218585,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3218586,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3219525,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3219526,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3219886,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3249692,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3249693,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3257239,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3257246,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3272851,medication,seed,auto,medication,0,0,0,0
+pulmonary_embolism,C3527749,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3527813,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528019,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528036,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528040,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528108,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528170,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528656,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3528657,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3530462,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3530463,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3530464,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872094,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872295,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872296,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872297,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872353,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872383,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C3872384,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4060375,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4083942,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4085598,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4276303,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4276304,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4276359,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4282884,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4282885,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4293581,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4293585,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4293598,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4293599,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4293620,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4317584,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C4731644,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5222069,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5564381,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5564382,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5564383,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574143,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574144,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574145,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574146,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574185,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5574201,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5705847,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5874367,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5874526,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C5874550,medication,identity,auto,medication,0,0,0,0
+pulmonary_embolism,C0717685,medication,seed,auto,other,0,0,0,0
+pulmonary_embolism,C0033707,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0200462,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0203688,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+pulmonary_embolism,C0203702,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0412350,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+pulmonary_embolism,C0412353,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+pulmonary_embolism,C0522841,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+pulmonary_embolism,C0523953,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0677490,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0883409,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0919677,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C0919678,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C1095989,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C1142517,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C3853850,proposed,grounded,keep,procedure,0,0,0,0
+pulmonary_embolism,C5442469,proposed,grounded,keep,procedure,0,0,0,0

@@ -1,0 +1,185 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+alcohol_use_disorder,C0917801,proposed,grounded,keep,symptom,1,571,1,191
+alcohol_use_disorder,C0085631,proposed,grounded,keep,symptom,1,226,1,90
+alcohol_use_disorder,C0085762,proposed,grounded,keep,disease,1,188,1,55
+alcohol_use_disorder,C0232766,proposed,grounded,keep,symptom,1,169,1,76
+alcohol_use_disorder,C0028738,proposed,grounded,keep,disease,1,78,1,26
+alcohol_use_disorder,C0001973,proposed,grounded,keep,disease,1,75,1,28
+alcohol_use_disorder,C0700590,proposed,grounded,keep,finding,1,65,1,22
+alcohol_use_disorder,C0234518,proposed,grounded,keep,finding,1,56,1,25
+alcohol_use_disorder,C0233763,proposed,grounded,keep,symptom,1,32,1,14
+alcohol_use_disorder,C0019187,proposed,grounded,keep,disease,1,29,1,14
+alcohol_use_disorder,C0001957,proposed,grounded,keep,disease,1,25,1,9
+alcohol_use_disorder,C0001969,closure,one-hop neighbourhood,keep,disease,1,20,1,5
+alcohol_use_disorder,C0231686,proposed,grounded,keep,finding,1,16,1,7
+alcohol_use_disorder,C0233762,proposed,grounded,keep,symptom,1,16,1,11
+alcohol_use_disorder,C0237123,closure,one-hop neighbourhood,keep,disease,1,14,1,11
+alcohol_use_disorder,C0027360,medication,closure,keep,medication,1,12,1,9
+alcohol_use_disorder,C0085666,proposed,grounded,keep,disease,1,10,1,7
+alcohol_use_disorder,C0586323,proposed,grounded,keep,disease,1,9,1,2
+alcohol_use_disorder,C0284941,medication,closure,keep,medication,1,9,1,7
+alcohol_use_disorder,C0233800,proposed,grounded,keep,disease,1,5,1,1
+alcohol_use_disorder,C0202035,proposed,grounded,keep,procedure,1,5,1,1
+alcohol_use_disorder,C0043121,proposed,grounded,keep,disease,1,4,1,3
+alcohol_use_disorder,C0149720,disorder,descendant closure,auto,disease,1,2,1,1
+alcohol_use_disorder,C0376670,proposed,grounded,keep,disease,1,2,1,1
+alcohol_use_disorder,C0151889,proposed,grounded,keep,finding,1,2,1,2
+alcohol_use_disorder,C0033971,proposed,grounded,keep,procedure,1,2,0,0
+alcohol_use_disorder,C0236663,closure,one-hop neighbourhood,keep,disease,1,1,1,1
+alcohol_use_disorder,C0848500,disorder,descendant closure,auto,disease,1,1,0,0
+alcohol_use_disorder,C2197979,proposed,grounded,keep,disease,1,1,1,1
+alcohol_use_disorder,C0591842,medication,identity,auto,medication,1,1,0,0
+alcohol_use_disorder,C0683474,proposed,grounded,keep,procedure,1,1,1,1
+alcohol_use_disorder,C0233767,proposed,grounded,keep,symptom,1,1,0,0
+alcohol_use_disorder,C0239842,proposed,grounded,keep,symptom,1,1,1,1
+alcohol_use_disorder,C0312422,proposed,grounded,keep,symptom,1,1,0,0
+alcohol_use_disorder,C0001940,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0001956,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0007192,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0031391,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0033936,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0039841,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0154239,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0154515,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0154516,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0154540,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0154541,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0154542,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0154543,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0236664,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0238265,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0302369,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0338637,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338671,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338709,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338710,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338711,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338712,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338741,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338783,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338784,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338785,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338787,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0338788,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0341047,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0349269,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0349464,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0349767,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0394996,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0497318,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0543896,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0678253,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0678254,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0679256,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0679258,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0679259,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0679260,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0679276,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0679297,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0679303,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C0683022,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0683352,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0700178,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C0812429,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0856321,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C1411379,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C1622892,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C1704427,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C1812624,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C1959863,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C2104577,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C2874370,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C2874383,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C2919052,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C2931917,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C3839769,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C4075073,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C4075720,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C4075901,disorder,descendant closure,auto,disease,0,0,0,0
+alcohol_use_disorder,C4236927,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C4236928,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C4236929,proposed,grounded,keep,disease,0,0,0,0
+alcohol_use_disorder,C5200920,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C5967468,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+alcohol_use_disorder,C0238713,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C0424432,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+alcohol_use_disorder,C0425319,disorder,descendant closure,auto,finding,0,0,0,0
+alcohol_use_disorder,C0556369,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C0556385,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C0679261,disorder,descendant closure,auto,finding,0,0,0,0
+alcohol_use_disorder,C0684262,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C3553051,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C4315031,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C4748590,proposed,grounded,keep,finding,0,0,0,0
+alcohol_use_disorder,C0524587,proposed,grounded,keep,lab_result,0,0,0,0
+alcohol_use_disorder,C0001947,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0012772,medication,closure,keep,medication,0,0,0,0
+alcohol_use_disorder,C0355800,medication,closure,keep,medication,0,0,0,0
+alcohol_use_disorder,C0591096,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C0592789,medication,closure,keep,medication,0,0,0,0
+alcohol_use_disorder,C0592792,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C0682794,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0682806,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0682807,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0682810,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0985616,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C0985617,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1128721,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1131399,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1245982,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1247051,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1368577,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1368579,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1602849,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C1712071,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2355930,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2609840,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2719309,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2719312,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2719317,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2719322,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2722196,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2722199,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2722202,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C2722340,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3211407,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3211408,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3211409,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3213986,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3213987,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3217956,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3217957,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3219654,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3219655,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3252139,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3696683,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3696684,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3696685,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3858280,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3858312,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3858334,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C3858335,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4083729,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4083730,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282506,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282507,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282508,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282511,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282521,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282524,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282527,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C4282530,medication,identity,auto,medication,0,0,0,0
+alcohol_use_disorder,C5241250,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+alcohol_use_disorder,C0337678,disorder,descendant closure,auto,other,0,0,0,0
+alcohol_use_disorder,C0565662,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C0678298,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C0679262,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C0682940,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C0683069,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C1285666,closure,one-hop neighbourhood,keep,other,0,0,0,0
+alcohol_use_disorder,C0814459,proposed,grounded,keep,procedure,0,0,0,0
+alcohol_use_disorder,C0919242,proposed,grounded,keep,procedure,0,0,0,0
+alcohol_use_disorder,C1278128,proposed,grounded,keep,procedure,0,0,0,0
+alcohol_use_disorder,C4700849,proposed,grounded,keep,procedure,0,0,0,0
+alcohol_use_disorder,C4701336,proposed,grounded,keep,procedure,0,0,0,0
+alcohol_use_disorder,C1562677,closure,one-hop neighbourhood,keep,symptom,0,0,0,0

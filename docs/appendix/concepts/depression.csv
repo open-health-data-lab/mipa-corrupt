@@ -1,0 +1,1534 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+depression,C0011570,closure,one-hop neighbourhood,keep,disease,1,1273,1,462
+depression,C0917801,proposed,grounded,keep,symptom,1,571,1,191
+depression,C0015672,proposed,grounded,keep,symptom,1,483,1,134
+depression,C0699194,medication,identity,auto,medication,1,342,1,129
+depression,C0031765,proposed,grounded,keep,procedure,1,267,1,84
+depression,C0992522,medication,identity,auto,medication,1,254,1,94
+depression,C0024002,medication,seed,auto,medication,1,236,1,93
+depression,C0040805,medication,seed,auto,medication,1,228,1,90
+depression,C0009244,proposed,grounded,keep,procedure,1,218,1,84
+depression,C0987272,medication,identity,auto,medication,1,206,1,74
+depression,C1124669,medication,identity,auto,medication,1,173,1,71
+depression,C0344315,proposed,grounded,keep,finding,1,148,1,61
+depression,C5942421,proposed,grounded,keep,finding,1,138,1,65
+depression,C0123091,medication,seed,auto,medication,1,133,1,58
+depression,C0085208,medication,seed,auto,medication,1,117,1,44
+depression,C1145809,medication,identity,auto,medication,1,115,1,41
+depression,C0245561,medication,seed,auto,medication,1,114,1,34
+depression,C0232462,proposed,grounded,keep,symptom,1,98,1,38
+depression,C0287163,medication,identity,auto,medication,1,93,1,39
+depression,C0719199,medication,identity,auto,medication,1,78,1,32
+depression,C0008845,medication,seed,auto,medication,1,75,1,23
+depression,C0013806,proposed,grounded,keep,procedure,1,73,1,40
+depression,C0002600,medication,seed,auto,medication,1,70,1,28
+depression,C0049506,medication,seed,auto,medication,1,69,1,21
+depression,C0074393,medication,seed,auto,medication,1,69,1,26
+depression,C0016365,medication,seed,auto,medication,1,66,1,29
+depression,C1667738,medication,identity,auto,medication,1,66,1,25
+depression,C0986112,medication,identity,auto,medication,1,63,1,26
+depression,C1123630,medication,identity,auto,medication,1,62,1,19
+depression,C1124670,medication,identity,auto,medication,1,62,1,15
+depression,C0070122,medication,seed,auto,medication,1,61,1,15
+depression,C1126302,medication,identity,auto,medication,1,59,1,17
+depression,C0006462,medication,seed,auto,medication,1,58,1,14
+depression,C1125978,medication,identity,auto,medication,1,57,1,21
+depression,C0424109,proposed,grounded,keep,finding,1,55,1,19
+depression,C0338908,closure,one-hop neighbourhood,keep,disease,1,53,1,19
+depression,C1621163,medication,identity,auto,medication,1,50,1,16
+depression,C0003290,closure,one-hop neighbourhood,keep,medication,1,48,1,21
+depression,C0074710,medication,seed,auto,medication,1,43,1,9
+depression,C1145810,medication,identity,auto,medication,1,43,1,19
+depression,C1127563,medication,identity,auto,medication,1,42,1,16
+depression,C1170746,medication,seed,auto,medication,1,42,1,12
+depression,C0525726,medication,identity,auto,medication,1,41,1,15
+depression,C0025810,medication,seed,auto,medication,1,38,1,10
+depression,C0078569,medication,seed,auto,medication,1,37,1,10
+depression,C0022107,proposed,grounded,keep,finding,1,36,1,16
+depression,C1505021,medication,identity,auto,medication,1,34,1,9
+depression,C1123628,medication,identity,auto,medication,1,33,1,16
+depression,C0023870,medication,seed,auto,medication,1,32,1,9
+depression,C1509924,medication,identity,auto,medication,1,32,1,7
+depression,C1616485,medication,identity,auto,medication,1,32,1,18
+depression,C0085934,medication,identity,auto,medication,1,31,1,13
+depression,C0284660,medication,identity,auto,medication,1,31,1,10
+depression,C1131632,medication,identity,auto,medication,1,31,1,14
+depression,C1368820,medication,identity,auto,medication,1,31,1,12
+depression,C0085632,closure,one-hop neighbourhood,keep,disease,1,30,1,12
+depression,C0011685,medication,seed,auto,medication,1,30,1,5
+depression,C0700563,medication,seed,auto,medication,1,30,1,21
+depression,C2340726,medication,identity,auto,medication,1,30,1,11
+depression,C1262477,proposed,grounded,keep,finding,1,29,1,11
+depression,C0376414,medication,identity,auto,medication,1,27,1,6
+depression,C0591437,medication,identity,auto,medication,1,27,1,16
+depression,C1127321,medication,identity,auto,medication,1,27,1,12
+depression,C0983487,medication,identity,auto,medication,1,25,1,9
+depression,C0728759,medication,identity,auto,medication,1,24,1,8
+depression,C0013085,medication,seed,auto,medication,1,23,1,10
+depression,C0043094,proposed,grounded,keep,finding,1,22,1,7
+depression,C0003289,closure,one-hop neighbourhood,keep,medication,1,22,1,5
+depression,C0987273,medication,identity,auto,medication,1,22,1,7
+depression,C0162373,medication,identity,auto,medication,1,21,1,5
+depression,C0991957,medication,identity,auto,medication,1,21,1,5
+depression,C1123785,medication,identity,auto,medication,1,20,1,6
+depression,C1123787,medication,identity,auto,medication,1,19,1,7
+depression,C1145952,medication,identity,auto,medication,1,19,1,8
+depression,C1168577,medication,identity,auto,medication,1,19,1,6
+depression,C0233471,proposed,grounded,keep,finding,1,18,1,2
+depression,C0002333,medication,seed,auto,medication,1,18,1,8
+depression,C0986111,medication,identity,auto,medication,1,18,1,6
+depression,C1099456,medication,seed,auto,medication,1,18,1,3
+depression,C0525045,closure,one-hop neighbourhood,keep,disease,1,17,1,8
+depression,C0028420,medication,seed,auto,medication,1,17,1,8
+depression,C1170371,medication,identity,auto,medication,1,17,1,4
+depression,C2341006,medication,identity,auto,medication,1,17,1,4
+depression,C0721754,medication,identity,auto,medication,1,16,1,3
+depression,C1145939,medication,identity,auto,medication,1,16,1,7
+depression,C0360105,closure,one-hop neighbourhood,keep,medication,1,14,1,4
+depression,C0699034,medication,identity,auto,medication,1,14,1,4
+depression,C0588008,disorder,descendant closure,auto,disease,1,13,1,7
+depression,C1124331,medication,identity,auto,medication,1,13,1,5
+depression,C0771019,medication,seed,auto,medication,1,12,1,4
+depression,C0983488,medication,identity,auto,medication,1,12,1,4
+depression,C1123872,medication,identity,auto,medication,1,12,1,8
+depression,C0178417,proposed,grounded,keep,disease,1,11,1,4
+depression,C2346347,medication,identity,auto,medication,1,11,1,2
+depression,C1269683,proposed,grounded,keep,disease,1,10,1,1
+depression,C0700535,medication,seed,auto,medication,1,10,1,7
+depression,C1960278,medication,identity,auto,medication,1,10,1,4
+depression,C1171041,medication,identity,auto,medication,1,9,1,1
+depression,C1576942,medication,identity,auto,medication,1,9,1,2
+depression,C2954611,medication,identity,auto,medication,1,9,1,1
+depression,C5574165,medication,identity,auto,medication,1,9,1,5
+depression,C0085159,proposed,grounded,keep,disease,1,8,1,1
+depression,C0749133,proposed,grounded,keep,disease,1,8,1,6
+depression,C1688635,closure,one-hop neighbourhood,keep,finding,1,8,1,4
+depression,C1123125,medication,identity,auto,medication,1,8,1,3
+depression,C1123870,medication,identity,auto,medication,1,8,1,4
+depression,C2003424,medication,seed,auto,medication,1,8,1,2
+depression,C0233477,closure,one-hop neighbourhood,keep,finding,1,7,1,2
+depression,C0020934,medication,seed,auto,medication,1,7,0,0
+depression,C0036579,medication,seed,auto,medication,1,7,1,4
+depression,C0085217,medication,seed,auto,medication,1,7,1,3
+depression,C0087119,medication,identity,auto,medication,1,7,1,3
+depression,C0600122,medication,identity,auto,medication,1,7,1,2
+depression,C1123813,medication,identity,auto,medication,1,7,0,0
+depression,C1124257,medication,identity,auto,medication,1,7,1,3
+depression,C1134378,medication,identity,auto,medication,1,7,0,0
+depression,C1145938,medication,identity,auto,medication,1,7,1,5
+depression,C0337452,proposed,grounded,keep,procedure,1,7,1,1
+depression,C3887612,proposed,grounded,keep,finding,1,6,1,2
+depression,C0990507,medication,identity,auto,medication,1,6,1,4
+depression,C1128791,medication,identity,auto,medication,1,6,1,1
+depression,C1703081,medication,identity,auto,medication,1,6,1,1
+depression,C1871864,medication,identity,auto,medication,1,6,0,0
+depression,C3661282,medication,seed,auto,medication,1,6,1,6
+depression,C0349217,proposed,grounded,keep,disease,1,5,1,1
+depression,C0232461,proposed,grounded,keep,finding,1,5,1,3
+depression,C1123877,medication,identity,auto,medication,1,5,1,3
+depression,C1145937,medication,identity,auto,medication,1,5,0,0
+depression,C1331259,medication,identity,auto,medication,1,5,1,3
+depression,C3667599,medication,identity,auto,medication,1,5,1,5
+depression,C0013415,proposed,grounded,keep,disease,1,4,1,2
+depression,C0522178,closure,one-hop neighbourhood,keep,disease,1,4,1,1
+depression,C0233417,proposed,grounded,keep,finding,1,4,1,1
+depression,C0424091,proposed,grounded,keep,finding,1,4,1,3
+depression,C1445953,proposed,grounded,keep,finding,1,4,1,2
+depression,C1821293,proposed,grounded,keep,finding,1,4,1,1
+depression,C0040778,medication,seed,auto,medication,1,4,0,0
+depression,C1123786,medication,identity,auto,medication,1,4,1,2
+depression,C1128283,medication,identity,auto,medication,1,4,0,0
+depression,C0154409,proposed,grounded,keep,disease,1,3,1,2
+depression,C0154437,proposed,grounded,keep,disease,1,3,1,1
+depression,C0233469,proposed,grounded,keep,finding,1,3,1,3
+depression,C1822595,proposed,grounded,keep,finding,1,3,0,0
+depression,C1126595,medication,identity,auto,medication,1,3,0,0
+depression,C1127525,medication,identity,auto,medication,1,3,1,2
+depression,C1128282,medication,identity,auto,medication,1,3,1,3
+depression,C4087086,medication,identity,auto,medication,1,3,1,3
+depression,C0033968,proposed,grounded,keep,procedure,1,3,1,2
+depression,C0581391,proposed,grounded,keep,disease,1,2,1,1
+depression,C2063866,proposed,grounded,keep,disease,1,2,0,0
+depression,C3203584,proposed,grounded,keep,disease,1,2,1,1
+depression,C0424000,finding,declared seed,auto,finding,1,2,1,1
+depression,C0424001,proposed,grounded,keep,finding,1,2,1,2
+depression,C0424230,proposed,grounded,keep,finding,1,2,1,2
+depression,C0745076,proposed,grounded,keep,finding,1,2,1,2
+depression,C0039468,medication,seed,auto,medication,1,2,1,1
+depression,C0085228,medication,seed,auto,medication,1,2,1,2
+depression,C0282369,medication,seed,auto,medication,1,2,1,1
+depression,C0728757,medication,identity,auto,medication,1,2,0,0
+depression,C0939301,medication,identity,auto,medication,1,2,1,1
+depression,C0990506,medication,identity,auto,medication,1,2,1,2
+depression,C1123088,medication,identity,auto,medication,1,2,0,0
+depression,C1123126,medication,identity,auto,medication,1,2,0,0
+depression,C1533126,medication,seed,auto,medication,1,2,1,2
+depression,C4318202,medication,identity,auto,medication,1,2,0,0
+depression,C5917113,medication,identity,auto,medication,1,2,0,0
+depression,C0005587,proposed,grounded,keep,disease,1,1,0,0
+depression,C0011581,proposed,grounded,keep,disease,1,1,0,0
+depression,C0233717,proposed,grounded,keep,disease,1,1,0,0
+depression,C0541798,proposed,grounded,keep,disease,1,1,0,0
+depression,C0588006,disorder,descendant closure,auto,disease,1,1,0,0
+depression,C0917799,proposed,grounded,keep,disease,1,1,0,0
+depression,C2362914,proposed,grounded,keep,disease,1,1,1,1
+depression,C0233470,proposed,grounded,keep,finding,1,1,0,0
+depression,C2939186,closure,one-hop neighbourhood,keep,finding,1,1,0,0
+depression,C0009010,medication,seed,auto,medication,1,1,0,0
+depression,C0025231,medication,identity,auto,medication,1,1,0,0
+depression,C0037172,medication,identity,auto,medication,1,1,1,1
+depression,C0068485,medication,seed,auto,medication,1,1,1,1
+depression,C0700545,medication,seed,auto,medication,1,1,0,0
+depression,C0700753,medication,identity,auto,medication,1,1,0,0
+depression,C0724555,medication,seed,auto,medication,1,1,0,0
+depression,C0987274,medication,identity,auto,medication,1,1,1,1
+depression,C1123123,medication,identity,auto,medication,1,1,0,0
+depression,C1123127,medication,identity,auto,medication,1,1,0,0
+depression,C1126091,medication,identity,auto,medication,1,1,1,1
+depression,C1246706,medication,identity,auto,medication,1,1,0,0
+depression,C1614030,medication,identity,auto,medication,1,1,0,0
+depression,C2733064,proposed,grounded,keep,procedure,1,1,1,1
+depression,C0001539,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0001548,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0001723,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0011573,proposed,grounded,keep,disease,0,0,0,0
+depression,C0011574,proposed,grounded,keep,disease,0,0,0,0
+depression,C0011579,proposed,grounded,keep,disease,0,0,0,0
+depression,C0011580,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0012706,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0024517,proposed,grounded,keep,disease,0,0,0,0
+depression,C0025193,proposed,grounded,keep,disease,0,0,0,0
+depression,C0029232,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0033797,proposed,grounded,keep,disease,0,0,0,0
+depression,C0041696,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0154318,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0154403,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154404,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154405,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154406,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154408,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154410,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154411,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154412,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154413,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154424,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154425,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154426,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154427,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154428,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154429,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154583,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0154588,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0221074,proposed,grounded,keep,disease,0,0,0,0
+depression,C0221480,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0233487,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0233489,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0233677,proposed,grounded,keep,disease,0,0,0,0
+depression,C0235136,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236653,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236700,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236701,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236702,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236703,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236704,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236706,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236707,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236747,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0236763,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236764,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236773,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236774,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236775,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236776,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236777,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236778,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236779,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236895,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236896,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236897,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236898,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0236899,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270340,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270341,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270363,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270411,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270412,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270413,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270414,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270415,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270417,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270418,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0270455,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270456,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270457,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270458,proposed,grounded,keep,disease,0,0,0,0
+depression,C0270459,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270460,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270461,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270462,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270463,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270467,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270468,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270470,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270475,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270476,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270477,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270480,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270481,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270482,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270483,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270484,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270485,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270486,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270487,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270488,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270497,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0270615,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0282126,proposed,grounded,keep,disease,0,0,0,0
+depression,C0302847,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0302874,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338715,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338808,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338866,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338867,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338885,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338890,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338892,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338893,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338895,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0338897,proposed,grounded,keep,disease,0,0,0,0
+depression,C0339017,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0342069,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0342071,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0349212,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0349213,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0349218,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0349712,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0362037,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0494396,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0494397,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0494398,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0494399,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0494400,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0494404,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0520616,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0520641,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520642,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520643,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520644,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520645,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520646,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520647,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520648,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520653,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0520665,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520666,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520667,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520668,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520669,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520670,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520671,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520672,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520673,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520674,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0520675,proposed,grounded,keep,disease,0,0,0,0
+depression,C0520676,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0553816,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0581390,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0588007,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0679108,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0679474,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0701819,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0743072,proposed,grounded,keep,disease,0,0,0,0
+depression,C0859997,proposed,grounded,keep,disease,0,0,0,0
+depression,C0865297,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0865312,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C0868892,proposed,grounded,keep,disease,0,0,0,0
+depression,C1282644,proposed,grounded,keep,disease,0,0,0,0
+depression,C1282921,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C1291710,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C1386135,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C1456407,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C1456434,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C1998428,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C2118796,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C2316801,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C2700438,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C2700439,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C2700440,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C2874443,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C2874916,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3251820,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3266785,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3472470,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3472681,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3472683,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3665435,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3665457,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3665667,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3697174,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C3697682,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3697979,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3698286,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3825452,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3825465,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3826774,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C3838728,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3838981,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C3839814,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4065471,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4074822,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4087263,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4237324,proposed,grounded,keep,disease,0,0,0,0
+depression,C4237461,proposed,grounded,keep,disease,0,0,0,0
+depression,C4284586,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304080,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304081,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304082,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304083,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304084,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304583,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4304584,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4305327,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4510117,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4510322,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511331,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511332,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511333,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511338,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511339,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511340,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511341,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511570,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4511574,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511582,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511584,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511585,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511838,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511839,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511873,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511880,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4511881,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4518519,proposed,grounded,keep,disease,0,0,0,0
+depression,C4544421,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4545984,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546111,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546112,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546117,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4546118,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546124,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546125,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546126,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546127,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546128,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546129,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546134,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4546265,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4546266,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4706725,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4706726,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4706727,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4706788,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4706815,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4707348,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C4708155,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C4708159,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C5192385,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5223778,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5229433,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5229470,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5229712,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C5230252,proposed,grounded,keep,disease,0,0,0,0
+depression,C5230256,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5395198,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5779700,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C5879672,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C5922784,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C6009335,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+depression,C6009396,disorder,descendant closure,auto,disease,0,0,0,0
+depression,C0007398,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0150079,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0233429,proposed,grounded,keep,finding,0,0,0,0
+depression,C0424095,proposed,grounded,keep,finding,0,0,0,0
+depression,C0424114,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0424135,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0424136,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C0424137,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C0541868,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0541869,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0557885,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0557908,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0557912,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0582092,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0582496,proposed,grounded,keep,finding,0,0,0,0
+depression,C0584923,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0855235,proposed,grounded,keep,finding,0,0,0,0
+depression,C1446366,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C1738037,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C1760428,proposed,grounded,keep,finding,0,0,0,0
+depression,C1822591,proposed,grounded,keep,finding,0,0,0,0
+depression,C1960638,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C1960886,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C2678421,proposed,grounded,keep,finding,0,0,0,0
+depression,C2981158,proposed,grounded,keep,finding,0,0,0,0
+depression,C3164323,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C3874774,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C5545418,disorder,descendant closure,auto,finding,0,0,0,0
+depression,C5548452,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+depression,C0002644,medication,seed,auto,medication,0,0,0,0
+depression,C0002752,medication,identity,auto,medication,0,0,0,0
+depression,C0012030,medication,seed,auto,medication,0,0,0,0
+depression,C0013065,medication,seed,auto,medication,0,0,0,0
+depression,C0022154,medication,seed,auto,medication,0,0,0,0
+depression,C0022180,medication,seed,auto,medication,0,0,0,0
+depression,C0023326,medication,identity,auto,medication,0,0,0,0
+depression,C0024080,medication,identity,auto,medication,0,0,0,0
+depression,C0024778,medication,closure,keep,medication,0,0,0,0
+depression,C0026457,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C0030256,medication,identity,auto,medication,0,0,0,0
+depression,C0031232,medication,identity,auto,medication,0,0,0,0
+depression,C0031392,medication,seed,auto,medication,0,0,0,0
+depression,C0031393,medication,seed,auto,medication,0,0,0,0
+depression,C0031453,medication,seed,auto,medication,0,0,0,0
+depression,C0033704,medication,identity,auto,medication,0,0,0,0
+depression,C0033743,medication,seed,auto,medication,0,0,0,0
+depression,C0041056,medication,seed,auto,medication,0,0,0,0
+depression,C0042910,medication,identity,auto,medication,0,0,0,0
+depression,C0064989,medication,identity,auto,medication,0,0,0,0
+depression,C0066529,medication,seed,auto,medication,0,0,0,0
+depression,C0066624,medication,seed,auto,medication,0,0,0,0
+depression,C0086307,medication,identity,auto,medication,0,0,0,0
+depression,C0125997,medication,seed,auto,medication,0,0,0,0
+depression,C0147020,medication,identity,auto,medication,0,0,0,0
+depression,C0162758,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C0242523,medication,seed,auto,medication,0,0,0,0
+depression,C0282107,medication,seed,auto,medication,0,0,0,0
+depression,C0304368,medication,seed,auto,medication,0,0,0,0
+depression,C0304369,medication,seed,auto,medication,0,0,0,0
+depression,C0306054,medication,identity,auto,medication,0,0,0,0
+depression,C0306242,medication,identity,auto,medication,0,0,0,0
+depression,C0360108,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C0360120,medication,identity,auto,medication,0,0,0,0
+depression,C0528314,medication,identity,auto,medication,0,0,0,0
+depression,C0543452,medication,seed,auto,medication,0,0,0,0
+depression,C0589978,medication,seed,auto,medication,0,0,0,0
+depression,C0591259,medication,identity,auto,medication,0,0,0,0
+depression,C0591286,medication,identity,auto,medication,0,0,0,0
+depression,C0591402,medication,identity,auto,medication,0,0,0,0
+depression,C0591406,medication,identity,auto,medication,0,0,0,0
+depression,C0591424,medication,identity,auto,medication,0,0,0,0
+depression,C0591755,medication,identity,auto,medication,0,0,0,0
+depression,C0591878,medication,identity,auto,medication,0,0,0,0
+depression,C0591999,medication,identity,auto,medication,0,0,0,0
+depression,C0592552,medication,identity,auto,medication,0,0,0,0
+depression,C0592774,medication,identity,auto,medication,0,0,0,0
+depression,C0600526,medication,seed,auto,medication,0,0,0,0
+depression,C0682815,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C0682854,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C0699554,medication,identity,auto,medication,0,0,0,0
+depression,C0700189,medication,identity,auto,medication,0,0,0,0
+depression,C0700444,medication,seed,auto,medication,0,0,0,0
+depression,C0700455,medication,closure,keep,medication,0,0,0,0
+depression,C0700459,medication,seed,auto,medication,0,0,0,0
+depression,C0700467,medication,seed,auto,medication,0,0,0,0
+depression,C0700473,medication,seed,auto,medication,0,0,0,0
+depression,C0700523,medication,seed,auto,medication,0,0,0,0
+depression,C0700529,medication,seed,auto,medication,0,0,0,0
+depression,C0700557,medication,seed,auto,medication,0,0,0,0
+depression,C0700750,medication,identity,auto,medication,0,0,0,0
+depression,C0700751,medication,identity,auto,medication,0,0,0,0
+depression,C0700752,medication,identity,auto,medication,0,0,0,0
+depression,C0700992,medication,identity,auto,medication,0,0,0,0
+depression,C0701352,medication,identity,auto,medication,0,0,0,0
+depression,C0701388,medication,identity,auto,medication,0,0,0,0
+depression,C0701426,medication,identity,auto,medication,0,0,0,0
+depression,C0701914,medication,identity,auto,medication,0,0,0,0
+depression,C0720278,medication,identity,auto,medication,0,0,0,0
+depression,C0722050,medication,identity,auto,medication,0,0,0,0
+depression,C0723045,medication,identity,auto,medication,0,0,0,0
+depression,C0723769,medication,identity,auto,medication,0,0,0,0
+depression,C0723810,medication,identity,auto,medication,0,0,0,0
+depression,C0723883,medication,identity,auto,medication,0,0,0,0
+depression,C0724187,medication,identity,auto,medication,0,0,0,0
+depression,C0724680,medication,seed,auto,medication,0,0,0,0
+depression,C0728756,medication,identity,auto,medication,0,0,0,0
+depression,C0728956,medication,identity,auto,medication,0,0,0,0
+depression,C0730691,medication,identity,auto,medication,0,0,0,0
+depression,C0730912,medication,identity,auto,medication,0,0,0,0
+depression,C0731025,medication,identity,auto,medication,0,0,0,0
+depression,C0733062,medication,identity,auto,medication,0,0,0,0
+depression,C0733380,medication,seed,auto,medication,0,0,0,0
+depression,C0733667,medication,identity,auto,medication,0,0,0,0
+depression,C0751626,medication,identity,auto,medication,0,0,0,0
+depression,C0753678,medication,seed,auto,medication,0,0,0,0
+depression,C0770882,medication,seed,auto,medication,0,0,0,0
+depression,C0771200,medication,seed,auto,medication,0,0,0,0
+depression,C0771310,medication,seed,auto,medication,0,0,0,0
+depression,C0771439,medication,seed,auto,medication,0,0,0,0
+depression,C0771589,medication,closure,keep,medication,0,0,0,0
+depression,C0772039,medication,seed,auto,medication,0,0,0,0
+depression,C0772054,medication,seed,auto,medication,0,0,0,0
+depression,C0772123,medication,seed,auto,medication,0,0,0,0
+depression,C0772277,medication,seed,auto,medication,0,0,0,0
+depression,C0772333,medication,seed,auto,medication,0,0,0,0
+depression,C0876085,medication,identity,auto,medication,0,0,0,0
+depression,C0876140,medication,identity,auto,medication,0,0,0,0
+depression,C0886642,medication,seed,auto,medication,0,0,0,0
+depression,C0891604,medication,seed,auto,medication,0,0,0,0
+depression,C0917896,medication,identity,auto,medication,0,0,0,0
+depression,C0939882,medication,seed,auto,medication,0,0,0,0
+depression,C0983486,medication,identity,auto,medication,0,0,0,0
+depression,C0983489,medication,identity,auto,medication,0,0,0,0
+depression,C0983490,medication,identity,auto,medication,0,0,0,0
+depression,C0983655,medication,identity,auto,medication,0,0,0,0
+depression,C0983656,medication,identity,auto,medication,0,0,0,0
+depression,C0983657,medication,identity,auto,medication,0,0,0,0
+depression,C0983658,medication,identity,auto,medication,0,0,0,0
+depression,C0986113,medication,identity,auto,medication,0,0,0,0
+depression,C0986905,medication,identity,auto,medication,0,0,0,0
+depression,C0988710,medication,identity,auto,medication,0,0,0,0
+depression,C0990508,medication,identity,auto,medication,0,0,0,0
+depression,C0992523,medication,identity,auto,medication,0,0,0,0
+depression,C1123089,medication,identity,auto,medication,0,0,0,0
+depression,C1123152,medication,identity,auto,medication,0,0,0,0
+depression,C1123153,medication,identity,auto,medication,0,0,0,0
+depression,C1123472,medication,identity,auto,medication,0,0,0,0
+depression,C1123651,medication,identity,auto,medication,0,0,0,0
+depression,C1123739,medication,identity,auto,medication,0,0,0,0
+depression,C1123740,medication,identity,auto,medication,0,0,0,0
+depression,C1123784,medication,identity,auto,medication,0,0,0,0
+depression,C1123878,medication,identity,auto,medication,0,0,0,0
+depression,C1123880,medication,identity,auto,medication,0,0,0,0
+depression,C1125445,medication,identity,auto,medication,0,0,0,0
+depression,C1125446,medication,identity,auto,medication,0,0,0,0
+depression,C1125933,medication,identity,auto,medication,0,0,0,0
+depression,C1126119,medication,identity,auto,medication,0,0,0,0
+depression,C1126203,medication,identity,auto,medication,0,0,0,0
+depression,C1126467,medication,identity,auto,medication,0,0,0,0
+depression,C1126869,medication,identity,auto,medication,0,0,0,0
+depression,C1127545,medication,identity,auto,medication,0,0,0,0
+depression,C1127922,medication,identity,auto,medication,0,0,0,0
+depression,C1127923,medication,identity,auto,medication,0,0,0,0
+depression,C1128284,medication,identity,auto,medication,0,0,0,0
+depression,C1128285,medication,identity,auto,medication,0,0,0,0
+depression,C1128286,medication,identity,auto,medication,0,0,0,0
+depression,C1128292,medication,identity,auto,medication,0,0,0,0
+depression,C1128517,medication,identity,auto,medication,0,0,0,0
+depression,C1128518,medication,identity,auto,medication,0,0,0,0
+depression,C1128519,medication,identity,auto,medication,0,0,0,0
+depression,C1128792,medication,identity,auto,medication,0,0,0,0
+depression,C1129319,medication,identity,auto,medication,0,0,0,0
+depression,C1129816,medication,identity,auto,medication,0,0,0,0
+depression,C1130295,medication,identity,auto,medication,0,0,0,0
+depression,C1130616,medication,identity,auto,medication,0,0,0,0
+depression,C1130907,medication,identity,auto,medication,0,0,0,0
+depression,C1131633,medication,identity,auto,medication,0,0,0,0
+depression,C1131634,medication,identity,auto,medication,0,0,0,0
+depression,C1131644,medication,identity,auto,medication,0,0,0,0
+depression,C1132111,medication,identity,auto,medication,0,0,0,0
+depression,C1132112,medication,identity,auto,medication,0,0,0,0
+depression,C1132113,medication,identity,auto,medication,0,0,0,0
+depression,C1132114,medication,identity,auto,medication,0,0,0,0
+depression,C1132125,medication,identity,auto,medication,0,0,0,0
+depression,C1132349,medication,identity,auto,medication,0,0,0,0
+depression,C1132350,medication,identity,auto,medication,0,0,0,0
+depression,C1132696,medication,identity,auto,medication,0,0,0,0
+depression,C1132810,medication,identity,auto,medication,0,0,0,0
+depression,C1132846,medication,identity,auto,medication,0,0,0,0
+depression,C1132847,medication,identity,auto,medication,0,0,0,0
+depression,C1133992,medication,identity,auto,medication,0,0,0,0
+depression,C1134099,medication,identity,auto,medication,0,0,0,0
+depression,C1134107,medication,identity,auto,medication,0,0,0,0
+depression,C1134155,medication,identity,auto,medication,0,0,0,0
+depression,C1134351,medication,identity,auto,medication,0,0,0,0
+depression,C1134382,medication,identity,auto,medication,0,0,0,0
+depression,C1146351,medication,identity,auto,medication,0,0,0,0
+depression,C1165334,medication,identity,auto,medication,0,0,0,0
+depression,C1166392,medication,identity,auto,medication,0,0,0,0
+depression,C1166393,medication,identity,auto,medication,0,0,0,0
+depression,C1170072,medication,identity,auto,medication,0,0,0,0
+depression,C1170573,medication,identity,auto,medication,0,0,0,0
+depression,C1171040,medication,identity,auto,medication,0,0,0,0
+depression,C1171057,medication,identity,auto,medication,0,0,0,0
+depression,C1171429,medication,identity,auto,medication,0,0,0,0
+depression,C1176933,medication,identity,auto,medication,0,0,0,0
+depression,C1186915,medication,identity,auto,medication,0,0,0,0
+depression,C1244569,medication,identity,auto,medication,0,0,0,0
+depression,C1244590,medication,identity,auto,medication,0,0,0,0
+depression,C1244591,medication,identity,auto,medication,0,0,0,0
+depression,C1244592,medication,identity,auto,medication,0,0,0,0
+depression,C1244593,medication,identity,auto,medication,0,0,0,0
+depression,C1244596,medication,identity,auto,medication,0,0,0,0
+depression,C1244700,medication,identity,auto,medication,0,0,0,0
+depression,C1244701,medication,identity,auto,medication,0,0,0,0
+depression,C1244738,medication,identity,auto,medication,0,0,0,0
+depression,C1244844,medication,identity,auto,medication,0,0,0,0
+depression,C1244845,medication,identity,auto,medication,0,0,0,0
+depression,C1244891,medication,identity,auto,medication,0,0,0,0
+depression,C1244892,medication,identity,auto,medication,0,0,0,0
+depression,C1244893,medication,identity,auto,medication,0,0,0,0
+depression,C1244894,medication,identity,auto,medication,0,0,0,0
+depression,C1245201,medication,identity,auto,medication,0,0,0,0
+depression,C1245573,medication,identity,auto,medication,0,0,0,0
+depression,C1245613,medication,identity,auto,medication,0,0,0,0
+depression,C1245614,medication,identity,auto,medication,0,0,0,0
+depression,C1245615,medication,identity,auto,medication,0,0,0,0
+depression,C1245616,medication,identity,auto,medication,0,0,0,0
+depression,C1245617,medication,identity,auto,medication,0,0,0,0
+depression,C1245750,medication,identity,auto,medication,0,0,0,0
+depression,C1245751,medication,identity,auto,medication,0,0,0,0
+depression,C1245752,medication,identity,auto,medication,0,0,0,0
+depression,C1246000,medication,identity,auto,medication,0,0,0,0
+depression,C1246001,medication,identity,auto,medication,0,0,0,0
+depression,C1246004,medication,identity,auto,medication,0,0,0,0
+depression,C1246279,medication,identity,auto,medication,0,0,0,0
+depression,C1246280,medication,identity,auto,medication,0,0,0,0
+depression,C1246281,medication,identity,auto,medication,0,0,0,0
+depression,C1246289,medication,identity,auto,medication,0,0,0,0
+depression,C1246304,medication,identity,auto,medication,0,0,0,0
+depression,C1246515,medication,identity,auto,medication,0,0,0,0
+depression,C1246516,medication,identity,auto,medication,0,0,0,0
+depression,C1246517,medication,identity,auto,medication,0,0,0,0
+depression,C1246675,medication,identity,auto,medication,0,0,0,0
+depression,C1246676,medication,identity,auto,medication,0,0,0,0
+depression,C1246677,medication,identity,auto,medication,0,0,0,0
+depression,C1246678,medication,identity,auto,medication,0,0,0,0
+depression,C1246679,medication,identity,auto,medication,0,0,0,0
+depression,C1246703,medication,identity,auto,medication,0,0,0,0
+depression,C1246704,medication,identity,auto,medication,0,0,0,0
+depression,C1246705,medication,identity,auto,medication,0,0,0,0
+depression,C1246776,medication,identity,auto,medication,0,0,0,0
+depression,C1246922,medication,identity,auto,medication,0,0,0,0
+depression,C1246923,medication,identity,auto,medication,0,0,0,0
+depression,C1247073,medication,identity,auto,medication,0,0,0,0
+depression,C1247186,medication,identity,auto,medication,0,0,0,0
+depression,C1247187,medication,identity,auto,medication,0,0,0,0
+depression,C1247188,medication,identity,auto,medication,0,0,0,0
+depression,C1247308,medication,identity,auto,medication,0,0,0,0
+depression,C1247365,medication,identity,auto,medication,0,0,0,0
+depression,C1247373,medication,identity,auto,medication,0,0,0,0
+depression,C1247419,medication,identity,auto,medication,0,0,0,0
+depression,C1247420,medication,identity,auto,medication,0,0,0,0
+depression,C1247733,medication,identity,auto,medication,0,0,0,0
+depression,C1247911,medication,identity,auto,medication,0,0,0,0
+depression,C1247912,medication,identity,auto,medication,0,0,0,0
+depression,C1247937,medication,identity,auto,medication,0,0,0,0
+depression,C1247938,medication,identity,auto,medication,0,0,0,0
+depression,C1248099,medication,identity,auto,medication,0,0,0,0
+depression,C1248101,medication,identity,auto,medication,0,0,0,0
+depression,C1248257,medication,identity,auto,medication,0,0,0,0
+depression,C1248258,medication,identity,auto,medication,0,0,0,0
+depression,C1248259,medication,identity,auto,medication,0,0,0,0
+depression,C1248260,medication,identity,auto,medication,0,0,0,0
+depression,C1248314,medication,identity,auto,medication,0,0,0,0
+depression,C1248315,medication,identity,auto,medication,0,0,0,0
+depression,C1248363,medication,identity,auto,medication,0,0,0,0
+depression,C1248607,medication,identity,auto,medication,0,0,0,0
+depression,C1248707,medication,identity,auto,medication,0,0,0,0
+depression,C1248709,medication,identity,auto,medication,0,0,0,0
+depression,C1248733,medication,identity,auto,medication,0,0,0,0
+depression,C1248739,medication,identity,auto,medication,0,0,0,0
+depression,C1248744,medication,identity,auto,medication,0,0,0,0
+depression,C1249137,medication,identity,auto,medication,0,0,0,0
+depression,C1249991,medication,identity,auto,medication,0,0,0,0
+depression,C1250475,medication,identity,auto,medication,0,0,0,0
+depression,C1250487,medication,identity,auto,medication,0,0,0,0
+depression,C1251924,medication,identity,auto,medication,0,0,0,0
+depression,C1252486,medication,identity,auto,medication,0,0,0,0
+depression,C1252646,medication,identity,auto,medication,0,0,0,0
+depression,C1252679,medication,identity,auto,medication,0,0,0,0
+depression,C1252717,medication,identity,auto,medication,0,0,0,0
+depression,C1252725,medication,identity,auto,medication,0,0,0,0
+depression,C1252744,medication,identity,auto,medication,0,0,0,0
+depression,C1252954,medication,identity,auto,medication,0,0,0,0
+depression,C1253043,medication,identity,auto,medication,0,0,0,0
+depression,C1253087,medication,identity,auto,medication,0,0,0,0
+depression,C1253294,medication,identity,auto,medication,0,0,0,0
+depression,C1253524,medication,identity,auto,medication,0,0,0,0
+depression,C1254036,medication,identity,auto,medication,0,0,0,0
+depression,C1256342,medication,identity,auto,medication,0,0,0,0
+depression,C1262621,medication,identity,auto,medication,0,0,0,0
+depression,C1262622,medication,identity,auto,medication,0,0,0,0
+depression,C1262998,medication,identity,auto,medication,0,0,0,0
+depression,C1263094,medication,identity,auto,medication,0,0,0,0
+depression,C1270964,medication,identity,auto,medication,0,0,0,0
+depression,C1271023,medication,identity,auto,medication,0,0,0,0
+depression,C1271025,medication,identity,auto,medication,0,0,0,0
+depression,C1271029,medication,identity,auto,medication,0,0,0,0
+depression,C1306034,medication,identity,auto,medication,0,0,0,0
+depression,C1306438,medication,identity,auto,medication,0,0,0,0
+depression,C1306439,medication,identity,auto,medication,0,0,0,0
+depression,C1330331,medication,identity,auto,medication,0,0,0,0
+depression,C1330549,medication,identity,auto,medication,0,0,0,0
+depression,C1331002,medication,identity,auto,medication,0,0,0,0
+depression,C1331255,medication,identity,auto,medication,0,0,0,0
+depression,C1331257,medication,identity,auto,medication,0,0,0,0
+depression,C1365510,medication,seed,auto,medication,0,0,0,0
+depression,C1367132,medication,identity,auto,medication,0,0,0,0
+depression,C1367134,medication,identity,auto,medication,0,0,0,0
+depression,C1367486,medication,identity,auto,medication,0,0,0,0
+depression,C1368297,medication,identity,auto,medication,0,0,0,0
+depression,C1368351,medication,identity,auto,medication,0,0,0,0
+depression,C1368352,medication,identity,auto,medication,0,0,0,0
+depression,C1368654,medication,identity,auto,medication,0,0,0,0
+depression,C1368655,medication,identity,auto,medication,0,0,0,0
+depression,C1368656,medication,identity,auto,medication,0,0,0,0
+depression,C1368688,medication,identity,auto,medication,0,0,0,0
+depression,C1368689,medication,identity,auto,medication,0,0,0,0
+depression,C1368690,medication,identity,auto,medication,0,0,0,0
+depression,C1368697,medication,identity,auto,medication,0,0,0,0
+depression,C1368698,medication,identity,auto,medication,0,0,0,0
+depression,C1368699,medication,identity,auto,medication,0,0,0,0
+depression,C1368700,medication,identity,auto,medication,0,0,0,0
+depression,C1368701,medication,identity,auto,medication,0,0,0,0
+depression,C1368704,medication,identity,auto,medication,0,0,0,0
+depression,C1369243,medication,identity,auto,medication,0,0,0,0
+depression,C1369417,medication,identity,auto,medication,0,0,0,0
+depression,C1369418,medication,identity,auto,medication,0,0,0,0
+depression,C1369426,medication,identity,auto,medication,0,0,0,0
+depression,C1371033,medication,identity,auto,medication,0,0,0,0
+depression,C1371034,medication,identity,auto,medication,0,0,0,0
+depression,C1371040,medication,identity,auto,medication,0,0,0,0
+depression,C1371041,medication,identity,auto,medication,0,0,0,0
+depression,C1371042,medication,identity,auto,medication,0,0,0,0
+depression,C1371236,medication,identity,auto,medication,0,0,0,0
+depression,C1371237,medication,identity,auto,medication,0,0,0,0
+depression,C1371238,medication,identity,auto,medication,0,0,0,0
+depression,C1377586,medication,identity,auto,medication,0,0,0,0
+depression,C1377587,medication,identity,auto,medication,0,0,0,0
+depression,C1377957,medication,identity,auto,medication,0,0,0,0
+depression,C1377958,medication,identity,auto,medication,0,0,0,0
+depression,C1382233,medication,identity,auto,medication,0,0,0,0
+depression,C1382234,medication,identity,auto,medication,0,0,0,0
+depression,C1383875,medication,identity,auto,medication,0,0,0,0
+depression,C1383923,medication,identity,auto,medication,0,0,0,0
+depression,C1383988,medication,identity,auto,medication,0,0,0,0
+depression,C1383989,medication,identity,auto,medication,0,0,0,0
+depression,C1384130,medication,identity,auto,medication,0,0,0,0
+depression,C1384311,medication,identity,auto,medication,0,0,0,0
+depression,C1384331,medication,identity,auto,medication,0,0,0,0
+depression,C1505020,medication,seed,auto,medication,0,0,0,0
+depression,C1509882,medication,identity,auto,medication,0,0,0,0
+depression,C1509884,medication,identity,auto,medication,0,0,0,0
+depression,C1530072,medication,seed,auto,medication,0,0,0,0
+depression,C1563860,medication,identity,auto,medication,0,0,0,0
+depression,C1576929,medication,identity,auto,medication,0,0,0,0
+depression,C1577065,medication,identity,auto,medication,0,0,0,0
+depression,C1577081,medication,identity,auto,medication,0,0,0,0
+depression,C1577175,medication,identity,auto,medication,0,0,0,0
+depression,C1577199,medication,identity,auto,medication,0,0,0,0
+depression,C1577719,medication,identity,auto,medication,0,0,0,0
+depression,C1577720,medication,identity,auto,medication,0,0,0,0
+depression,C1578141,medication,identity,auto,medication,0,0,0,0
+depression,C1587939,medication,identity,auto,medication,0,0,0,0
+depression,C1587941,medication,identity,auto,medication,0,0,0,0
+depression,C1587944,medication,identity,auto,medication,0,0,0,0
+depression,C1591733,medication,identity,auto,medication,0,0,0,0
+depression,C1601865,medication,identity,auto,medication,0,0,0,0
+depression,C1602003,medication,identity,auto,medication,0,0,0,0
+depression,C1602307,medication,identity,auto,medication,0,0,0,0
+depression,C1602496,medication,identity,auto,medication,0,0,0,0
+depression,C1602748,medication,identity,auto,medication,0,0,0,0
+depression,C1612449,medication,identity,auto,medication,0,0,0,0
+depression,C1614057,medication,identity,auto,medication,0,0,0,0
+depression,C1614677,medication,identity,auto,medication,0,0,0,0
+depression,C1615686,medication,identity,auto,medication,0,0,0,0
+depression,C1616710,medication,identity,auto,medication,0,0,0,0
+depression,C1617759,medication,identity,auto,medication,0,0,0,0
+depression,C1617806,medication,identity,auto,medication,0,0,0,0
+depression,C1619549,medication,identity,auto,medication,0,0,0,0
+depression,C1655356,medication,identity,auto,medication,0,0,0,0
+depression,C1691676,medication,identity,auto,medication,0,0,0,0
+depression,C1692877,medication,identity,auto,medication,0,0,0,0
+depression,C1699309,medication,identity,auto,medication,0,0,0,0
+depression,C1702538,medication,identity,auto,medication,0,0,0,0
+depression,C1703048,medication,identity,auto,medication,0,0,0,0
+depression,C1703512,medication,identity,auto,medication,0,0,0,0
+depression,C1703587,medication,identity,auto,medication,0,0,0,0
+depression,C1703933,medication,identity,auto,medication,0,0,0,0
+depression,C1704011,medication,identity,auto,medication,0,0,0,0
+depression,C1724002,medication,identity,auto,medication,0,0,0,0
+depression,C1724459,medication,identity,auto,medication,0,0,0,0
+depression,C1742305,medication,identity,auto,medication,0,0,0,0
+depression,C1742884,medication,seed,auto,medication,0,0,0,0
+depression,C1813809,medication,identity,auto,medication,0,0,0,0
+depression,C1813810,medication,identity,auto,medication,0,0,0,0
+depression,C1813812,medication,identity,auto,medication,0,0,0,0
+depression,C1813814,medication,identity,auto,medication,0,0,0,0
+depression,C1828935,medication,identity,auto,medication,0,0,0,0
+depression,C1880288,medication,seed,auto,medication,0,0,0,0
+depression,C1948844,medication,identity,auto,medication,0,0,0,0
+depression,C1949279,medication,identity,auto,medication,0,0,0,0
+depression,C1965414,medication,identity,auto,medication,0,0,0,0
+depression,C1966347,medication,seed,auto,medication,0,0,0,0
+depression,C1967619,medication,identity,auto,medication,0,0,0,0
+depression,C1967768,medication,identity,auto,medication,0,0,0,0
+depression,C1967769,medication,identity,auto,medication,0,0,0,0
+depression,C1968305,medication,identity,auto,medication,0,0,0,0
+depression,C2242127,medication,identity,auto,medication,0,0,0,0
+depression,C2242128,medication,identity,auto,medication,0,0,0,0
+depression,C2316497,medication,seed,auto,medication,0,0,0,0
+depression,C2341007,medication,identity,auto,medication,0,0,0,0
+depression,C2341064,medication,identity,auto,medication,0,0,0,0
+depression,C2341608,medication,identity,auto,medication,0,0,0,0
+depression,C2341609,medication,identity,auto,medication,0,0,0,0
+depression,C2341627,medication,identity,auto,medication,0,0,0,0
+depression,C2341671,medication,identity,auto,medication,0,0,0,0
+depression,C2344849,medication,identity,auto,medication,0,0,0,0
+depression,C2344853,medication,identity,auto,medication,0,0,0,0
+depression,C2344855,medication,identity,auto,medication,0,0,0,0
+depression,C2344866,medication,identity,auto,medication,0,0,0,0
+depression,C2344876,medication,identity,auto,medication,0,0,0,0
+depression,C2344887,medication,identity,auto,medication,0,0,0,0
+depression,C2344899,medication,identity,auto,medication,0,0,0,0
+depression,C2344908,medication,identity,auto,medication,0,0,0,0
+depression,C2344928,medication,identity,auto,medication,0,0,0,0
+depression,C2344948,medication,identity,auto,medication,0,0,0,0
+depression,C2344977,medication,identity,auto,medication,0,0,0,0
+depression,C2344986,medication,identity,auto,medication,0,0,0,0
+depression,C2344988,medication,identity,auto,medication,0,0,0,0
+depression,C2344998,medication,identity,auto,medication,0,0,0,0
+depression,C2345036,medication,identity,auto,medication,0,0,0,0
+depression,C2345039,medication,identity,auto,medication,0,0,0,0
+depression,C2345043,medication,identity,auto,medication,0,0,0,0
+depression,C2345051,medication,identity,auto,medication,0,0,0,0
+depression,C2345053,medication,identity,auto,medication,0,0,0,0
+depression,C2345066,medication,identity,auto,medication,0,0,0,0
+depression,C2345088,medication,identity,auto,medication,0,0,0,0
+depression,C2345108,medication,identity,auto,medication,0,0,0,0
+depression,C2345115,medication,identity,auto,medication,0,0,0,0
+depression,C2345117,medication,identity,auto,medication,0,0,0,0
+depression,C2345129,medication,identity,auto,medication,0,0,0,0
+depression,C2345137,medication,identity,auto,medication,0,0,0,0
+depression,C2345143,medication,identity,auto,medication,0,0,0,0
+depression,C2345155,medication,identity,auto,medication,0,0,0,0
+depression,C2345163,medication,identity,auto,medication,0,0,0,0
+depression,C2345169,medication,identity,auto,medication,0,0,0,0
+depression,C2345170,medication,identity,auto,medication,0,0,0,0
+depression,C2345180,medication,identity,auto,medication,0,0,0,0
+depression,C2345187,medication,identity,auto,medication,0,0,0,0
+depression,C2345189,medication,identity,auto,medication,0,0,0,0
+depression,C2345204,medication,identity,auto,medication,0,0,0,0
+depression,C2345211,medication,identity,auto,medication,0,0,0,0
+depression,C2345213,medication,identity,auto,medication,0,0,0,0
+depression,C2345227,medication,identity,auto,medication,0,0,0,0
+depression,C2345236,medication,identity,auto,medication,0,0,0,0
+depression,C2345249,medication,identity,auto,medication,0,0,0,0
+depression,C2345256,medication,identity,auto,medication,0,0,0,0
+depression,C2345258,medication,identity,auto,medication,0,0,0,0
+depression,C2345269,medication,identity,auto,medication,0,0,0,0
+depression,C2345277,medication,identity,auto,medication,0,0,0,0
+depression,C2345281,medication,identity,auto,medication,0,0,0,0
+depression,C2345297,medication,identity,auto,medication,0,0,0,0
+depression,C2345299,medication,identity,auto,medication,0,0,0,0
+depression,C2345303,medication,identity,auto,medication,0,0,0,0
+depression,C2345307,medication,identity,auto,medication,0,0,0,0
+depression,C2345311,medication,identity,auto,medication,0,0,0,0
+depression,C2345315,medication,identity,auto,medication,0,0,0,0
+depression,C2345324,medication,identity,auto,medication,0,0,0,0
+depression,C2345332,medication,identity,auto,medication,0,0,0,0
+depression,C2345337,medication,identity,auto,medication,0,0,0,0
+depression,C2345341,medication,identity,auto,medication,0,0,0,0
+depression,C2345347,medication,identity,auto,medication,0,0,0,0
+depression,C2345353,medication,identity,auto,medication,0,0,0,0
+depression,C2345358,medication,identity,auto,medication,0,0,0,0
+depression,C2345366,medication,identity,auto,medication,0,0,0,0
+depression,C2345376,medication,identity,auto,medication,0,0,0,0
+depression,C2345378,medication,identity,auto,medication,0,0,0,0
+depression,C2345401,medication,identity,auto,medication,0,0,0,0
+depression,C2345402,medication,identity,auto,medication,0,0,0,0
+depression,C2345414,medication,identity,auto,medication,0,0,0,0
+depression,C2345424,medication,identity,auto,medication,0,0,0,0
+depression,C2345436,medication,identity,auto,medication,0,0,0,0
+depression,C2345444,medication,identity,auto,medication,0,0,0,0
+depression,C2345461,medication,identity,auto,medication,0,0,0,0
+depression,C2345632,medication,identity,auto,medication,0,0,0,0
+depression,C2345636,medication,identity,auto,medication,0,0,0,0
+depression,C2345638,medication,identity,auto,medication,0,0,0,0
+depression,C2345651,medication,identity,auto,medication,0,0,0,0
+depression,C2345657,medication,identity,auto,medication,0,0,0,0
+depression,C2345659,medication,identity,auto,medication,0,0,0,0
+depression,C2345671,medication,identity,auto,medication,0,0,0,0
+depression,C2345673,medication,identity,auto,medication,0,0,0,0
+depression,C2345702,medication,identity,auto,medication,0,0,0,0
+depression,C2345713,medication,identity,auto,medication,0,0,0,0
+depression,C2345720,medication,identity,auto,medication,0,0,0,0
+depression,C2345722,medication,identity,auto,medication,0,0,0,0
+depression,C2345735,medication,identity,auto,medication,0,0,0,0
+depression,C2345739,medication,identity,auto,medication,0,0,0,0
+depression,C2345792,medication,identity,auto,medication,0,0,0,0
+depression,C2345839,medication,identity,auto,medication,0,0,0,0
+depression,C2345957,medication,identity,auto,medication,0,0,0,0
+depression,C2345971,medication,identity,auto,medication,0,0,0,0
+depression,C2345973,medication,identity,auto,medication,0,0,0,0
+depression,C2345984,medication,identity,auto,medication,0,0,0,0
+depression,C2345990,medication,identity,auto,medication,0,0,0,0
+depression,C2346030,medication,identity,auto,medication,0,0,0,0
+depression,C2346032,medication,identity,auto,medication,0,0,0,0
+depression,C2346076,medication,identity,auto,medication,0,0,0,0
+depression,C2346078,medication,identity,auto,medication,0,0,0,0
+depression,C2346092,medication,identity,auto,medication,0,0,0,0
+depression,C2346099,medication,identity,auto,medication,0,0,0,0
+depression,C2346101,medication,identity,auto,medication,0,0,0,0
+depression,C2346113,medication,identity,auto,medication,0,0,0,0
+depression,C2346120,medication,identity,auto,medication,0,0,0,0
+depression,C2346124,medication,identity,auto,medication,0,0,0,0
+depression,C2346128,medication,identity,auto,medication,0,0,0,0
+depression,C2346159,medication,identity,auto,medication,0,0,0,0
+depression,C2346165,medication,identity,auto,medication,0,0,0,0
+depression,C2346167,medication,identity,auto,medication,0,0,0,0
+depression,C2346175,medication,identity,auto,medication,0,0,0,0
+depression,C2346272,medication,identity,auto,medication,0,0,0,0
+depression,C2348751,medication,seed,auto,medication,0,0,0,0
+depression,C2356277,medication,identity,auto,medication,0,0,0,0
+depression,C2356280,medication,identity,auto,medication,0,0,0,0
+depression,C2356284,medication,identity,auto,medication,0,0,0,0
+depression,C2356320,medication,identity,auto,medication,0,0,0,0
+depression,C2365295,medication,identity,auto,medication,0,0,0,0
+depression,C2369529,medication,identity,auto,medication,0,0,0,0
+depression,C2369530,medication,identity,auto,medication,0,0,0,0
+depression,C2369535,medication,identity,auto,medication,0,0,0,0
+depression,C2586883,medication,identity,auto,medication,0,0,0,0
+depression,C2586896,medication,identity,auto,medication,0,0,0,0
+depression,C2586901,medication,identity,auto,medication,0,0,0,0
+depression,C2586929,medication,identity,auto,medication,0,0,0,0
+depression,C2586930,medication,identity,auto,medication,0,0,0,0
+depression,C2586945,medication,identity,auto,medication,0,0,0,0
+depression,C2587022,medication,identity,auto,medication,0,0,0,0
+depression,C2587092,medication,identity,auto,medication,0,0,0,0
+depression,C2587094,medication,identity,auto,medication,0,0,0,0
+depression,C2587109,medication,identity,auto,medication,0,0,0,0
+depression,C2587130,medication,identity,auto,medication,0,0,0,0
+depression,C2587136,medication,identity,auto,medication,0,0,0,0
+depression,C2608113,medication,identity,auto,medication,0,0,0,0
+depression,C2608647,medication,identity,auto,medication,0,0,0,0
+depression,C2608649,medication,identity,auto,medication,0,0,0,0
+depression,C2608653,medication,identity,auto,medication,0,0,0,0
+depression,C2608656,medication,identity,auto,medication,0,0,0,0
+depression,C2608679,medication,identity,auto,medication,0,0,0,0
+depression,C2608680,medication,identity,auto,medication,0,0,0,0
+depression,C2608685,medication,identity,auto,medication,0,0,0,0
+depression,C2609695,medication,identity,auto,medication,0,0,0,0
+depression,C2609728,medication,identity,auto,medication,0,0,0,0
+depression,C2609787,medication,identity,auto,medication,0,0,0,0
+depression,C2609789,medication,identity,auto,medication,0,0,0,0
+depression,C2609791,medication,identity,auto,medication,0,0,0,0
+depression,C2609793,medication,identity,auto,medication,0,0,0,0
+depression,C2609795,medication,identity,auto,medication,0,0,0,0
+depression,C2609797,medication,identity,auto,medication,0,0,0,0
+depression,C2609798,medication,identity,auto,medication,0,0,0,0
+depression,C2609799,medication,identity,auto,medication,0,0,0,0
+depression,C2609800,medication,identity,auto,medication,0,0,0,0
+depression,C2683247,medication,identity,auto,medication,0,0,0,0
+depression,C2683248,medication,identity,auto,medication,0,0,0,0
+depression,C2684774,medication,identity,auto,medication,0,0,0,0
+depression,C2684775,medication,identity,auto,medication,0,0,0,0
+depression,C2684776,medication,identity,auto,medication,0,0,0,0
+depression,C2697950,medication,seed,auto,medication,0,0,0,0
+depression,C2710317,medication,identity,auto,medication,0,0,0,0
+depression,C2710319,medication,identity,auto,medication,0,0,0,0
+depression,C2710321,medication,identity,auto,medication,0,0,0,0
+depression,C2710323,medication,identity,auto,medication,0,0,0,0
+depression,C2710325,medication,identity,auto,medication,0,0,0,0
+depression,C2710482,medication,identity,auto,medication,0,0,0,0
+depression,C2710512,medication,identity,auto,medication,0,0,0,0
+depression,C2710515,medication,identity,auto,medication,0,0,0,0
+depression,C2710516,medication,identity,auto,medication,0,0,0,0
+depression,C2710528,medication,identity,auto,medication,0,0,0,0
+depression,C2710554,medication,identity,auto,medication,0,0,0,0
+depression,C2710561,medication,identity,auto,medication,0,0,0,0
+depression,C2710564,medication,identity,auto,medication,0,0,0,0
+depression,C2710566,medication,identity,auto,medication,0,0,0,0
+depression,C2710783,medication,identity,auto,medication,0,0,0,0
+depression,C2710784,medication,identity,auto,medication,0,0,0,0
+depression,C2710786,medication,identity,auto,medication,0,0,0,0
+depression,C2710788,medication,identity,auto,medication,0,0,0,0
+depression,C2710790,medication,identity,auto,medication,0,0,0,0
+depression,C2710792,medication,identity,auto,medication,0,0,0,0
+depression,C2718471,medication,identity,auto,medication,0,0,0,0
+depression,C2718472,medication,identity,auto,medication,0,0,0,0
+depression,C2718711,medication,identity,auto,medication,0,0,0,0
+depression,C2718929,medication,identity,auto,medication,0,0,0,0
+depression,C2718932,medication,identity,auto,medication,0,0,0,0
+depression,C2718934,medication,identity,auto,medication,0,0,0,0
+depression,C2718936,medication,identity,auto,medication,0,0,0,0
+depression,C2718938,medication,identity,auto,medication,0,0,0,0
+depression,C2718988,medication,identity,auto,medication,0,0,0,0
+depression,C2718990,medication,identity,auto,medication,0,0,0,0
+depression,C2719345,medication,identity,auto,medication,0,0,0,0
+depression,C2719626,medication,seed,auto,medication,0,0,0,0
+depression,C2719821,medication,identity,auto,medication,0,0,0,0
+depression,C2722882,medication,identity,auto,medication,0,0,0,0
+depression,C2722883,medication,identity,auto,medication,0,0,0,0
+depression,C2723035,medication,identity,auto,medication,0,0,0,0
+depression,C2723087,medication,identity,auto,medication,0,0,0,0
+depression,C2723090,medication,identity,auto,medication,0,0,0,0
+depression,C2723092,medication,identity,auto,medication,0,0,0,0
+depression,C2723107,medication,identity,auto,medication,0,0,0,0
+depression,C2724938,medication,identity,auto,medication,0,0,0,0
+depression,C2724940,medication,identity,auto,medication,0,0,0,0
+depression,C2730276,medication,identity,auto,medication,0,0,0,0
+depression,C2730278,medication,identity,auto,medication,0,0,0,0
+depression,C2731195,medication,identity,auto,medication,0,0,0,0
+depression,C2731199,medication,identity,auto,medication,0,0,0,0
+depression,C2731203,medication,identity,auto,medication,0,0,0,0
+depression,C2732171,medication,identity,auto,medication,0,0,0,0
+depression,C2740387,medication,identity,auto,medication,0,0,0,0
+depression,C2741604,medication,identity,auto,medication,0,0,0,0
+depression,C2741605,medication,identity,auto,medication,0,0,0,0
+depression,C2741612,medication,identity,auto,medication,0,0,0,0
+depression,C2741626,medication,identity,auto,medication,0,0,0,0
+depression,C2746486,medication,identity,auto,medication,0,0,0,0
+depression,C2746490,medication,identity,auto,medication,0,0,0,0
+depression,C2746771,medication,identity,auto,medication,0,0,0,0
+depression,C2746775,medication,identity,auto,medication,0,0,0,0
+depression,C2746779,medication,identity,auto,medication,0,0,0,0
+depression,C2746781,medication,identity,auto,medication,0,0,0,0
+depression,C2747210,medication,identity,auto,medication,0,0,0,0
+depression,C2747212,medication,identity,auto,medication,0,0,0,0
+depression,C2747640,medication,identity,auto,medication,0,0,0,0
+depression,C2747642,medication,identity,auto,medication,0,0,0,0
+depression,C2747646,medication,identity,auto,medication,0,0,0,0
+depression,C2825616,medication,closure,keep,medication,0,0,0,0
+depression,C2828218,medication,seed,auto,medication,0,0,0,0
+depression,C2917771,medication,identity,auto,medication,0,0,0,0
+depression,C2917774,medication,identity,auto,medication,0,0,0,0
+depression,C2917778,medication,identity,auto,medication,0,0,0,0
+depression,C2917780,medication,identity,auto,medication,0,0,0,0
+depression,C2917782,medication,identity,auto,medication,0,0,0,0
+depression,C2917785,medication,identity,auto,medication,0,0,0,0
+depression,C2917814,medication,identity,auto,medication,0,0,0,0
+depression,C2917816,medication,identity,auto,medication,0,0,0,0
+depression,C2917818,medication,identity,auto,medication,0,0,0,0
+depression,C2930107,medication,identity,auto,medication,0,0,0,0
+depression,C2940007,medication,identity,auto,medication,0,0,0,0
+depression,C2940009,medication,identity,auto,medication,0,0,0,0
+depression,C2946964,medication,identity,auto,medication,0,0,0,0
+depression,C2946965,medication,identity,auto,medication,0,0,0,0
+depression,C2946972,medication,identity,auto,medication,0,0,0,0
+depression,C2962546,medication,seed,auto,medication,0,0,0,0
+depression,C2962547,medication,identity,auto,medication,0,0,0,0
+depression,C2962548,medication,identity,auto,medication,0,0,0,0
+depression,C2962550,medication,identity,auto,medication,0,0,0,0
+depression,C2962554,medication,identity,auto,medication,0,0,0,0
+depression,C2962560,medication,identity,auto,medication,0,0,0,0
+depression,C2979326,medication,identity,auto,medication,0,0,0,0
+depression,C2979588,medication,identity,auto,medication,0,0,0,0
+depression,C2979590,medication,identity,auto,medication,0,0,0,0
+depression,C2979594,medication,identity,auto,medication,0,0,0,0
+depression,C2979596,medication,identity,auto,medication,0,0,0,0
+depression,C2979599,medication,identity,auto,medication,0,0,0,0
+depression,C2979601,medication,identity,auto,medication,0,0,0,0
+depression,C2979604,medication,identity,auto,medication,0,0,0,0
+depression,C2979606,medication,identity,auto,medication,0,0,0,0
+depression,C2979610,medication,identity,auto,medication,0,0,0,0
+depression,C2979613,medication,identity,auto,medication,0,0,0,0
+depression,C2979616,medication,identity,auto,medication,0,0,0,0
+depression,C2979669,medication,identity,auto,medication,0,0,0,0
+depression,C2979683,medication,identity,auto,medication,0,0,0,0
+depression,C2979705,medication,identity,auto,medication,0,0,0,0
+depression,C2979770,medication,identity,auto,medication,0,0,0,0
+depression,C2980861,medication,identity,auto,medication,0,0,0,0
+depression,C2980865,medication,identity,auto,medication,0,0,0,0
+depression,C2980868,medication,identity,auto,medication,0,0,0,0
+depression,C3153180,medication,identity,auto,medication,0,0,0,0
+depression,C3153194,medication,identity,auto,medication,0,0,0,0
+depression,C3153196,medication,identity,auto,medication,0,0,0,0
+depression,C3153198,medication,identity,auto,medication,0,0,0,0
+depression,C3153200,medication,identity,auto,medication,0,0,0,0
+depression,C3153216,medication,identity,auto,medication,0,0,0,0
+depression,C3153217,medication,identity,auto,medication,0,0,0,0
+depression,C3153218,medication,identity,auto,medication,0,0,0,0
+depression,C3153454,medication,identity,auto,medication,0,0,0,0
+depression,C3153456,medication,identity,auto,medication,0,0,0,0
+depression,C3153458,medication,identity,auto,medication,0,0,0,0
+depression,C3153460,medication,identity,auto,medication,0,0,0,0
+depression,C3153462,medication,identity,auto,medication,0,0,0,0
+depression,C3153467,medication,identity,auto,medication,0,0,0,0
+depression,C3153601,medication,identity,auto,medication,0,0,0,0
+depression,C3153604,medication,identity,auto,medication,0,0,0,0
+depression,C3153606,medication,identity,auto,medication,0,0,0,0
+depression,C3162604,medication,identity,auto,medication,0,0,0,0
+depression,C3162610,medication,identity,auto,medication,0,0,0,0
+depression,C3205888,medication,identity,auto,medication,0,0,0,0
+depression,C3205889,medication,identity,auto,medication,0,0,0,0
+depression,C3205895,medication,identity,auto,medication,0,0,0,0
+depression,C3205896,medication,identity,auto,medication,0,0,0,0
+depression,C3206636,medication,identity,auto,medication,0,0,0,0
+depression,C3206637,medication,identity,auto,medication,0,0,0,0
+depression,C3206638,medication,identity,auto,medication,0,0,0,0
+depression,C3206771,medication,identity,auto,medication,0,0,0,0
+depression,C3206772,medication,identity,auto,medication,0,0,0,0
+depression,C3206773,medication,identity,auto,medication,0,0,0,0
+depression,C3206774,medication,identity,auto,medication,0,0,0,0
+depression,C3206775,medication,identity,auto,medication,0,0,0,0
+depression,C3206776,medication,identity,auto,medication,0,0,0,0
+depression,C3206777,medication,identity,auto,medication,0,0,0,0
+depression,C3206778,medication,identity,auto,medication,0,0,0,0
+depression,C3206779,medication,identity,auto,medication,0,0,0,0
+depression,C3207090,medication,identity,auto,medication,0,0,0,0
+depression,C3207091,medication,identity,auto,medication,0,0,0,0
+depression,C3207092,medication,identity,auto,medication,0,0,0,0
+depression,C3207342,medication,identity,auto,medication,0,0,0,0
+depression,C3207798,medication,identity,auto,medication,0,0,0,0
+depression,C3207799,medication,identity,auto,medication,0,0,0,0
+depression,C3207857,medication,identity,auto,medication,0,0,0,0
+depression,C3207858,medication,identity,auto,medication,0,0,0,0
+depression,C3207859,medication,identity,auto,medication,0,0,0,0
+depression,C3207860,medication,identity,auto,medication,0,0,0,0
+depression,C3208158,medication,identity,auto,medication,0,0,0,0
+depression,C3208159,medication,identity,auto,medication,0,0,0,0
+depression,C3208160,medication,identity,auto,medication,0,0,0,0
+depression,C3208161,medication,identity,auto,medication,0,0,0,0
+depression,C3208162,medication,identity,auto,medication,0,0,0,0
+depression,C3208217,medication,identity,auto,medication,0,0,0,0
+depression,C3208218,medication,identity,auto,medication,0,0,0,0
+depression,C3208426,medication,identity,auto,medication,0,0,0,0
+depression,C3208427,medication,identity,auto,medication,0,0,0,0
+depression,C3208428,medication,identity,auto,medication,0,0,0,0
+depression,C3208464,medication,identity,auto,medication,0,0,0,0
+depression,C3208465,medication,identity,auto,medication,0,0,0,0
+depression,C3208466,medication,identity,auto,medication,0,0,0,0
+depression,C3208467,medication,identity,auto,medication,0,0,0,0
+depression,C3208468,medication,identity,auto,medication,0,0,0,0
+depression,C3208471,medication,identity,auto,medication,0,0,0,0
+depression,C3208472,medication,identity,auto,medication,0,0,0,0
+depression,C3208473,medication,identity,auto,medication,0,0,0,0
+depression,C3208474,medication,identity,auto,medication,0,0,0,0
+depression,C3208475,medication,identity,auto,medication,0,0,0,0
+depression,C3208476,medication,identity,auto,medication,0,0,0,0
+depression,C3208478,medication,identity,auto,medication,0,0,0,0
+depression,C3208705,medication,identity,auto,medication,0,0,0,0
+depression,C3208706,medication,identity,auto,medication,0,0,0,0
+depression,C3208768,medication,identity,auto,medication,0,0,0,0
+depression,C3208769,medication,identity,auto,medication,0,0,0,0
+depression,C3208770,medication,identity,auto,medication,0,0,0,0
+depression,C3208771,medication,identity,auto,medication,0,0,0,0
+depression,C3208772,medication,identity,auto,medication,0,0,0,0
+depression,C3208773,medication,identity,auto,medication,0,0,0,0
+depression,C3208774,medication,identity,auto,medication,0,0,0,0
+depression,C3208775,medication,identity,auto,medication,0,0,0,0
+depression,C3208776,medication,identity,auto,medication,0,0,0,0
+depression,C3208792,medication,identity,auto,medication,0,0,0,0
+depression,C3209733,medication,identity,auto,medication,0,0,0,0
+depression,C3209734,medication,identity,auto,medication,0,0,0,0
+depression,C3209737,medication,identity,auto,medication,0,0,0,0
+depression,C3209738,medication,identity,auto,medication,0,0,0,0
+depression,C3209739,medication,identity,auto,medication,0,0,0,0
+depression,C3210728,medication,identity,auto,medication,0,0,0,0
+depression,C3210729,medication,identity,auto,medication,0,0,0,0
+depression,C3210730,medication,identity,auto,medication,0,0,0,0
+depression,C3210731,medication,identity,auto,medication,0,0,0,0
+depression,C3210762,medication,identity,auto,medication,0,0,0,0
+depression,C3210763,medication,identity,auto,medication,0,0,0,0
+depression,C3210868,medication,identity,auto,medication,0,0,0,0
+depression,C3210869,medication,identity,auto,medication,0,0,0,0
+depression,C3211701,medication,identity,auto,medication,0,0,0,0
+depression,C3211702,medication,identity,auto,medication,0,0,0,0
+depression,C3211766,medication,identity,auto,medication,0,0,0,0
+depression,C3211767,medication,identity,auto,medication,0,0,0,0
+depression,C3211992,medication,identity,auto,medication,0,0,0,0
+depression,C3211993,medication,identity,auto,medication,0,0,0,0
+depression,C3212088,medication,identity,auto,medication,0,0,0,0
+depression,C3212089,medication,identity,auto,medication,0,0,0,0
+depression,C3212090,medication,identity,auto,medication,0,0,0,0
+depression,C3212091,medication,identity,auto,medication,0,0,0,0
+depression,C3212095,medication,identity,auto,medication,0,0,0,0
+depression,C3212096,medication,identity,auto,medication,0,0,0,0
+depression,C3212097,medication,identity,auto,medication,0,0,0,0
+depression,C3212098,medication,identity,auto,medication,0,0,0,0
+depression,C3212581,medication,identity,auto,medication,0,0,0,0
+depression,C3212582,medication,identity,auto,medication,0,0,0,0
+depression,C3212583,medication,identity,auto,medication,0,0,0,0
+depression,C3212584,medication,identity,auto,medication,0,0,0,0
+depression,C3212599,medication,identity,auto,medication,0,0,0,0
+depression,C3212600,medication,identity,auto,medication,0,0,0,0
+depression,C3212601,medication,identity,auto,medication,0,0,0,0
+depression,C3212720,medication,identity,auto,medication,0,0,0,0
+depression,C3212721,medication,identity,auto,medication,0,0,0,0
+depression,C3212804,medication,identity,auto,medication,0,0,0,0
+depression,C3212805,medication,identity,auto,medication,0,0,0,0
+depression,C3213028,medication,identity,auto,medication,0,0,0,0
+depression,C3213029,medication,identity,auto,medication,0,0,0,0
+depression,C3213030,medication,identity,auto,medication,0,0,0,0
+depression,C3213222,medication,identity,auto,medication,0,0,0,0
+depression,C3213223,medication,identity,auto,medication,0,0,0,0
+depression,C3213224,medication,identity,auto,medication,0,0,0,0
+depression,C3213541,medication,identity,auto,medication,0,0,0,0
+depression,C3213542,medication,identity,auto,medication,0,0,0,0
+depression,C3213546,medication,identity,auto,medication,0,0,0,0
+depression,C3214239,medication,identity,auto,medication,0,0,0,0
+depression,C3214240,medication,identity,auto,medication,0,0,0,0
+depression,C3214241,medication,identity,auto,medication,0,0,0,0
+depression,C3214242,medication,identity,auto,medication,0,0,0,0
+depression,C3214243,medication,identity,auto,medication,0,0,0,0
+depression,C3215068,medication,identity,auto,medication,0,0,0,0
+depression,C3215069,medication,identity,auto,medication,0,0,0,0
+depression,C3215070,medication,identity,auto,medication,0,0,0,0
+depression,C3215119,medication,identity,auto,medication,0,0,0,0
+depression,C3215120,medication,identity,auto,medication,0,0,0,0
+depression,C3215121,medication,identity,auto,medication,0,0,0,0
+depression,C3215126,medication,identity,auto,medication,0,0,0,0
+depression,C3215127,medication,identity,auto,medication,0,0,0,0
+depression,C3215128,medication,identity,auto,medication,0,0,0,0
+depression,C3215129,medication,identity,auto,medication,0,0,0,0
+depression,C3215130,medication,identity,auto,medication,0,0,0,0
+depression,C3215192,medication,identity,auto,medication,0,0,0,0
+depression,C3215193,medication,identity,auto,medication,0,0,0,0
+depression,C3215194,medication,identity,auto,medication,0,0,0,0
+depression,C3215195,medication,identity,auto,medication,0,0,0,0
+depression,C3215279,medication,identity,auto,medication,0,0,0,0
+depression,C3215449,medication,identity,auto,medication,0,0,0,0
+depression,C3215613,medication,identity,auto,medication,0,0,0,0
+depression,C3215614,medication,identity,auto,medication,0,0,0,0
+depression,C3215782,medication,identity,auto,medication,0,0,0,0
+depression,C3215783,medication,identity,auto,medication,0,0,0,0
+depression,C3215800,medication,identity,auto,medication,0,0,0,0
+depression,C3215801,medication,identity,auto,medication,0,0,0,0
+depression,C3216024,medication,identity,auto,medication,0,0,0,0
+depression,C3217166,medication,identity,auto,medication,0,0,0,0
+depression,C3217167,medication,identity,auto,medication,0,0,0,0
+depression,C3217211,medication,identity,auto,medication,0,0,0,0
+depression,C3217277,medication,identity,auto,medication,0,0,0,0
+depression,C3217278,medication,identity,auto,medication,0,0,0,0
+depression,C3217791,medication,identity,auto,medication,0,0,0,0
+depression,C3217792,medication,identity,auto,medication,0,0,0,0
+depression,C3218120,medication,identity,auto,medication,0,0,0,0
+depression,C3218121,medication,identity,auto,medication,0,0,0,0
+depression,C3218122,medication,identity,auto,medication,0,0,0,0
+depression,C3218141,medication,identity,auto,medication,0,0,0,0
+depression,C3218142,medication,identity,auto,medication,0,0,0,0
+depression,C3218416,medication,identity,auto,medication,0,0,0,0
+depression,C3218417,medication,identity,auto,medication,0,0,0,0
+depression,C3218504,medication,identity,auto,medication,0,0,0,0
+depression,C3218505,medication,identity,auto,medication,0,0,0,0
+depression,C3218506,medication,identity,auto,medication,0,0,0,0
+depression,C3218793,medication,identity,auto,medication,0,0,0,0
+depression,C3218794,medication,identity,auto,medication,0,0,0,0
+depression,C3218795,medication,identity,auto,medication,0,0,0,0
+depression,C3218847,medication,identity,auto,medication,0,0,0,0
+depression,C3218848,medication,identity,auto,medication,0,0,0,0
+depression,C3218851,medication,identity,auto,medication,0,0,0,0
+depression,C3218852,medication,identity,auto,medication,0,0,0,0
+depression,C3218965,medication,identity,auto,medication,0,0,0,0
+depression,C3218966,medication,identity,auto,medication,0,0,0,0
+depression,C3218967,medication,identity,auto,medication,0,0,0,0
+depression,C3218968,medication,identity,auto,medication,0,0,0,0
+depression,C3218969,medication,identity,auto,medication,0,0,0,0
+depression,C3218970,medication,identity,auto,medication,0,0,0,0
+depression,C3218971,medication,identity,auto,medication,0,0,0,0
+depression,C3218972,medication,identity,auto,medication,0,0,0,0
+depression,C3218973,medication,identity,auto,medication,0,0,0,0
+depression,C3218974,medication,identity,auto,medication,0,0,0,0
+depression,C3219593,medication,identity,auto,medication,0,0,0,0
+depression,C3219594,medication,identity,auto,medication,0,0,0,0
+depression,C3219595,medication,identity,auto,medication,0,0,0,0
+depression,C3219617,medication,identity,auto,medication,0,0,0,0
+depression,C3219618,medication,identity,auto,medication,0,0,0,0
+depression,C3219619,medication,identity,auto,medication,0,0,0,0
+depression,C3249369,medication,identity,auto,medication,0,0,0,0
+depression,C3249484,medication,identity,auto,medication,0,0,0,0
+depression,C3249486,medication,identity,auto,medication,0,0,0,0
+depression,C3252139,medication,identity,auto,medication,0,0,0,0
+depression,C3267780,medication,identity,auto,medication,0,0,0,0
+depression,C3267782,medication,identity,auto,medication,0,0,0,0
+depression,C3465727,medication,identity,auto,medication,0,0,0,0
+depression,C3465850,medication,identity,auto,medication,0,0,0,0
+depression,C3465858,medication,identity,auto,medication,0,0,0,0
+depression,C3465906,medication,identity,auto,medication,0,0,0,0
+depression,C3465919,medication,identity,auto,medication,0,0,0,0
+depression,C3466046,medication,identity,auto,medication,0,0,0,0
+depression,C3466093,medication,identity,auto,medication,0,0,0,0
+depression,C3466127,medication,identity,auto,medication,0,0,0,0
+depression,C3466359,medication,identity,auto,medication,0,0,0,0
+depression,C3472761,medication,identity,auto,medication,0,0,0,0
+depression,C3495450,medication,seed,auto,medication,0,0,0,0
+depression,C3499668,medication,identity,auto,medication,0,0,0,0
+depression,C3499669,medication,identity,auto,medication,0,0,0,0
+depression,C3499671,medication,identity,auto,medication,0,0,0,0
+depression,C3536819,medication,seed,auto,medication,0,0,0,0
+depression,C3538402,medication,identity,auto,medication,0,0,0,0
+depression,C3538422,medication,identity,auto,medication,0,0,0,0
+depression,C3541367,medication,seed,auto,medication,0,0,0,0
+depression,C3651895,medication,identity,auto,medication,0,0,0,0
+depression,C3651908,medication,identity,auto,medication,0,0,0,0
+depression,C3652297,medication,identity,auto,medication,0,0,0,0
+depression,C3652339,medication,identity,auto,medication,0,0,0,0
+depression,C3653409,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C3663521,medication,seed,auto,medication,0,0,0,0
+depression,C3663522,medication,identity,auto,medication,0,0,0,0
+depression,C3663523,medication,identity,auto,medication,0,0,0,0
+depression,C3663524,medication,identity,auto,medication,0,0,0,0
+depression,C3663525,medication,identity,auto,medication,0,0,0,0
+depression,C3663527,medication,identity,auto,medication,0,0,0,0
+depression,C3663533,medication,identity,auto,medication,0,0,0,0
+depression,C3663537,medication,identity,auto,medication,0,0,0,0
+depression,C3663542,medication,identity,auto,medication,0,0,0,0
+depression,C3665170,medication,identity,auto,medication,0,0,0,0
+depression,C3667607,medication,seed,auto,medication,0,0,0,0
+depression,C3692162,medication,identity,auto,medication,0,0,0,0
+depression,C3692163,medication,identity,auto,medication,0,0,0,0
+depression,C3692164,medication,identity,auto,medication,0,0,0,0
+depression,C3692165,medication,identity,auto,medication,0,0,0,0
+depression,C3692166,medication,identity,auto,medication,0,0,0,0
+depression,C3692167,medication,identity,auto,medication,0,0,0,0
+depression,C3692171,medication,identity,auto,medication,0,0,0,0
+depression,C3701237,medication,identity,auto,medication,0,0,0,0
+depression,C3709436,medication,seed,auto,medication,0,0,0,0
+depression,C3818973,medication,closure,keep,medication,0,0,0,0
+depression,C3833267,medication,identity,auto,medication,0,0,0,0
+depression,C3855342,medication,identity,auto,medication,0,0,0,0
+depression,C3856251,medication,identity,auto,medication,0,0,0,0
+depression,C3858281,medication,identity,auto,medication,0,0,0,0
+depression,C3858312,medication,identity,auto,medication,0,0,0,0
+depression,C3858334,medication,identity,auto,medication,0,0,0,0
+depression,C3858335,medication,identity,auto,medication,0,0,0,0
+depression,C3883370,medication,identity,auto,medication,0,0,0,0
+depression,C3885614,medication,seed,auto,medication,0,0,0,0
+depression,C4018709,medication,identity,auto,medication,0,0,0,0
+depression,C4018716,medication,identity,auto,medication,0,0,0,0
+depression,C4026032,medication,identity,auto,medication,0,0,0,0
+depression,C4026296,medication,identity,auto,medication,0,0,0,0
+depression,C4033609,medication,identity,auto,medication,0,0,0,0
+depression,C4034016,medication,identity,auto,medication,0,0,0,0
+depression,C4034017,medication,identity,auto,medication,0,0,0,0
+depression,C4034018,medication,identity,auto,medication,0,0,0,0
+depression,C4034019,medication,identity,auto,medication,0,0,0,0
+depression,C4034020,medication,identity,auto,medication,0,0,0,0
+depression,C4034021,medication,identity,auto,medication,0,0,0,0
+depression,C4034087,medication,identity,auto,medication,0,0,0,0
+depression,C4034153,medication,identity,auto,medication,0,0,0,0
+depression,C4034154,medication,identity,auto,medication,0,0,0,0
+depression,C4049914,medication,identity,auto,medication,0,0,0,0
+depression,C4050975,medication,identity,auto,medication,0,0,0,0
+depression,C4060048,medication,identity,auto,medication,0,0,0,0
+depression,C4081319,medication,identity,auto,medication,0,0,0,0
+depression,C4081321,medication,identity,auto,medication,0,0,0,0
+depression,C4081323,medication,identity,auto,medication,0,0,0,0
+depression,C4081325,medication,identity,auto,medication,0,0,0,0
+depression,C4081327,medication,identity,auto,medication,0,0,0,0
+depression,C4081329,medication,identity,auto,medication,0,0,0,0
+depression,C4081331,medication,identity,auto,medication,0,0,0,0
+depression,C4081333,medication,identity,auto,medication,0,0,0,0
+depression,C4081335,medication,identity,auto,medication,0,0,0,0
+depression,C4081337,medication,identity,auto,medication,0,0,0,0
+depression,C4081339,medication,identity,auto,medication,0,0,0,0
+depression,C4081341,medication,identity,auto,medication,0,0,0,0
+depression,C4081361,medication,identity,auto,medication,0,0,0,0
+depression,C4276289,medication,identity,auto,medication,0,0,0,0
+depression,C4276290,medication,identity,auto,medication,0,0,0,0
+depression,C4276291,medication,identity,auto,medication,0,0,0,0
+depression,C4276342,medication,identity,auto,medication,0,0,0,0
+depression,C4276349,medication,identity,auto,medication,0,0,0,0
+depression,C4318206,medication,identity,auto,medication,0,0,0,0
+depression,C4318210,medication,identity,auto,medication,0,0,0,0
+depression,C4489863,medication,identity,auto,medication,0,0,0,0
+depression,C4489864,medication,identity,auto,medication,0,0,0,0
+depression,C4489865,medication,identity,auto,medication,0,0,0,0
+depression,C4489867,medication,identity,auto,medication,0,0,0,0
+depression,C4489874,medication,identity,auto,medication,0,0,0,0
+depression,C4489878,medication,identity,auto,medication,0,0,0,0
+depression,C4548848,medication,closure,keep,medication,0,0,0,0
+depression,C4704347,medication,identity,auto,medication,0,0,0,0
+depression,C4704348,medication,identity,auto,medication,0,0,0,0
+depression,C4704349,medication,identity,auto,medication,0,0,0,0
+depression,C4704351,medication,identity,auto,medication,0,0,0,0
+depression,C4708125,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+depression,C4719431,medication,identity,auto,medication,0,0,0,0
+depression,C4745811,medication,identity,auto,medication,0,0,0,0
+depression,C4762640,medication,identity,auto,medication,0,0,0,0
+depression,C4762641,medication,identity,auto,medication,0,0,0,0
+depression,C4762642,medication,identity,auto,medication,0,0,0,0
+depression,C4762645,medication,identity,auto,medication,0,0,0,0
+depression,C4765156,medication,identity,auto,medication,0,0,0,0
+depression,C4765157,medication,identity,auto,medication,0,0,0,0
+depression,C4765158,medication,identity,auto,medication,0,0,0,0
+depression,C4765160,medication,identity,auto,medication,0,0,0,0
+depression,C5136855,medication,identity,auto,medication,0,0,0,0
+depression,C5137037,medication,identity,auto,medication,0,0,0,0
+depression,C5137038,medication,identity,auto,medication,0,0,0,0
+depression,C5140532,medication,identity,auto,medication,0,0,0,0
+depression,C5140681,medication,identity,auto,medication,0,0,0,0
+depression,C5140682,medication,identity,auto,medication,0,0,0,0
+depression,C5140683,medication,identity,auto,medication,0,0,0,0
+depression,C5140684,medication,identity,auto,medication,0,0,0,0
+depression,C5140685,medication,identity,auto,medication,0,0,0,0
+depression,C5140686,medication,identity,auto,medication,0,0,0,0
+depression,C5207657,medication,identity,auto,medication,0,0,0,0
+depression,C5210308,medication,identity,auto,medication,0,0,0,0
+depression,C5210335,medication,identity,auto,medication,0,0,0,0
+depression,C5210336,medication,identity,auto,medication,0,0,0,0
+depression,C5227595,medication,closure,keep,medication,0,0,0,0
+depression,C5228862,medication,identity,auto,medication,0,0,0,0
+depression,C5384304,medication,identity,auto,medication,0,0,0,0
+depression,C5553561,medication,identity,auto,medication,0,0,0,0
+depression,C5574154,medication,identity,auto,medication,0,0,0,0
+depression,C5574155,medication,identity,auto,medication,0,0,0,0
+depression,C5576960,medication,identity,auto,medication,0,0,0,0
+depression,C5578965,medication,identity,auto,medication,0,0,0,0
+depression,C5578969,medication,identity,auto,medication,0,0,0,0
+depression,C5678685,medication,seed,auto,medication,0,0,0,0
+depression,C5679326,medication,seed,auto,medication,0,0,0,0
+depression,C5679485,medication,identity,auto,medication,0,0,0,0
+depression,C5679486,medication,identity,auto,medication,0,0,0,0
+depression,C5704186,medication,identity,auto,medication,0,0,0,0
+depression,C5704188,medication,identity,auto,medication,0,0,0,0
+depression,C5704189,medication,identity,auto,medication,0,0,0,0
+depression,C5704190,medication,identity,auto,medication,0,0,0,0
+depression,C5704192,medication,identity,auto,medication,0,0,0,0
+depression,C5778304,medication,identity,auto,medication,0,0,0,0
+depression,C5873679,medication,identity,auto,medication,0,0,0,0
+depression,C5873855,medication,identity,auto,medication,0,0,0,0
+depression,C5873856,medication,identity,auto,medication,0,0,0,0
+depression,C5873857,medication,identity,auto,medication,0,0,0,0
+depression,C5873878,medication,identity,auto,medication,0,0,0,0
+depression,C5873900,medication,identity,auto,medication,0,0,0,0
+depression,C5873901,medication,identity,auto,medication,0,0,0,0
+depression,C5881605,medication,identity,auto,medication,0,0,0,0
+depression,C5881606,medication,identity,auto,medication,0,0,0,0
+depression,C5881607,medication,identity,auto,medication,0,0,0,0
+depression,C5881608,medication,identity,auto,medication,0,0,0,0
+depression,C5881611,medication,identity,auto,medication,0,0,0,0
+depression,C5881617,medication,identity,auto,medication,0,0,0,0
+depression,C5881623,medication,identity,auto,medication,0,0,0,0
+depression,C5881629,medication,identity,auto,medication,0,0,0,0
+depression,C5966759,medication,identity,auto,medication,0,0,0,0
+depression,C5966865,medication,identity,auto,medication,0,0,0,0
+depression,C5982836,medication,identity,auto,medication,0,0,0,0
+depression,C6004920,medication,identity,auto,medication,0,0,0,0
+depression,C6054759,medication,identity,auto,medication,0,0,0,0
+depression,C6054760,medication,identity,auto,medication,0,0,0,0
+depression,C0010399,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0018235,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0018379,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0037421,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0065091,medication,seed,auto,other,0,0,0,0
+depression,C0108370,medication,identity,auto,other,0,0,0,0
+depression,C0150041,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0233498,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0424134,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C0476477,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C2987395,closure,one-hop neighbourhood,keep,other,0,0,0,0
+depression,C5941758,medication,seed,auto,other,0,0,0,0
+depression,C0020935,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0202230,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0394646,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+depression,C0430087,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+depression,C0436548,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0455803,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+depression,C0558000,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0846574,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0871787,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0872259,proposed,grounded,keep,procedure,0,0,0,0
+depression,C1321145,proposed,grounded,keep,procedure,0,0,0,0
+depression,C2142997,proposed,grounded,keep,procedure,0,0,0,0
+depression,C2227329,proposed,grounded,keep,procedure,0,0,0,0
+depression,C2350432,proposed,grounded,keep,procedure,0,0,0,0
+depression,C5889868,proposed,grounded,keep,procedure,0,0,0,0
+depression,C5940645,proposed,grounded,keep,procedure,0,0,0,0
+depression,C0086525,closure,one-hop neighbourhood,keep,symptom,0,0,0,0
+depression,C0233488,closure,one-hop neighbourhood,keep,symptom,0,0,0,0
+depression,C0233775,proposed,grounded,keep,symptom,0,0,0,0
+depression,C0235135,closure,one-hop neighbourhood,keep,symptom,0,0,0,0
+depression,C0235876,closure,one-hop neighbourhood,keep,symptom,0,0,0,0
+depression,C0455770,closure,one-hop neighbourhood,keep,symptom,0,0,0,0

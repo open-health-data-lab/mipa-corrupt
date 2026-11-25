@@ -1,0 +1,416 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+type_1_diabetes,C0027497,proposed,grounded,keep,symptom,1,2217,1,812
+type_1_diabetes,C0021641,closure,one-hop neighbourhood,keep,medication,1,1674,1,641
+type_1_diabetes,C0042963,proposed,grounded,keep,symptom,1,1531,1,579
+type_1_diabetes,C0004093,proposed,grounded,keep,symptom,1,633,1,236
+type_1_diabetes,C0009676,proposed,grounded,keep,disease,1,582,1,224
+type_1_diabetes,C0907402,medication,seed,auto,medication,1,546,1,172
+type_1_diabetes,C0015672,proposed,grounded,keep,symptom,1,483,1,134
+type_1_diabetes,C0528249,medication,identity,auto,medication,1,415,1,127
+type_1_diabetes,C0876064,medication,identity,auto,medication,1,342,1,125
+type_1_diabetes,C0011175,proposed,grounded,keep,disease,1,241,1,86
+type_1_diabetes,C0020456,closure,one-hop neighbourhood,keep,disease,1,241,1,119
+type_1_diabetes,C0011880,closure,one-hop neighbourhood,keep,disease,1,238,1,80
+type_1_diabetes,C0020615,closure,one-hop neighbourhood,keep,disease,1,210,1,82
+type_1_diabetes,C0011854,proposed,grounded,keep,disease,1,169,1,64
+type_1_diabetes,C0023380,proposed,grounded,keep,symptom,1,159,1,66
+type_1_diabetes,C0392201,closure,one-hop neighbourhood,keep,procedure,1,150,1,71
+type_1_diabetes,C0293359,medication,seed,auto,medication,1,133,1,51
+type_1_diabetes,C5979904,proposed,grounded,keep,procedure,1,119,1,49
+type_1_diabetes,C0020651,proposed,grounded,keep,disease,1,110,1,37
+type_1_diabetes,C0474680,proposed,grounded,keep,procedure,1,88,1,31
+type_1_diabetes,C0939412,medication,identity,auto,medication,1,79,1,21
+type_1_diabetes,C0000737,proposed,grounded,keep,symptom,1,77,1,26
+type_1_diabetes,C0344232,proposed,grounded,keep,finding,1,72,1,26
+type_1_diabetes,C0231835,proposed,grounded,keep,finding,1,65,1,21
+type_1_diabetes,C0123677,medication,seed,auto,medication,1,53,1,13
+type_1_diabetes,C1999162,proposed,grounded,keep,finding,1,38,1,23
+type_1_diabetes,C1262477,proposed,grounded,keep,finding,1,29,1,11
+type_1_diabetes,C0201519,proposed,grounded,keep,procedure,1,22,1,3
+type_1_diabetes,C0042023,closure,one-hop neighbourhood,keep,finding,1,20,1,5
+type_1_diabetes,C0032617,proposed,grounded,keep,symptom,1,19,1,2
+type_1_diabetes,C0085602,proposed,grounded,keep,symptom,1,16,1,4
+type_1_diabetes,C0162275,proposed,grounded,keep,finding,1,15,1,4
+type_1_diabetes,C0011884,proposed,grounded,keep,disease,1,12,1,3
+type_1_diabetes,C3538421,medication,identity,auto,medication,1,12,1,5
+type_1_diabetes,C0017979,proposed,grounded,keep,finding,1,11,1,2
+type_1_diabetes,C0021658,closure,one-hop neighbourhood,keep,medication,1,10,1,4
+type_1_diabetes,C0876055,medication,identity,auto,medication,1,10,1,1
+type_1_diabetes,C0030275,proposed,grounded,keep,procedure,1,9,0,0
+type_1_diabetes,C4056537,medication,identity,auto,medication,1,8,1,3
+type_1_diabetes,C0795633,medication,seed,keep,medication,1,7,1,4
+type_1_diabetes,C0795635,medication,seed,auto,medication,1,7,1,5
+type_1_diabetes,C3491971,medication,seed,auto,medication,1,6,0,0
+type_1_diabetes,C0232461,closure,one-hop neighbourhood,keep,finding,1,5,1,3
+type_1_diabetes,C1654827,medication,identity,auto,medication,1,5,1,5
+type_1_diabetes,C0028734,proposed,grounded,keep,disease,1,3,1,1
+type_1_diabetes,C0342302,closure,one-hop neighbourhood,keep,disease,1,3,1,1
+type_1_diabetes,C0020505,proposed,grounded,keep,finding,1,3,1,1
+type_1_diabetes,C0011849,closure,one-hop neighbourhood,keep,disease,1,2,0,0
+type_1_diabetes,C0043352,proposed,grounded,keep,disease,1,2,0,0
+type_1_diabetes,C0028467,medication,identity,auto,medication,1,2,1,1
+type_1_diabetes,C1320655,closure,one-hop neighbourhood,keep,disease,1,1,0,0
+type_1_diabetes,C0421258,closure,one-hop neighbourhood,keep,finding,1,1,0,0
+type_1_diabetes,C1295585,proposed,grounded,keep,finding,1,1,1,1
+type_1_diabetes,C4718438,proposed,grounded,keep,finding,1,1,0,0
+type_1_diabetes,C0304866,closure,one-hop neighbourhood,keep,medication,1,1,1,1
+type_1_diabetes,C0306371,medication,identity,auto,medication,1,1,1,1
+type_1_diabetes,C0307073,medication,identity,auto,medication,1,1,0,0
+type_1_diabetes,C0770206,closure,one-hop neighbourhood,keep,medication,1,1,0,0
+type_1_diabetes,C5707881,medication,seed,auto,anatomy,0,0,0,0
+type_1_diabetes,C5827886,medication,identity,auto,anatomy,0,0,0,0
+type_1_diabetes,C5827917,medication,seed,auto,anatomy,0,0,0,0
+type_1_diabetes,C0004606,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0006852,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0011877,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0011881,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0014394,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0035320,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0043207,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0154172,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0154178,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0154180,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0154182,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0154830,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0154834,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0154836,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0205734,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0271636,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0271637,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0271686,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0339467,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0341893,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0342261,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0342294,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0348917,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0375114,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0494279,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0494284,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0554876,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0567407,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0579065,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0581383,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0677625,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C0730285,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0740447,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0837011,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C0851207,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C1263961,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C1279303,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C1299613,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C1306674,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C1456868,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C1720194,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C1720598,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C1739108,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C1855303,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C1960272,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C3495814,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C3662019,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C3662020,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C3839440,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C3839722,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C3874843,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C4015436,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C4303434,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C4551693,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C4709311,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C5396911,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C5818640,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C5818641,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C5847615,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+type_1_diabetes,C5847622,disorder,descendant closure,auto,disease,0,0,0,0
+type_1_diabetes,C5849277,proposed,grounded,keep,disease,0,0,0,0
+type_1_diabetes,C0235429,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C0271053,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C0421257,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+type_1_diabetes,C0541813,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C0558845,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C1855520,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C1857108,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C2609269,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C2732401,disorder,descendant closure,auto,finding,0,0,0,0
+type_1_diabetes,C2732402,disorder,descendant closure,auto,finding,0,0,0,0
+type_1_diabetes,C2919432,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C4073162,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C5194445,proposed,grounded,keep,finding,0,0,0,0
+type_1_diabetes,C0564621,proposed,grounded,keep,lab_result,0,0,0,0
+type_1_diabetes,C0020172,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0021659,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C0021662,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C0021663,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C0041616,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C0042456,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0306369,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0306604,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0307070,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0537551,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0591612,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0592572,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0592573,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0592576,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0700576,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0721034,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0721036,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0721039,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0724600,medication,seed,keep,medication,0,0,0,0
+type_1_diabetes,C0724601,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0724603,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0730683,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0730746,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0730793,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0731471,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0731479,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0731480,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0731481,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0731482,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0770201,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770209,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770213,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770221,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770226,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770228,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770230,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770232,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0770234,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0795636,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0982217,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0982219,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0982221,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0982224,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0982226,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C0991832,medication,seed,keep,medication,0,0,0,0
+type_1_diabetes,C0993223,medication,seed,keep,medication,0,0,0,0
+type_1_diabetes,C1141031,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141032,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141039,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141047,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141048,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141053,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141084,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141085,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141086,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141087,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141088,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141095,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141096,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141097,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141098,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141099,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1141111,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145787,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145788,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145789,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145795,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145796,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145797,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145819,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145950,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1145970,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146004,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146006,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146014,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146015,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146016,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146286,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146287,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146288,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146289,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146290,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146291,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146293,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146294,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146295,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146451,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146452,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1146501,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1170011,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C1171259,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1174779,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C1174780,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1176436,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1176519,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1176520,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1176521,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1176522,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1177285,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1177286,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1177287,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1178545,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1186900,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1186902,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1251111,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1251112,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1251142,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253202,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253204,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253218,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253219,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253221,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253223,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253225,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253281,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253288,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253321,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253340,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253341,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253344,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253384,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253385,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253386,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253388,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253438,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1253439,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1254213,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1263285,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1263481,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1313386,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C1364460,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1364469,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1364473,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370424,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370690,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370693,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370694,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370695,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370697,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370698,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370699,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1370721,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1375016,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1383025,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1383027,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1562561,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C1577146,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1577147,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1577161,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1577367,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1578390,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1589409,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1699399,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C1708521,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C2608697,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2608698,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2683540,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2683554,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2719806,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2719808,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C2743673,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C3211882,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211883,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211884,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211885,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211886,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211887,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211888,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211889,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211890,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211891,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211892,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211893,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211895,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3211896,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3212428,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3212430,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3212431,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3212432,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3213769,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3213770,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3214330,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3215058,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3216025,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3217164,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3217165,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3219089,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3538423,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3538428,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3661220,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3834216,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3834483,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3892970,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C3893130,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4020235,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4020238,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026140,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026349,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026350,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026490,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026605,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026661,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026665,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026669,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026763,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026879,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4026880,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4027095,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4027165,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4034114,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4056767,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4056768,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4056811,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4056841,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4074690,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4081042,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4293359,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4293577,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4293608,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4294565,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4294705,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4294715,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4529885,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4535340,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4541355,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4541356,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4541357,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4721874,closure,one-hop neighbourhood,keep,medication,0,0,0,0
+type_1_diabetes,C4745492,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C4745833,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5188228,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5188229,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5188231,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5389884,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C5390911,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5390917,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5391118,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5391119,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5550690,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5564171,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C5564172,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5564175,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5761814,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C5763205,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5763275,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5763294,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5763302,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5828151,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5828177,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5828190,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5981743,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C5981744,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C5981748,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C6017464,medication,seed,auto,medication,0,0,0,0
+type_1_diabetes,C6017480,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C6017591,medication,identity,auto,medication,0,0,0,0
+type_1_diabetes,C0306434,medication,identity,auto,other,0,0,0,0
+type_1_diabetes,C0005803,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0029161,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0036812,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0079646,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0202025,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0202042,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0202046,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0202054,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0202098,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0202100,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0202515,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0428530,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0428567,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0430377,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0523640,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0523674,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+type_1_diabetes,C0555179,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0583513,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0994103,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C2022086,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C4523945,proposed,grounded,keep,procedure,0,0,0,0
+type_1_diabetes,C0016708,closure,one-hop neighbourhood,keep,symptom,0,0,0,0

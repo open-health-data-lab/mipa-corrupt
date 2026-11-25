@@ -1,0 +1,78 @@
+[Unit]
+Description=MIPA Experiment 1 — corruption robustness over OpenRouter
+After=network-online.target
+Wants=network-online.target
+
+# No start-limit, deliberately. The tempting setting is a burst cap so a
+# misconfiguration cannot loop — but the two failures are not symmetric. A bad
+# key fails before any request is made, so a loop costs log lines and nothing
+# else, and `preflight` exists to catch it beforehand. Giving up part-way
+# through a three-hour OpenRouter outage costs the rest of the day. So it keeps
+# retrying.
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=mipa
+WorkingDirectory=/opt/mipa-corrupt
+
+# The key is fetched from Secret Manager by `resolve_key` using the VM's service
+# account. It is never written to this file, to the environment file, to disk, or
+# to the journal. Do not add an `Environment=OPENROUTER_API_KEY=` line here —
+# systemd unit files are world-readable and `systemctl show` prints them.
+# Project and bucket are site configuration, not source. `bootstrap.sh` writes
+# them to this file from the VM's own environment, so a unit file that anyone
+# can read (`systemctl show` prints it) names no infrastructure.
+EnvironmentFile=/etc/mipa-exp1.env
+Environment=PYTHONUNBUFFERED=1
+Environment=MIPA_ROOT=/opt/mipa-corrupt
+Environment=MIPA_RUN_ID=run1
+Environment=MIPA_CONCURRENCY=12
+Environment=MIPA_PER_MODEL=3
+# First pass: the two models DeepInfra serves directly and fast (measured at
+# 1.7 s and 2.4 s median). `gemma-3-27b-it` is left for a second pass — its
+# five providers fluctuate in health, and a slow window there would hold up
+# results for the other two. Clearing this variable runs all three.
+# Quoted, and that is required rather than stylistic: systemd splits an
+# unquoted `Environment=` line on whitespace and reads each fragment as a
+# separate assignment, so the second model was silently dropped with only
+# an "Invalid environment assignment" line in the journal. The run started
+# on one model instead of two.
+Environment="MIPA_MODELS=google/gemma-3-4b-it google/gemma-3-12b-it"
+
+ExecStart=/usr/local/bin/mipa-run-and-publish
+
+# `run` exits 0 only when every prediction is answered, and nonzero otherwise —
+# so `on-failure` restarts an interrupted run and stops cleanly on a finished
+# one. `always` would relaunch the completed run every 60s forever.
+Restart=on-failure
+RestartSec=60
+
+# SIGTERM stops enqueuing and lets in-flight requests land. The old 180s was
+# derived from one request timeout, which is not the bound that applies: a
+# worker already inside the retry ladder can hold on for 8 attempts x 120s
+# timeout plus 246s of backoff — 20 minutes — so every `systemctl stop` hit the
+# deadline and SIGKILLed, and the graceful path never once ran to completion.
+#
+# 600s is deliberately short of that worst case rather than above it. The drain
+# finishes in seconds in the normal case; a worker still stuck after ten minutes
+# is one waiting on a ladder that will most likely fail anyway, and SIGKILL
+# there costs only the in-flight requests. It cannot corrupt the store, which is
+# transactional, and the restart resumes from the completed keys.
+KillSignal=SIGTERM
+TimeoutStopSec=600
+
+# The process holds one condition's notes (~5 MB), the completed-key set
+# (~60 MB at full scale) and the in-flight request bodies. 1.5 GB is generous on
+# a 2 GB instance and turns a leak into a restart rather than an OOM-kill of
+# something else on the box.
+MemoryMax=1500M
+
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/opt/mipa-corrupt/data/mipa_exp1
+
+[Install]
+WantedBy=multi-user.target

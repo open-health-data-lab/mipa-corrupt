@@ -1,0 +1,355 @@
+phenotype,cui,facet,provenance,vetted,category,in_corpus,corpus_mentions,in_sample,sample_mentions
+deep_vein_thrombosis,C0149871,proposed,grounded,keep,disease,1,727,1,305
+deep_vein_thrombosis,C0003281,proposed,grounded,keep,procedure,1,354,1,151
+deep_vein_thrombosis,C0239340,proposed,grounded,keep,disease,1,178,1,65
+deep_vein_thrombosis,C0581394,proposed,grounded,keep,disease,1,125,1,52
+deep_vein_thrombosis,C0085649,finding,declared seed,auto,disease,1,106,1,42
+deep_vein_thrombosis,C0333243,proposed,grounded,keep,finding,1,102,1,36
+deep_vein_thrombosis,C0042487,closure,one-hop neighbourhood,keep,disease,1,88,1,31
+deep_vein_thrombosis,C0151950,proposed,grounded,keep,disease,1,88,1,25
+deep_vein_thrombosis,C0030605,proposed,grounded,keep,procedure,1,79,1,29
+deep_vein_thrombosis,C0155773,closure,one-hop neighbourhood,keep,disease,1,34,1,15
+deep_vein_thrombosis,C0236040,proposed,grounded,keep,symptom,1,34,1,13
+deep_vein_thrombosis,C0238883,proposed,grounded,keep,symptom,1,32,1,11
+deep_vein_thrombosis,C0239376,proposed,grounded,keep,symptom,1,19,1,15
+deep_vein_thrombosis,C0040046,closure,one-hop neighbourhood,keep,disease,1,18,1,7
+deep_vein_thrombosis,C0031545,closure,one-hop neighbourhood,keep,procedure,1,13,1,7
+deep_vein_thrombosis,C0272416,disorder,descendant closure,auto,disease,1,10,1,7
+deep_vein_thrombosis,C0241374,proposed,grounded,keep,symptom,1,7,1,4
+deep_vein_thrombosis,C0589110,disorder,descendant closure,auto,disease,1,6,0,0
+deep_vein_thrombosis,C2940579,medication,identity,auto,medication,1,6,1,1
+deep_vein_thrombosis,C0267412,disorder,descendant closure,auto,disease,1,5,0,0
+deep_vein_thrombosis,C0549289,disorder,descendant closure,auto,disease,1,4,1,2
+deep_vein_thrombosis,C3536663,disorder,descendant closure,auto,disease,1,4,1,3
+deep_vein_thrombosis,C2940576,medication,identity,auto,medication,1,3,0,0
+deep_vein_thrombosis,C2717899,proposed,grounded,keep,disease,1,2,1,2
+deep_vein_thrombosis,C0238882,proposed,grounded,keep,finding,1,2,1,1
+deep_vein_thrombosis,C0745889,proposed,grounded,keep,finding,1,2,1,2
+deep_vein_thrombosis,C0034065,proposed,grounded,keep,disease,1,1,0,0
+deep_vein_thrombosis,C0340708,proposed,grounded,keep,disease,1,1,1,1
+deep_vein_thrombosis,C0340714,proposed,grounded,keep,disease,1,1,1,1
+deep_vein_thrombosis,C0749087,proposed,grounded,keep,disease,1,1,1,1
+deep_vein_thrombosis,C0856761,disorder,descendant closure,auto,disease,1,1,0,0
+deep_vein_thrombosis,C5942671,proposed,grounded,keep,disease,1,1,1,1
+deep_vein_thrombosis,C0749356,proposed,grounded,keep,finding,1,1,0,0
+deep_vein_thrombosis,C2242817,proposed,grounded,keep,procedure,1,1,0,0
+deep_vein_thrombosis,C4552495,proposed,grounded,keep,symptom,1,1,1,1
+deep_vein_thrombosis,C0019154,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0031556,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0149961,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0151946,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0151947,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0155770,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0155772,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0157514,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0157516,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0157517,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235504,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0235507,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235508,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0235509,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235510,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235513,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235533,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0235781,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0238367,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265050,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265053,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265058,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0265060,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265061,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0265062,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265063,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0265065,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0265066,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0265067,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0265068,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0269953,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0269954,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0277919,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340692,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340704,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0340705,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0340706,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340707,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340711,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340712,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340715,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340717,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0340718,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0340720,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0340725,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0342039,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0342044,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0343525,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0347880,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0347883,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0347884,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0347885,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0347886,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0347887,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0520596,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0521535,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0521537,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0521539,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0559488,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0574014,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0587220,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0729940,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0741872,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0743004,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0745497,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0745820,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0747763,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0749086,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0749848,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0852958,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0853347,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0857136,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0919631,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C0948415,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1263829,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1290394,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C1299611,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C1321632,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1411610,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C1735901,proposed,grounded,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1868778,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1997614,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C1998193,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C1998403,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103937,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103938,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103941,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103942,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103945,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2103946,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2115938,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2585480,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2728544,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2728999,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C2729017,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2733024,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C2733479,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3266651,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3536664,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3536665,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3645991,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3645992,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3645993,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3649714,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3650449,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3661946,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3662859,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3696904,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3696943,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3697708,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C3698443,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698445,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698446,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698447,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698450,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698452,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698453,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698454,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698455,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698456,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698457,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698458,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698459,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698460,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698461,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698462,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3698463,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3839983,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3840260,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C3874485,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4039497,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4039770,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4040362,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047620,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047621,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047622,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047623,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047624,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047673,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047693,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047694,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047695,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047696,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047697,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047726,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047727,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047730,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047731,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047732,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047733,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047734,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047735,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047736,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047737,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047738,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047739,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047740,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047741,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047742,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047743,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047744,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047745,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047746,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047755,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047756,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047757,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047761,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047762,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047763,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047764,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047772,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047773,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047774,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047775,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047776,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047777,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047778,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047783,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047784,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047785,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047787,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047788,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047789,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047791,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047793,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047794,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047795,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047796,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047797,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047798,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047799,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047800,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047801,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047802,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047803,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047804,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047805,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047806,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047828,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4047829,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4048020,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4082928,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4087275,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4280864,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4280917,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4303061,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4303196,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4303695,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4303717,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4316652,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4316653,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4509801,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4510107,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4511616,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4520248,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520270,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520285,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520286,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520298,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520315,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520317,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520318,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520319,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520320,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520321,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520343,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520347,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4520485,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706626,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706728,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706740,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706741,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706743,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706745,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706746,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706747,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C4706764,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4706765,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4706766,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4706791,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C4706792,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5230638,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5230660,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5230661,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5395814,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437275,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437276,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437300,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437301,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437302,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5437310,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5446076,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5546766,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5547413,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547414,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547415,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547416,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547417,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547430,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547431,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547872,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547873,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5547874,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5687842,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5687843,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5699929,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5769433,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5817238,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5817239,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5817240,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5817258,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5826208,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5826210,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5879658,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5879659,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5879660,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5879661,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5879821,closure,one-hop neighbourhood,keep,disease,0,0,0,0
+deep_vein_thrombosis,C5920947,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5922550,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5922551,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C5922552,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C6008169,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C6008170,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C6009519,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C6009520,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C6009521,disorder,descendant closure,auto,disease,0,0,0,0
+deep_vein_thrombosis,C0240098,closure,one-hop neighbourhood,keep,finding,0,0,0,0
+deep_vein_thrombosis,C2081506,proposed,grounded,keep,finding,0,0,0,0
+deep_vein_thrombosis,C0427596,proposed,grounded,keep,lab_result,0,0,0,0
+deep_vein_thrombosis,C1571583,medication,seed,auto,medication,0,0,0,0
+deep_vein_thrombosis,C2343849,medication,seed,auto,medication,0,0,0,0
+deep_vein_thrombosis,C2940577,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C2940650,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C3211079,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C3211080,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C4060375,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574143,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574144,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574145,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574146,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574185,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C5574201,medication,identity,auto,medication,0,0,0,0
+deep_vein_thrombosis,C0032222,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0033707,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0162481,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0200462,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0427612,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0522841,closure,one-hop neighbourhood,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0584619,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C1142517,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C1295005,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C1690005,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C2733531,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C3853850,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C4737197,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C5442469,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C5780530,proposed,grounded,keep,procedure,0,0,0,0
+deep_vein_thrombosis,C0231781,proposed,grounded,keep,symptom,0,0,0,0
